@@ -1,0 +1,77 @@
+--เว็บพนัน--
+
+||upfastfile88.com^
+||loungeyjg.pics^
+
+! --- เว็บลบแบนเนอร์โฆษณาทุกจุด ---
+kub24hd.com##.promo-banners
+kub24hd.com##div.container.mx-auto.py-2.flex.flex-row.flex-wrap
+! --- เว็บลบแบนเนอร์โฆษณาทุกจุด ---
+kub24hd.com##.promo-banners
+kub24hd.com##div.container.mx-auto.py-2.flex.flex-row.flex-wrap
+
+! --- ลบโฆษณาซ้าย-ขวาที่ลอยขนาบข้าง (Fixed Ads) ---
+kub24hd.com##div[style*="position: fixed"]
+kub24hd.com##div[style*="position: absolute"]:has(a[target="_blank"])
+
+! --- ลบป๊อปอัพกากบาท (Popup Overlay) ---
+kub24hd.com##div[id*="popup"]
+kub24hd.com##div[class*="modal"]
+
+! --- แก้ไขอาการหน้าเว็บเลื่อนไม่ได้ (ถ้ามี) ---
+kub24hd.com##html:style(overflow: auto !important; height: auto !important;)
+kub24hd.com##body:style(overflow: auto !important; height: auto !important;)
+
+! --- 1. ลบแบนเนอร์ทุกตำแหน่ง (บน กลาง ล่าง) ---
+25-hd.com##.banner
+25-hd.com##.main-banner
+25-hd.com##.banner-content-center
+
+! --- 2. ลบโฆษณาขนาบซ้าย-ขวา ---
+25-hd.com##.banner-float
+25-hd.com##.banner-f-left-1
+25-hd.com##.banner-f-right-1
+25-hd.com##.sidebar-banner-left
+25-hd.com##.sidebar-banner-right
+
+! --- 3. ลบโฆษณาตรงตัวเล่นหนัง (สำคัญมาก) ---
+25-hd.com##.player-promo-box
+25-hd.com##.player-overlay-ad
+
+! --- 4. ลบ Pop-up และส่วนเกินที่บังจอ ---
+25-hd.com##div[id*="popup"]
+25-hd.com##div[class*="popup"]
+
+! --- 037 / 25-HD Cleanup (ชุดที่ใช้งานได้จริง) ---
+037hddmovie.com###fix_footer2
+037hddmovie.com###banner-left
+037hddmovie.com###banner-right
+037hddmovie.com##.player-ads
+037hddmovie.com##.ads-player
+25-hd.com##.banner
+25-hd.com##.player-promo-box
+
+037hddmovie.com## #fix_footer2
+037hddmovie.com## #banner-left
+||magbup.com^
+||1ts18.top^
+||037hddmovie.com/banner
+||037hddmovie.com/ads
+
+! --- ลบแบนเนอร์ขวาที่อาจหลุดจากกฎเดิม ---
+037hddmovie.com## #banner-right
+
+! --- Web Movie / General ---
+kub24hd.com##main > div:nth-of-type(2) > div:nth-of-type(2)
+1tubehd.com###sticky_mobile_bottom_inner
+
+! --- Web Adult (Strict Domain Locking) ---
+supreme-porn.com###uOCEXPUs
+abxxx.com###app > div.app__wrapper:last-child > div.app__container > div:nth-child(2) > div.wrapper.banner:first-child > section > div
+alotporn.com##div.video-controls
+sexu.name##ul.info__list
+hdsex.org###video-page > div.player-section__ads-banners
+freshponline.com###vgf
+freshponline.com###vgf > div:first-child
+exotichot.com###ydp
+sexsiteguru.com##div[id^="vy"]
