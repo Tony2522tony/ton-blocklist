@@ -82,3 +82,7 @@ freshponline.com###vgf
 freshponline.com###vgf > div:first-child
 exotichot.com###ydp
 sexsiteguru.com##div[id^="vy"]
+f1.videojav.online##.video-page__wrapper > section:first-child
+txxx.com##div.hgvvrhirhicchvkooviic
+japflaps.com##div.wrapper:nth-child(13) > main.main:nth-child(2) > div.container:nth-child(2)
+zbporn.com##div.wrapper:nth-child(2) > div.block-t:nth-child(4) > div:first-child
