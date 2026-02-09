@@ -1,8 +1,8 @@
 ! Title: 💊 Ton Mobile Blocklist
-! Description: Custom mobile ads + annoyance + redirect + layout fixes
+! Description: Custom mobile ads
 ! Version: 2026.02.09-01
 ! Expires: 1 days
-! Homepage: https://github.com/Tony2522tony/ton-blocklist
+!Homepage:https://github.com/Tony2522tony/ton-blocklist
 ! License: MIT
 !
 
