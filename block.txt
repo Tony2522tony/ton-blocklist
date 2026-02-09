@@ -1,6 +1,6 @@
 ! Title: 💊 Ton Mobile Blocklist
 ! Description: Custom mobile ads
-! Version: 02.09-01
+! Version: 09.2.2027
 ! Expires: 1 days
 ! License: MIT
 !
@@ -71,7 +71,7 @@ kub24hd.com##body:style(overflow: auto !important; height: auto !important;)
 kub24hd.com##main > div:nth-of-type(2) > div:nth-of-type(2)
 1tubehd.com###sticky_mobile_bottom_inner
 
-! --- Web Adult (Strict Domain Locking) ---
+! --- Web Adult (Strict Domain Locking) --
 supreme-porn.com###uOCEXPUs
 abxxx.com###app > div.app__wrapper:last-child > div.app__container > div:nth-child(2) > div.wrapper.banner:first-child > section > div
 alotporn.com##div.video-controls
