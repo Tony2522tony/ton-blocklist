@@ -1,4 +1,10 @@
-! Ton blocklist
+! Title: Ton block
+! Description: Custom mobile anti-ads + layout fix
+! Version: 0.5
+! Expires: 1 days
+! Homepage: https://github.com/yourname
+! License: MIT
+!
 --เว็บพนัน--
 
 ||upfastfile88.com^
