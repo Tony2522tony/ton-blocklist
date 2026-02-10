@@ -1,6 +1,6 @@
 ! Title: 💊 Ton Mobile Blocklist (SAFE)
 ! Description: Mobile ads + fake popup cleanup (no login break)
-! Version: 2.0
+! Version: 2.1.0
 !
 
 ! ===== redirect / trash domains =====
@@ -96,3 +96,65 @@ xfeed.com##div#video-js-page div.prm-wrapper.nocopy:first-child
 
 ! === global fake link killer ===
 ##a[href*="get?go="]
+
+! ===== xhand =====
+xhand.com##iframe
+xhand.com##div[class*="ads"]
+xhand.com##div[class*="banner"]
+xhand.com##div[style*="position: fixed"]
+
+! ===== iceporn =====
+m.iceporn.club##p.vertical
+
+! ===== analdin =====
+analdin.com##a.brazzers-link.brazzers-link-desktop
+
+! ===== analdin =====
+analdin.com###scrollhere
+analdin.com##div[id="index-main-container"] > div[class*="ads"]
+
+! ===== bdsmx =====
+f1.bdsmx.vip##div.header__item
+f1.bdsmx.vip##div.fah-btn.nopop
+f1.bdsmx.vip###embed_code83366
+f1.bdsmx.vip##article
+
+! ===== winporn =====
+m.winporn.club###mobile-header-1
+
+! ===== inporn =====
+f1.inporn.vip##section.wkurrkkrfkurkrfnfkrrk
+f1.inporn.vip##section.urnnpukpfkrrfnfkrrk
+f1.inporn.vip##div.video-info__sites
+f1.inporn.vip##div.video-info__items
+f1.inporn.vip##article
+f1.inporn.vip##div[style*="position: fixed"]
+f1.inporn.vip##body:style(overflow:auto!important;)
+
+! ===== sex3 =====
+sex3.com##div.block-info
+
+! ===== jizzbunker SAFE =====
+jizzbunker.com###partner-items-2 > div.panel.panel-default.gallery
+jizzbunker.com###content > div.gallery-item:first-child > div.mob-aft-plr:nth-child(9)
+jizzbunker.com###scrollTarget
+
+! ===== pornoxo SAFE =====
+pornoxo.com##div.adblock
+pornoxo.com##div[class*="popup"]
+pornoxo.com##a[href*="go"]
+pornoxo.com##a:nth-child(4) > div
+pornoxo.com##div[style*="position: fixed"]
+pornoxo.com##body:style(overflow:auto!important;)
+
+! ===== abjav =====
+abjav.me##div.header__item.header_mobile
+abjav.me##div[data-v-4c6c26b0][style]
+
+! ===== empflix =====
+empflix.com###bannerBlock_head
+! ===== hd21 mobile =====
+m.hd21.com###mobile-middle-1
+m.hd21.com###mobile-middle-2
+
+
