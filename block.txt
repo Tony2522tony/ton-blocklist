@@ -1,10 +1,43 @@
 ! Title: 💊 Ton Mobile Blocklist
 ! Description: Custom mobile ads
-! Version: 09.2.2027
+! Version: 10.2.2027
 ! Expires: 1 days
 ! License: MIT
 !
 
+##body > section:style(display:none!important;height:0!important;margin:0!important;padding:0!important;)
+##main > div > div > div:nth-of-type(2) > div > section:style(display:none!important;height:0!important;margin:0!important;padding:0!important;)
+##body:has(section):style(overflow:auto!important;)
+##main:has(section):style(filter:none!important;)
+important;height:0!important;margin:0!important;padding:0!important;)
+
+##+js(aopr, open)
+##+js(aopr, window.open)
+##+js(aopr, location.assign)
+##+js(aopr, location.replace)
+
+! japan-whores.com cosmetic hide
+japan-whores.com##main > div:nth-of-type(2) > div:first-child
+japan-whores.com##main > div:nth-of-type(2) > iframe:first-of-type
+
+pornuse.com##main > div:nth-of-type(2) > div > section
+
+pornl.com##main > div > div > div:nth-of-type(2) > div > section
+
+f1.manysex.vip##main > div > div > div:nth-of-type(2) > div > div > section
+f1.manysex.vip##main > div > div > div:first-of-type
+f1.manysex.vip##body:style(overflow:auto!important;)
+f1.manysex.vip##html:style(overflow:auto!important;)
+
+ooxxx.vip##main > div > div > div:nth-of-type(2) > div > section
+xbabe.com##body > section:first-of-type > div:nth-of-type(3)
+
+f1.upornia.online##main > div > div > div:nth-of-type(2) section
+f1.upornia.online##body:style(overflow:auto!important;)
+f1.upornia.online##html:style(overflow:auto!important;)
+f1.upornia.online##main:style(filter:none!important;)
+
+videojav.com##iframe.na
 --เว็บพนัน--
 ||upfastfile88.com^
 ||loungeyjg.pics^
