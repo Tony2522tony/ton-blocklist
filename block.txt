@@ -5,17 +5,6 @@
 ! License: MIT
 !
 
-##body > section:style(display:none!important;height:0!important;margin:0!important;padding:0!important;)
-##main > div > div > div:nth-of-type(2) > div > section:style(display:none!important;height:0!important;margin:0!important;padding:0!important;)
-##body:has(section):style(overflow:auto!important;)
-##main:has(section):style(filter:none!important;)
-important;height:0!important;margin:0!important;padding:0!important;)
-
-##+js(aopr, open)
-##+js(aopr, window.open)
-##+js(aopr, location.assign)
-##+js(aopr, location.replace)
-
 ! japan-whores.com cosmetic hide
 japan-whores.com##main > div:nth-of-type(2) > div:first-child
 japan-whores.com##main > div:nth-of-type(2) > iframe:first-of-type
