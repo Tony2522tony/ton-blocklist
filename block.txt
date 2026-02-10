@@ -1,6 +1,6 @@
 ! Title: 💊 Ton Mobile Blocklist
 ! Description: Custom mobile ads
-! Version: 10.2.2027
+! Version: 10-2
 ! Expires: 1 days
 ! License: MIT
 !
