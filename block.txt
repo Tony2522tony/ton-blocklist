@@ -1,6 +1,6 @@
 ! Title: 💊 Ton Mobile Blocklist (SAFE)
 ! Description: Mobile ads + fake popup cleanup (no login break)
-! Version: 2.2.0
+! Version: 2.2.1
 !
 
 duckduckgo.com##div[class*="mobile-atb-banner"]
@@ -20,7 +20,7 @@ pornl.com##main > div > div > div:nth-of-type(2) > div > section
 pornl.com##div[data-v-eb7d8f10][style]
 
 ! ===== manysex =====
-f1.manysex.vip##main > div > div > div:nth-of-type(2) > div > div > section
+
 f1.manysex.vip##main > div > div > div:first-of-type
 f1.manysex.vip##body:style(overflow:auto!important;)
 f1.manysex.vip##html:style(overflow:auto!important;)
