@@ -1,8 +1,9 @@
 ! Title: 💊 Ton Mobile Blocklist (SAFE)
 ! Description: Mobile ads + fake popup cleanup (no login break)
-! Version: 2.1.0
+! Version: 2.2.0
 !
 
+duckduckgo.com##div[class*="mobile-atb-banner"]
 ! ===== redirect / trash domains =====
 ||magbup.com^
 ||1ts18.top^
@@ -47,12 +48,7 @@ kub24hd.com##body:style(overflow:auto!important;)
 25-hd.com##.player-overlay-ad
 25-hd.com##div[class*="popup"]
 
-! ===== 037hddmovie =====
-037hddmovie.com###fix_footer2
-037hddmovie.com###banner-left
-037hddmovie.com###banner-right
-037hddmovie.com##.player-ads
-037hddmovie.com##.ads-player
+
 
 ! ===== misc adult =====
 supreme-porn.com###uOCEXPUs
@@ -157,4 +153,122 @@ empflix.com###bannerBlock_head
 m.hd21.com###mobile-middle-1
 m.hd21.com###mobile-middle-2
 
+! ===== xxxfiles =====
+xxxfiles.com##.header_spot
+xxxfiles.com##.center-spot
+xxxfiles.com##.spot_footer
+xxxfiles.com##.video-side__adv_title
+xxxfiles.com##.adv-list
+xxxfiles.com##iframe.na
+xxxfiles.com##div[class*="spot"]
+xxxfiles.com##body > div:nth-of-type(3) > div > div > div:nth-of-type(3)
 
+! ===== jizzbunker =====
+jizzbunker.com##.mob-aft-plr
+
+! ===== videojav =====
+f1.videojav.online##section h4
+
+! ===== yeptube =====
+m.yeptube.club##div.splitup.ad
+m.yeptube.club##.livecams_main
+m.yeptube.club##.twocolumns
+
+! ===== pornlib =====
+pornlib.com##span.spot-title
+pornlib.com##div.sspots.middle_mobile_adv
+pornlib.com##body:style(overflow:auto!important;)
+
+! ===== txxx =====
+txxx.me##div[class*="suggest"]
+txxx.me##div.dhikriicichhdd
+
+! ===== hot-sex-tube =====
+hot-sex-tube.com###ntv
+hot-sex-tube.com##div[align][style]
+
+! ===== f1.manysex.vip =====
+f1.manysex.vip##div.fah-btn.nopop
+f1.manysex.vip##div.comments
+f1.manysex.vip##div.headline
+f1.manysex.vip##section
+f1.manysex.vip##div.suggestion-wrapper
+f1.manysex.vip##body:style(overflow:auto!important;)
+
+
+! ===== porngo.com =====
+porngo.com###list_videos_related_videos_madrid_items > div.adv-list:last-child > iframe.na:first-child
+porngo.com##div.wrapper:nth-child(4) > div.main:nth-child(3) > div.container > div.video-block:nth-child(2) > div.underplayer_banner:nth-child(3)
+porngo.com##div.wrapper:nth-child(4) > div.main:nth-child(3) > div.container > div.video-side__adv_title.spot_title:nth-child(4)
+porngo.com##div.wrapper:nth-child(4) > div.main:nth-child(3) > div.container > div.spot_footer:last-child
+
+! ===== sexvid.xxx =====
+sexvid.xxx###fltd-inner
+sexvid.xxx##div.wrapper:nth-child(2) > div.spot-holder.top:nth-child(2)
+sexvid.xxx##div.wrapper:nth-child(2) > div.main:nth-child(3) > div.block_main:nth-child(2) > div.media-holder:first-child > div.cs:nth-child(3)
+sexvid.xxx##div.wrapper:nth-child(2) > div.main:nth-child(3) > div.block_main:nth-child(2) > div.spot-holder.under-player:nth-child(2)
+
+! ===== f1.hclips.online =====
+f1.hclips.online##section[data-v][style]:remove()
+f1.hclips.online##div[class*="cyr"]
+f1.hclips.online##div.partners-wrap
+f1.hclips.online##div.video__wrapper > section:not(:first-child)
+f1.hclips.online##div.video__wrapper > section:first-child > div
+f1.hclips.online##div.video__wrapper > div.wrapper:nth-last-child(-n+2)
+f1.hclips.online##body:style(overflow:auto!important;)
+! xxxdan
+xxxdan.com###scrollTarget
+
+! ===== m.viptube.com =====
+m.viptube.com##p.vertical
+
+! ===== winporn =====
+m.winporn.club###mobile-middle-1
+! ===== pornl =====
+pornl.com##div.partners-wrap
+pornl.com##div.fah-btn
+pornl.com##div[class*="nik"]
+pornl.com##div.video-page__mobile-tags
+pornl.com##div.video-page__info > div:last-child
+pornl.com##body:style(overflow:auto!important;)
+
+! ===== eporner =====
+eporner.com###admobilefootinside
+! ===== senzuri =====
+senzuri.tube##div.emfnsffsfsmmee
+
+! ===== javdaddy =====
+javdaddy.com##div.sug-bnrs
+javdaddy.com##div.footer-banners
+
+! ===== japflaps =====
+japflaps.com##div.wrapper > main > div.container > div:last-child
+japflaps.com##div[class*="promo"]
+japflaps.com##iframe[src*="ads"]
+japflaps.com##body:style(overflow:auto!important;)
+
+! ===== japflaps =====
+japflaps.com##div.wrapper:nth-child(2) > main.main:nth-child(2) > div.container:nth-child(2)
+japflaps.com##div.wrapper:nth-child(2) > main.main:nth-child(2) > div:last-child
+! ===== japflaps header ad =====
+japflaps.com##div.pink-avd-wrapper
+
+! ===== videojav =====
+videojav.com##div.center-spot
+videojav.com##div.mobile-device
+videojav.com##div.video-side__adv_title.spot_title
+videojav.com##iframe.na
+videojav.com##body:style(overflow:auto!important;)
+
+! ===== xhamster =====
+th.xhamster.com##div[class*="popup"]
+th.xhamster.com##div[class*="withShadow"]
+th.xhamster.com##div.subscribe-block__wrapper
+th.xhamster.com##div.subscribe-block__container
+th.xhamster.com##div[class*="header-"]
+th.xhamster.com##div[class*="itemContainer-"]
+th.xhamster.com##div[class*="scrollable-"]
+th.xhamster.com##body:style(overflow:auto!important;)
+th.xhamster.com##div[class*="LSBA"]
+! ===== tubewolf =====
+m.tubewolf.com##div.top-banners
