@@ -1,6 +1,6 @@
 ! Title: 💊 Ton Mobile Blocklist (SAFE)
 ! Description: Mobile ads + fake popup cleanup (no login break)
-! Version: 2.2.1
+! Version: 2.2.2
 !
 
 duckduckgo.com##div[class*="mobile-atb-banner"]
@@ -67,9 +67,6 @@ f1.keporn.vip##section[data-v-0d8da4a2][style]
 ! ===== run.porn =====
 run.porn###inp_iframe-rpnm-runp_mobile_header_300x100
 
-! === redirect / ad brokers ===
-||takedmca.com^
-||cr.adsappier.com^
 
 ! === keporn fake overlays ===
 f1.keporn.vip##div[class*="popup"]
@@ -90,8 +87,6 @@ xfeed.com###tags-pills
 xfeed.com##div.prm-wrapper.nocopy
 xfeed.com##div#video-js-page div.prm-wrapper.nocopy:first-child
 
-! === global fake link killer ===
-##a[href*="get?go="]
 
 ! ===== xhand =====
 xhand.com##iframe
