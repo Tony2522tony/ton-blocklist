@@ -1,9 +1,53 @@
 ! Title: 💊 Ton Mobile Blocklist (SAFE)
 ! Description: Mobile ads + fake popup cleanup (no login break)
-! Version: 2.2.2
+! Version: 2.3.0
 !
 
 duckduckgo.com##div[class*="mobile-atb-banner"]
+
+! ===== videojav =====
+f1.videojav.online##.video-page__mobile-user
+f1.videojav.online##.underplayer > section
+f1.videojav.online##.fah-btn.nopop
+f1.videojav.online##.video-page__wrapper > section:first-child
+f1.videojav.online##.dvjqbqqrkjdbdbvvrr
+f1.videojav.online##.video-page__wrapper > section:nth-child(6)
+
+! ===== yourlust =====
+m.yourlust.com###headB
+m.yourlust.com###headMA
+
+! remove empty gaps
+m.yourlust.com##body:style(margin-top:0!important)
+m.yourlust.com##.adsbygoogle:remove()
+
+! ===== iceporn =====
+m.iceporn.club###comment-box
+
+! ===== hot-sex-tube CLEAN =====
+hot-sex-tube.com##div[class*="adv"],div[class*="banner"],iframe[src*="ads"],#ntv,div:empty,section:empty,div[style*="min-height"]
+hot-sex-tube.com##body,html:style(overflow:auto!important;)
+hot-sex-tube.com##main:style(min-height:auto!important;)
+
+! ===== xmilf (more cleanup) =====
+f1.xmilf.vip###fhvids
+f1.xmilf.vip##article
+
+f1.xmilf.vip##div.header__item
+f1.xmilf.vip##div.left > section
+f1.xmilf.vip##div[data-v-7318280d][style]
+
+! ===== pornuse =====
+pornuse.com##div[class*="bgqf"]
+
+! ===== gfthai =====
+f1.gfthai.vip##div[data-v-231de013][style]
+f1.gfthai.vip##div[data-v-9bd22d7d]
+f1.gfthai.vip##section[data-v-0d8da4a2][style]
+
+! ===== hotmovs.tube =====
+hotmovs.tube##div.ywgqqcccccwwg
+
 ! ===== redirect / trash domains =====
 ||magbup.com^
 ||1ts18.top^
@@ -19,17 +63,9 @@ pornuse.com##main > div:nth-of-type(2) > div > section
 pornl.com##main > div > div > div:nth-of-type(2) > div > section
 pornl.com##div[data-v-eb7d8f10][style]
 
-! ===== manysex =====
-
-f1.manysex.vip##main > div > div > div:first-of-type
-f1.manysex.vip##body:style(overflow:auto!important;)
-f1.manysex.vip##html:style(overflow:auto!important;)
-
 ! ===== upornia =====
 f1.upornia.online##main > div > div > div:nth-of-type(2) section
 f1.upornia.online##body:style(overflow:auto!important;)
-f1.upornia.online##html:style(overflow:auto!important;)
-f1.upornia.online##main:style(filter:none!important;)
 
 ! ===== kub24hd =====
 kub24hd.com##.promo-banners
@@ -48,8 +84,6 @@ kub24hd.com##body:style(overflow:auto!important;)
 25-hd.com##.player-overlay-ad
 25-hd.com##div[class*="popup"]
 
-
-
 ! ===== misc adult =====
 supreme-porn.com###uOCEXPUs
 alotporn.com##div.video-controls
@@ -66,7 +100,6 @@ f1.keporn.vip##section[data-v-0d8da4a2][style]
 
 ! ===== run.porn =====
 run.porn###inp_iframe-rpnm-runp_mobile_header_300x100
-
 
 ! === keporn fake overlays ===
 f1.keporn.vip##div[class*="popup"]
@@ -86,7 +119,6 @@ pornl.com##div[data-v-eb7d8f10][style]
 xfeed.com###tags-pills
 xfeed.com##div.prm-wrapper.nocopy
 xfeed.com##div#video-js-page div.prm-wrapper.nocopy:first-child
-
 
 ! ===== xhand =====
 xhand.com##iframe
@@ -144,6 +176,7 @@ abjav.me##div[data-v-4c6c26b0][style]
 
 ! ===== empflix =====
 empflix.com###bannerBlock_head
+
 ! ===== hd21 mobile =====
 m.hd21.com###mobile-middle-1
 m.hd21.com###mobile-middle-2
@@ -177,10 +210,9 @@ pornlib.com##body:style(overflow:auto!important;)
 ! ===== txxx =====
 txxx.me##div[class*="suggest"]
 txxx.me##div.dhikriicichhdd
-
-! ===== hot-sex-tube =====
-hot-sex-tube.com###ntv
-hot-sex-tube.com##div[align][style]
+txxx.me##div.oorvrhogvir
+txxx.me##a.fh-line.fh-nomargin
+txxx.me##div[style*="position: fixed"]
 
 ! ===== f1.manysex.vip =====
 f1.manysex.vip##div.fah-btn.nopop
@@ -190,12 +222,9 @@ f1.manysex.vip##section
 f1.manysex.vip##div.suggestion-wrapper
 f1.manysex.vip##body:style(overflow:auto!important;)
 
-
 ! ===== porngo.com =====
 porngo.com###list_videos_related_videos_madrid_items > div.adv-list:last-child > iframe.na:first-child
 porngo.com##div.wrapper:nth-child(4) > div.main:nth-child(3) > div.container > div.video-block:nth-child(2) > div.underplayer_banner:nth-child(3)
-porngo.com##div.wrapper:nth-child(4) > div.main:nth-child(3) > div.container > div.video-side__adv_title.spot_title:nth-child(4)
-porngo.com##div.wrapper:nth-child(4) > div.main:nth-child(3) > div.container > div.spot_footer:last-child
 
 ! ===== sexvid.xxx =====
 sexvid.xxx###fltd-inner
@@ -212,6 +241,7 @@ f1.hclips.online##div.video__wrapper > section:first-child > div
 f1.hclips.online##div.video__wrapper > div.wrapper:nth-last-child(-n+2)
 f1.hclips.online##body:style(overflow:auto!important;)
 ! xxxdan
+
 xxxdan.com###scrollTarget
 
 ! ===== m.viptube.com =====
@@ -219,6 +249,7 @@ m.viptube.com##p.vertical
 
 ! ===== winporn =====
 m.winporn.club###mobile-middle-1
+
 ! ===== pornl =====
 pornl.com##div.partners-wrap
 pornl.com##div.fah-btn
@@ -245,6 +276,7 @@ japflaps.com##body:style(overflow:auto!important;)
 ! ===== japflaps =====
 japflaps.com##div.wrapper:nth-child(2) > main.main:nth-child(2) > div.container:nth-child(2)
 japflaps.com##div.wrapper:nth-child(2) > main.main:nth-child(2) > div:last-child
+
 ! ===== japflaps header ad =====
 japflaps.com##div.pink-avd-wrapper
 
@@ -255,15 +287,26 @@ videojav.com##div.video-side__adv_title.spot_title
 videojav.com##iframe.na
 videojav.com##body:style(overflow:auto!important;)
 
-! ===== xhamster =====
-th.xhamster.com##div[class*="popup"]
-th.xhamster.com##div[class*="withShadow"]
-th.xhamster.com##div.subscribe-block__wrapper
-th.xhamster.com##div.subscribe-block__container
-th.xhamster.com##div[class*="header-"]
-th.xhamster.com##div[class*="itemContainer-"]
-th.xhamster.com##div[class*="scrollable-"]
-th.xhamster.com##body:style(overflow:auto!important;)
-th.xhamster.com##div[class*="LSBA"]
 ! ===== tubewolf =====
 m.tubewolf.com##div.top-banners
+
+! ===== vivatube =====
+m.vivatube.com##div.whack.adv
+m.vivatube.com##div.loader-ajax
+m.vivatube.com##h2
+
+! ===== iceporn =====
+m.iceporn.club##.livecams_main
+m.iceporn.club##div:nth-of-type(13)
+
+! ===== ooxxx.vip =====
+ooxxx.vip##div.item-thumb
+ooxxx.vip##div.item-title
+ooxxx.vip##div.video-page__tags.tags
+ooxxx.vip##span.fah-btn__label
+ooxxx.vip##.aocxoxxwgcaoaoooww
+
+! vue inline ad blocks
+ooxxx.vip##section[data-v-3c8e57fc][style]
+ooxxx.vip##section[data-v-d451f38c][style]
+ooxxx.vip##div[data-v-01d10732]
