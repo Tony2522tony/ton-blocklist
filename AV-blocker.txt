@@ -1,6 +1,6 @@
 ! Title: 🔞 Ton AV Mini Block
 ! Description: Light universal a
-! Version: 1.0.3
+! Version: 1.0.4
 ! Maintainer: Tony2522tony
 ! Last updated: 2026-02-12
 
@@ -29,3 +29,14 @@
 ||magbup.com^
 ||upfastfile88.com^
 ||loungeyjg.pics^
+
+! ===== collapse empty ad containers =====
+##div:has(> iframe):style(display:none!important;)
+##div[class*="ad"]:style(display:none!important;)
+##div[class*="ads"]:style(display:none!important;)
+##div[class*="banner"]:style(display:none!important;)
+##div[class*="promo"]:style(display:none!important;)
+##div[class*="video-ad"]:style(display:none!important;)
+
+! remove reserved height blocks
+##div[style*="height"]:has(iframe):style(height:0!important;padding:0!important;margin:0!important;)
