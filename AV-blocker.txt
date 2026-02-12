@@ -1,12 +1,10 @@
 ! Title: 🔞 Ton AV Block (SAFE)
-! Description: Adult popup 
-! Version: 1.1.2
+! Description: Adult popup + ads + gap
+! Version: 1.3.1
 ! Maintainer: Tony2522tony
-! Last updated: 2026-02-12
 
-############################
-# popup / modal cleanup
-############################
+############ popup ############
+
 ##div[class*="popup"]
 ##div[class*="modal"]
 ##div[class*="overlay"]
@@ -15,23 +13,27 @@
 ##div[class*="adv"]
 ##iframe[src*="ads"]
 
-############################
-# collapse empty gaps
-############################
+############ collapse gaps ############
+
+##div:has(> iframe)
+##div[class*="ad"]
+##section[class*="ad"]
+##aside[class*="ad"]
+
+############ force remove space ############
+
 ##div:has(> iframe):style(display:none!important;)
 ##div[class*="ad"]:style(display:none!important;)
 ##section[class*="ad"]:style(display:none!important;)
 ##aside[class*="ad"]:style(display:none!important;)
 
-############################
-# restore scroll
-############################
+############ restore scroll ############
+
 ##body:style(overflow:auto!important;)
 ##html:style(overflow:auto!important;)
 
-############################
-# redirect trash domains
-############################
+############ redirect trash ############
+
 ||1ts18.top^
 ||magbup.com^
 ||upfastfile88.com^
