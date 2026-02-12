@@ -1,6 +1,6 @@
 ! Title: 🔞 Ton AV Mini Block
 ! Description: Light universal adult cleanup (no layout break)
-! Version: 1.0.1
+! Version: 0.5
 
 ##div[class*="popup"]:remove()
 ##div[class*="modal"]:remove()
