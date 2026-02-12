@@ -1,11 +1,30 @@
 ! Title: 🔞 Ton AV Mini Block
-! Description: Light universal adult cleanup (no layout break)
-! Version: 1.0.0
+! Description: Light universal a
+! Version: 1.0.2
+! Maintainer: Tony2522tony
+! Last updated: 2026-02-12
 
+########################
+# popup / modal cleanup
+########################
 ##div[class*="popup"]:remove()
 ##div[class*="modal"]:remove()
+##div[class*="overlay"]:remove()
+
+########################
+# common ad containers
+########################
 ##iframe[src*="ads"]
 
+########################
+# restore scroll (safe)
+########################
+##body:style(overflow:auto!important;)
+##html:style(overflow:auto!important;)
+
+########################
+# redirect / trash domains
+########################
 ||1ts18.top^
 ||magbup.com^
 ||upfastfile88.com^
