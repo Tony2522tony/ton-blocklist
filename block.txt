@@ -1,9 +1,74 @@
 ! Title: 💊 Ton Mobile Blocklist (SAFE)
 ! Description: Mobile ads + fake popup cleanup (no login break)
-! Version: 2.3.0
+! Version: 2.3.1 
 !
 
+! ===== META =====
+||connect.facebook.net^
+||graph.facebook.com^
+||analytics.facebook.com^
+||pixel.facebook.com^
+||www.facebook.com/tr^
+||business.facebook.com^
+||ads.facebook.com^
+||staticxx.facebook.com^
+||edge-mqtt.facebook.com^
+
+! ===== TIKTOK =====
+||ads.tiktok.com^
+||analytics.tiktok.com^
+||log.byteoversea.com^
+||log.tiktokv.com^
+||mon.tiktokv.com^
+||business-api.tiktok.com^
+||api.tiktokads.com^
+! ===== XIAOMI =====
+||tracking.miui.com^
+||data.mistat.xiaomi.com^
+||api.ad.xiaomi.com^
+||sdkconfig.ad.xiaomi.com^
+||globalapi.ad.xiaomi.com^
+||resolver.msg.xiaomi.net^
+
+! ===== HUAWEI =====
+||metrics.data.hicloud.com^
+||logservice.hicloud.com^
+||ads.cloud.huawei.com^
+||logservice1.hicloud.com^
+||metrics1.data.hicloud.com^
+! ===duckduckgo.com====
 duckduckgo.com##div[class*="mobile-atb-banner"]
+
+! ===== PORNTOP EXTRA CLEAN =====
+porntop.com##div[class*="inst"]
+porntop.com##div.video-header
+porntop.com##h4:has-text(Sponsored)
+porntop.com##div[class*="promo"]
+porntop.com##div[class*="banner"]
+porntop.com##div[class*="inst"]
+
+! ===== 037hddmovie.com =====
+
+037hddmovie.com###ads_fix_footer
+037hddmovie.com###banner-left > div
+
+! collapse space
+037hddmovie.com##div:has(>#ads_fix_footer)
+037hddmovie.com##div:has(>#banner-left)
+! img ad cleanup
+037hddmovie.com##img.img-responsive
+037hddmovie.com##div:has(> img.img-responsive)
+037hddmovie.com##img.img-responsive:upward(div)
+! remove empty blocks
+037hddmovie.com##div:empty
+037hddmovie.com##section:empty
+! restore scroll
+037hddmovie.com##body:style(overflow:auto!important;)
+037hddmovie.com##html:style(overflow:auto!important;)
+
+! restore scroll
+037hddmovie.com##body:style(overflow:auto!important;)
+037hddmovie.com##html:style(overflow:auto!important;)
 
 ! ===== videojav =====
 f1.videojav.online##.video-page__mobile-user
@@ -16,7 +81,6 @@ f1.videojav.online##.video-page__wrapper > section:nth-child(6)
 ! ===== yourlust =====
 m.yourlust.com###headB
 m.yourlust.com###headMA
-
 ! remove empty gaps
 m.yourlust.com##body:style(margin-top:0!important)
 m.yourlust.com##.adsbygoogle:remove()
@@ -32,7 +96,6 @@ hot-sex-tube.com##main:style(min-height:auto!important;)
 ! ===== xmilf (more cleanup) =====
 f1.xmilf.vip###fhvids
 f1.xmilf.vip##article
-
 f1.xmilf.vip##div.header__item
 f1.xmilf.vip##div.left > section
 f1.xmilf.vip##div[data-v-7318280d][style]
@@ -47,12 +110,8 @@ f1.gfthai.vip##section[data-v-0d8da4a2][style]
 
 ! ===== hotmovs.tube =====
 hotmovs.tube##div.ywgqqcccccwwg
-
-! ===== redirect / trash domains =====
-||magbup.com^
-||1ts18.top^
-||upfastfile88.com^
-||loungeyjg.pics^
+hotmovs.com##div.lcwywwwgwgccll
+hotmovs.com##div.wrapper--video > div:nth-child(9):remove()
 
 ! ===== japan / pornuse =====
 japan-whores.com##main > div:nth-of-type(2) > div:first-child
@@ -242,6 +301,7 @@ f1.hclips.online##div.video__wrapper > div.wrapper:nth-last-child(-n+2)
 f1.hclips.online##body:style(overflow:auto!important;)
 ! xxxdan
 
+!.xxxdan.com
 xxxdan.com###scrollTarget
 
 ! ===== m.viptube.com =====
@@ -306,7 +366,33 @@ ooxxx.vip##div.video-page__tags.tags
 ooxxx.vip##span.fah-btn__label
 ooxxx.vip##.aocxoxxwgcaoaoooww
 
-! vue inline ad blocks
+! ooxxx.vip
 ooxxx.vip##section[data-v-3c8e57fc][style]
 ooxxx.vip##section[data-v-d451f38c][style]
 ooxxx.vip##div[data-v-01d10732]
+
+!.xozilla.xxx
+xozilla.xxx##div.container:nth-child(4) > div.content:nth-child(2) > div.headline.video-page-headline:nth-child(2) > p:nth-child(2)
+xozilla.xxx##div.container:nth-child(4) > div.content:nth-child(2)
+xozilla.xxx##div.container:nth-child(4) > div:nth-child(7)
+
+!.pornsteak.com
+pornsteak.com##.coockie_warning .content
+pornsteak.com##div.opt.adv-responsive
+
+! pornone promo strip
+pornone.com##div.flex.items-center.col-span-full.overflow-x-scroll
+
+! ===== spankbang SAFE =====
+spankbang.com##.ad-wrapper
+spankbang.com##span.video-inline-ads
+spankbang.com##div[style*="position: fixed"]
+spankbang.com##body,html:style(overflow:auto!important;)
+
+! ===== pornone SAFE =====
+pornone.com##.ad-container
+pornone.com##.adsbygoogle
+pornone.com##div[class*="promo"]
+pornone.com##iframe[src*="ads"]
+pornone.com##div[style*="position: fixed"]
+pornone.com##body,html:style(overflow:auto!important;)
