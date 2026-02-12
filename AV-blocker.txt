@@ -1,42 +1,42 @@
-! Title: 🔞 Ton AV Mini Block
-! Description: Light universal a
-! Version: 1.0.4
+! Title: 🔞 Ton AV Block (SAFE)
+! Description: Adult popup + ads cleanup with gap collapse (mobile friendly)
+! Version: 1.1.0
 ! Maintainer: Tony2522tony
 ! Last updated: 2026-02-12
 
-########################
+############################
 # popup / modal cleanup
-########################
-##div[class*="popup"]:remove()
-##div[class*="modal"]:remove()
-##div[class*="overlay"]:remove()
+############################
 
-########################
-# common ad containers
-########################
+##div[class*="popup"]
+##div[class*="modal"]
+##div[class*="overlay"]
+##div[class*="promo"]
+##div[class*="banner"]
+##div[class*="adv"]
 ##iframe[src*="ads"]
 
-########################
-# restore scroll (safe)
-########################
+############################
+# collapse empty gaps
+############################
+
+##div:has(> iframe):style(display:none!important;)
+##div[class*="ad"]:style(display:none!important;)
+##section[class*="ad"]:style(display:none!important;)
+##aside[class*="ad"]:style(display:none!important;)
+
+############################
+# restore scroll
+############################
+
 ##body:style(overflow:auto!important;)
 ##html:style(overflow:auto!important;)
 
-########################
-# redirect / trash domains
-########################
+############################
+# redirect trash domains
+############################
+
 ||1ts18.top^
 ||magbup.com^
 ||upfastfile88.com^
 ||loungeyjg.pics^
-
-! ===== collapse empty ad containers =====
-##div:has(> iframe):style(display:none!important;)
-##div[class*="ad"]:style(display:none!important;)
-##div[class*="ads"]:style(display:none!important;)
-##div[class*="banner"]:style(display:none!important;)
-##div[class*="promo"]:style(display:none!important;)
-##div[class*="video-ad"]:style(display:none!important;)
-
-! remove reserved height blocks
-##div[style*="height"]:has(iframe):style(height:0!important;padding:0!important;margin:0!important;)
