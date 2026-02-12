@@ -1,6 +1,6 @@
 ! Title: 🔞 Ton AV Block (SAFE)
-! Description: Adult popup + ads 
-! Version: 1.1.1
+! Description: Adult popup 
+! Version: 1.1.2
 ! Maintainer: Tony2522tony
 ! Last updated: 2026-02-12
 
