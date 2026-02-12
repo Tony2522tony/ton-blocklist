@@ -1,7 +1,90 @@
 ! Title: 💊 Ton Mobile Blocklist (SAFE)
 ! Description: Mobile ads + fake popup cleanup (no login break)
-! Version: 2.3.1 
+! Version: 2.4
 !
+
+! ===== BUSTYBUS.COM CLEAN =====
+bustybus.com##div.b-mobile-spots
+
+! ===== TXXX.ME CLEAN =====
+txxx.me##div[class*="suggest"]
+txxx.me##div[class*="video-comments"]
+txxx.me##div[class*="info-hide"]
+txxx.me##div[class*="adv"]
+txxx.me##div[class*="sugg"]
+
+! ===== PORNDIG.COM CLEAN =====
+porndig.com##div.content_section_stories_homepage
+
+! ===== SUPJAV.COM =====
+supjav.com##div.movv-ad
+
+! ===== HQPORNER.COM (MOBILE) CLEAN =====
+m.hqporner.com##div.banner-ad
+m.hqporner.com##div.adbg
+m.hqporner.com##div.container-300x100
+m.hqporner.com##a > div[class*="ad"]
+
+! ===== EPORNER.COM =====
+eporner.com###cppbar
+eporner.com###commentdiv
+eporner.com##div.video-description
+eporner.com##center
+eporner.com##div.vidresultsbottom
+
+! ===== XBABE CLEAN =====
+xbabe.com##div.bnnrs-top
+xbabe.com##div.h100
+
+! ===== SUNPORNO CLEAN =====
+sunporno.com##a.player-cams-button.upd-source.no-tab.above-player-button
+sunporno.com##div.tah-desktop-spot
+sunporno.com##div:nth-of-type(3) > div
+
+! ===== TNAFLIX CLEAN =====
+tnaflix.com##div.profile-header
+
+! ===== FPO.xxx CLEAN =====
+fpo.xxx##center
+fpo.xxx##div[align="center"]
+
+! ===== ANALDIN.xxx FINAL CLEAN =====
+analdin.xxx###scrollhere
+analdin.xxx##div[width][align]
+analdin.xxx##div.container > div[class*="ad"]
+analdin.xxx##p[style]
+! ===== XHAMSTER FINAL SAFE =====
+xhamster.com##div[class*="popup"]
+xhamster.com##div[role="dialog"]
+xhamster.com##div[class*="withShadow"]
+
+xhamster.com##.subscribe-block__wrapper
+xhamster.com##a[href*="/cam"]
+xhamster.com##div[class*="promo"]
+xhamster.com##div[class*="premium"]
+
+xhamster.com##div.header-a85ac
+xhamster.com##div.itemContainer-a85ac
+xhamster.com##div.scrollable-a85ac
+xhamster.com##div[class^="tUQ-nF"]
+xhamster.com##ul > div
+
+xhamster.com##div.container-f57ba
+
+! ===== PORNTOP CLEAN =====
+porntop.com##div.__inst-container
+porntop.com##div.video-header
+
+! ===== porm.xxx =====
+fak.xxx,tubehall.com,porm.xxx##li.adv-responsive
+
+! ===== HEREPORN.COM CLEAN =====
+hereporn.com##div.adv-responsive
+
+! ===== green.porn เพิ่มได้=====
+fak.xxx,tubehall.com,porm.xxx,xxx.fak,green.porn##div.coockie_warning.brd
+
+hereporn.com,fak.xxx,tubehall.com,porm.xxx,xxx.fak,green.porn##div.coockie_warning.brd:style(display:none!important)
 
 ! ===== META =====
 ||connect.facebook.net^
