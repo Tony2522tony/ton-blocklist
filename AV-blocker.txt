@@ -1,6 +1,6 @@
 ! Title: 🔞 Ton AV Mini Block
 ! Description: Light universal a
-! Version: 1.0.2
+! Version: 1.0.3
 ! Maintainer: Tony2522tony
 ! Last updated: 2026-02-12
 
