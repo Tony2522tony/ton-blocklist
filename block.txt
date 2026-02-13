@@ -1,12 +1,19 @@
 ! Title: 💊 Ton Mobile Blocklist (SAFE)
 ! Description: Mobile ads + fake popup cleanup (no login break)
-! Version: 2.4.5
+! Version: 2.4.6
 !
 
 ! ===== PUSSYSPACE FIX =====
 @@||*.cdn77.org^$image,domain=pussyspace.com
 @@||*.xvideos-cdn.com^$image,domain=pussyspace.com
 @@||hotmovs.com^$elemhide
+wetsins.com##iframe[src*="ads"]
+wetsins.com##div[style*="position: fixed"]
+
+! ===== JAVFUN.ME CLEAN SAFE =====
+www3.javfun.me##center:has-text(Sponsored)
+www3.javfun.me##iframe[src*="ads"]
+www3.javfun.me##iframe[src*="doubleclick"]
 ! ===== XOZILLA.COM =====
 xozilla.com##scrollhere
 xozilla.com##div[align]
