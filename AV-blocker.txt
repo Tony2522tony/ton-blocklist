@@ -1,59 +1,31 @@
 ! Title: 🔞 Ton AV Block (SAFE)
 ! Description: Adult popup + ads + gap
-! Version: 1.3.3
+! Version: 1.3.4
 ! Maintainer: Tony2522tony
-
-! ===== SAFE MASTER LIST ======
-
-! ===== TELEMETRY / TAGS =====
-||1439396738.rsc.cdn77.org^
-||1405924075.rsc.cdn77.org^
-
-! ===== GOOGLE LOGIN (DOMAIN SAFE) =====
-accounts.google.com##div#credential_picker_container
-accounts.google.com##iframe#credential_picker_iframe
-||accounts.google.com/gsi^
-
-! ===== UMENG / CHINA TRACKING =====
-||oslogs.umeng.com^
-||cnlogs.umengcloud.com^
-||resolve.umeng.com^
-||utoken.umeng.com^
-||alog.umeng.com^
-||errlog.umeng.com^
-||plbslog.umeng.com^
-||errnewlog.umeng.com^
-||collector.xhsocial.com^
 
 ! ===== METRICS =====
 ||fp.metricswpsh.com^
 ||metricswpsh.com^
-
 ! ===== CDN TRACK =====
 ||image.cdnend.com^
-
 ! ===== REDIRECT / AFFILIATE =====
 ||bngtrak.com^
 ||flepquix.com^
 ||fh-wgt.com^
 ||go.awdeliverynet.com^
-
-! ===== GAMBLING =====
+! ===== พนัน =====
 ||1ts18.top^
 ||upfastfile88.com^
 ||loungeyjg.pics^
-
 ! ===== GOOGLE ADS =====
 ||doubleclick.net^
 ||googlesyndication.com^
 ||googleadservices.com^
 ||google-analytics.com^
 ||googleads.g.doubleclick.net^$third-party
-
 ! ===== APPLE ADS =====
 ||api-adservices.apple.com^
 ||ads.mzstatic.com^
-
 ! ===== INTIMATEDIARY (COSMETIC SAFE) =====
 intimatediary.com##div[class*="ad"]
 
