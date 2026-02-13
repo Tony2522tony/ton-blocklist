@@ -1,41 +1,40 @@
 ! Title: 🔞 Ton AV Block (SAFE)
 ! Description: Adult popup + ads + gap
-! Version: 1.3.7
+! Version: 1.3.8
 ! Maintainer: Tony2522tony
 
-! ===== META =====
+! ===== TON AV BLOCKER (SAFE EDITION) =====
+! Purpose: Block ads & trackers only (no site break)
+
+! ===== META / TRACKING =====
+
+! Facebook / Meta
 ||connect.facebook.net^
 ||graph.facebook.com^
 ||analytics.facebook.com^
-||pixel.facebook.com^
-||www.facebook.com/tr^
-||business.facebook.com^
 ||ads.facebook.com^
-||staticxx.facebook.com^
-||edge-mqtt.facebook.com^
 
-! ===== TIKTOK =====
+! TikTok
 ||ads.tiktok.com^
 ||analytics.tiktok.com^
-||log.byteoversea.com^
-||log.tiktokv.com^
-||mon.tiktokv.com^
-||business-api.tiktok.com^
-||api.tiktokads.com^
-! ===== XIAOMI =====
-||tracking.miui.com^
-||data.mistat.xiaomi.com^
-||api.ad.xiaomi.com^
-||sdkconfig.ad.xiaomi.com^
-||globalapi.ad.xiaomi.com^
-||resolver.msg.xiaomi.net^
 
-! ===== HUAWEI =====
+! Xiaomi telemetry
+||tracking.miui.com^
+
+! Huawei telemetry
 ||metrics.data.hicloud.com^
-||logservice.hicloud.com^
-||ads.cloud.huawei.com^
-||logservice1.hicloud.com^
-||metrics1.data.hicloud.com^
-! ===duckduckgo.com====
+
+! ===== Google ads / analytics (SAFE) =====
+||doubleclick.net^
+||googlesyndication.com^
+||googleadservices.com^
+||google-analytics.com^
+
+! NOTE:
+! Do NOT block accounts.google.com
+! Do NOT block gsi / oauth
+
+! ===== DuckDuckGo cosmetic (optional) =====
 duckduckgo.com##div[class*="mobile-atb-banner"]
-! ================= END =================
+
+! ===== END AV BLOCKER SAFE =====
