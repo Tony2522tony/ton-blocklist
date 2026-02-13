@@ -1,8 +1,12 @@
 ! Title: 💊 Ton Mobile Blocklist (SAFE)
 ! Description: Mobile ads + fake popup cleanup (no login break)
-! Version: 2.4.4
+! Version: 2.4.5
 !
 
+! ===== PUSSYSPACE FIX =====
+@@||*.cdn77.org^$image,domain=pussyspace.com
+@@||*.xvideos-cdn.com^$image,domain=pussyspace.com
+@@||hotmovs.com^$elemhide
 ! ===== XOZILLA.COM =====
 xozilla.com##scrollhere
 xozilla.com##div[align]
