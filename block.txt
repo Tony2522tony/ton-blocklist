@@ -1,6 +1,6 @@
 ! Title: 💊 Ton Mobile Blocklist (SAFE)
 ! Description: Mobile ads + fake popup cleanup (no login break)
-! Version: 2.4.7
+! Version: 2.4.8
 !
 
 ! ===== YESVIDS FIX THUMBNAILS =====
@@ -12,7 +12,66 @@
 @@||hotmovs.com^$elemhide
 wetsins.com##iframe[src*="ads"]
 wetsins.com##div[style*="position: fixed"]
+!===ลบคำเตือน====
+xhsocial.com##aside
+xhsocial.com##iframe
+xhsocial.com##div[style*="position: fixed"]
+xhsocial.com##div[style*="z-index"]
+xhsocial.com##span[class*="root"]
+xhsocial.com##body:style(overflow:auto!important)
 
+! freeporno.tv
+freeporno.tv##a[onclick*="window.open"]
+freeporno.tv##div[onclick*="window.open"]
+freeporno.tv##a[onclick*="location"]
+freeporno.tv##div[onclick*="location"]
+freeporno.tv##div:has(> iframe)
+freeporno.tv##iframe
+freeporno.tv##div[style*="position: fixed"]
+freeporno.tv##div[style*="z-index"]
+freeporno.tv##html,body:style(overflow:auto!important)
+! javporno.net
+javporno.net##a[onclick*="window.open"]
+javporno.net##div[onclick*="window.open"]
+javporno.net##a[onclick*="location"]
+javporno.net##div[onclick*="location"]
+javporno.net##div:has(> iframe)
+javporno.net##iframe
+javporno.net##div[style*="position: fixed"]
+javporno.net##div[style*="z-index"]
+javporno.net##html,body:style(overflow:auto!important)
+! japan-porn.net
+japan-porn.net##a[onclick*="window.open"]
+japan-porn.net##div[onclick*="window.open"]
+japan-porn.net##a[onclick*="location"]
+japan-porn.net##div[onclick*="location"]
+japan-porn.net##div:has(> iframe)
+japan-porn.net##iframe
+japan-porn.net##div[style*="position: fixed"]
+japan-porn.net##div[style*="z-index"]
+japan-porn.net##html,body:style(overflow:auto!important)
+! ===== ab-xxx.com ==
+ab~xxx.com##div.header__item.header_mobile
+ab-xxx.com##div[data-v-4c6c26b0][style]
+ab-xxx.com##+js(aopw, open)
+! ===== porn-latina.com =====
+porn-latina.com##.adv-container
+porn-latina.com##.underplayer
+porn-latina.com##section[class*="adv"]
+porn-latina.com##div[class*="adv"]
+porn-latina.com##[style*="height:"]:empty
+porn-latina.com##div[aria-hidden="true"]
+! ===== www.al4a.com =====
+www.al4a.com##section:nth-of-type(2)
+! ===== yesvids.com HIDE BOX =====
+yesvids.com##div > div > iframe:first-of-type
+yesvids.com##div > div > div > iframe:first-of-type
+! ===== yesvids.com full comments =====
+yesvids.com##div:has(> p > a)
+! ===== www.fetishpapa.com  =====
+www.fetishpapa.com##div.ad-wrap > iframe
+! ===== abmilf.me HIDE ADS SAFE =====
+abmilf.me##div[data-v-350265f8][style]
 ! ===== JAVFUN.ME CLEAN SAFE =====
 www3.javfun.me##center:has-text(Sponsored)
 www3.javfun.me##iframe[src*="ads"]
@@ -397,3 +456,5 @@ porntop.com##div.__inst-container
 porntop.com##div.video-header
 ! ===== porm.xxx =====
 fak.xxx,tubehall.com,porm.xxx##li.adv-responsive
+! ===== duckduckgo.com =====
+duckduckgo.com##main[id="features"]
