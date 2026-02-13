@@ -1,32 +1,41 @@
 ! Title: 🔞 Ton AV Block (SAFE)
 ! Description: Adult popup + ads + gap
-! Version: 1.3.4
+! Version: 1.3.7
 ! Maintainer: Tony2522tony
 
-! ===== METRICS =====
-||fp.metricswpsh.com^
-||metricswpsh.com^
-! ===== CDN TRACK =====
-||image.cdnend.com^
-! ===== REDIRECT / AFFILIATE =====
-||bngtrak.com^
-||flepquix.com^
-||fh-wgt.com^
-||go.awdeliverynet.com^
-! ===== พนัน =====
-||1ts18.top^
-||upfastfile88.com^
-||loungeyjg.pics^
-! ===== GOOGLE ADS =====
-||doubleclick.net^
-||googlesyndication.com^
-||googleadservices.com^
-||google-analytics.com^
-||googleads.g.doubleclick.net^$third-party
-! ===== APPLE ADS =====
-||api-adservices.apple.com^
-||ads.mzstatic.com^
-! ===== INTIMATEDIARY (COSMETIC SAFE) =====
-intimatediary.com##div[class*="ad"]
+! ===== META =====
+||connect.facebook.net^
+||graph.facebook.com^
+||analytics.facebook.com^
+||pixel.facebook.com^
+||www.facebook.com/tr^
+||business.facebook.com^
+||ads.facebook.com^
+||staticxx.facebook.com^
+||edge-mqtt.facebook.com^
 
+! ===== TIKTOK =====
+||ads.tiktok.com^
+||analytics.tiktok.com^
+||log.byteoversea.com^
+||log.tiktokv.com^
+||mon.tiktokv.com^
+||business-api.tiktok.com^
+||api.tiktokads.com^
+! ===== XIAOMI =====
+||tracking.miui.com^
+||data.mistat.xiaomi.com^
+||api.ad.xiaomi.com^
+||sdkconfig.ad.xiaomi.com^
+||globalapi.ad.xiaomi.com^
+||resolver.msg.xiaomi.net^
+
+! ===== HUAWEI =====
+||metrics.data.hicloud.com^
+||logservice.hicloud.com^
+||ads.cloud.huawei.com^
+||logservice1.hicloud.com^
+||metrics1.data.hicloud.com^
+! ===duckduckgo.com====
+duckduckgo.com##div[class*="mobile-atb-banner"]
 ! ================= END =================
