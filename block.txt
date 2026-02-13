@@ -1,8 +1,82 @@
 ! Title: 💊 Ton Mobile Blocklist (SAFE)
 ! Description: Mobile ads + fake popup cleanup (no login break)
-! Version: 2.4.2
+! Version: 2.4.4
 !
 
+! ===== XOZILLA.COM =====
+xozilla.com##scrollhere
+xozilla.com##div[align]
+xozilla.com##div[width="120"][align]
+! ===== ITS.PORN =====
+its.porn##h4.banner-asd__title
+! ===== MOTHERLESS.COM =====
+motherless.com##div.content > div:nth-child(4) > div
+motherless.com##div.content > div:nth-child(1) > div > div:nth-child(3)
+! ===== EPORNER.COM CLEAN SAFE =====
+eporner.com##iframe[src*="ads"]
+eporner.com##div[class^="ad"]
+eporner.com##div[class*="popup"]
+eporner.com##div[style*="position: fixed"]
+eporner.com##body:style(overflow:auto!important;)
+eporner.com##html:style(overflow:auto!important;)
+eporner.com##main > div > div > div:nth-child(19)
+eporner.com##main > div > div > div:nth-child(3) > div:nth-child(3)
+eporner.com##main > div:nth-child(9)
+eporner.com##main > div:nth-child(10)
+eporner.com##main > div:nth-child(16)
+! == INTIMATEDIARY (COSMETIC SAFE) ==
+intimatediary.com##div[class*="ad"]
+! ===== HEREPORN.COM CLEAN =====
+hereporn.com##div.adv-responsive
+! ===== green.porn เพิ่มได้=====
+fak.xxx,tubehall.com,porm.xxx,xxx.fak,green.porn##div.coockie_warning.brd
+hereporn.com,fak.xxx,tubehall.com,porm.xxx,xxx.fak,green.porn##div.coockie_warning.brd:style(display:none!important)
+! ===== PORNTOP EXTRA CLEAN =====
+porntop.com##div[class*="inst"]
+porntop.com##div.video-header
+porntop.com##h4:has-text(Sponsored)
+porntop.com##div[class*="promo"]
+porntop.com##div[class*="banner"]
+porntop.com##div[class*="inst"]
+! ===== 037hddmovie.com =====
+037hddmovie.com###ads_fix_footer
+037hddmovie.com###banner-left > div
+037hddmovie.com##div:has(>#ads_fix_footer)
+037hddmovie.com##div:has(>#banner-left)
+037hddmovie.com##img.img-responsive
+037hddmovie.com##div:has(> img.img-responsive)
+037hddmovie.com##img.img-responsive:upward(div)
+037hddmovie.com##div:empty
+037hddmovie.com##section:empty
+037hddmovie.com##body:style(overflow:auto!important;)
+037hddmovie.com##html:style(overflow:auto!important;)
+037hddmovie.com##body:style(overflow:auto!important;)
+037hddmovie.com##html:style(overflow:auto!important;)
+! ===== videojav =====
+f1.videojav.online##.video-page__mobile-user
+f1.videojav.online##.underplayer > section
+f1.videojav.online##.fah-btn.nopop
+f1.videojav.online##.video-page__wrapper > section:first-child
+f1.videojav.online##.dvjqbqqrkjdbdbvvrr
+f1.videojav.online##.video-page__wrapper > section:nth-child(6)
+! ===== yourlust =====
+m.yourlust.com###headB
+m.yourlust.com###headMA
+! remove empty gaps
+m.yourlust.com##body:style(margin-top:0!important)
+m.yourlust.com##.adsbygoogle:remove()
+! ===== iceporn =====
+m.iceporn.club###comment-box
+! ===== hot-sex-tube CLEAN =====
+hot-sex-tube.com##div[class*="adv"],div[class*="banner"],iframe[src*="ads"],#ntv,div:empty,section:empty,div[style*="min-height"]
+hot-sex-tube.com##body,html:style(overflow:auto!important;)
+hot-sex-tube.com##main:style(min-height:auto!important;)
+! ===== xmilf (more cleanup) =====
+f1.xmilf.vip###fhvids
+f1.xmilf.vip##article
+f1.xmilf.vip##div.header__item
+f1.xmilf.vip##div.left > section
+f1.xmilf.vip##div[data-v-7318280d][style]
 ! ===== pornuse =====
 pornuse.com##div[class*="bgqf"]
 ! ===== gfthai =====
