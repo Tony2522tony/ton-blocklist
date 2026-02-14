@@ -1,61 +1,95 @@
 ! Title: 🔞 Ton AV Block (SAFE)
 ! Description: Adult popup + ads + gap
-! Version: 1.3.9
+! Version: 1.4.0
 ! Maintainer: Tony2522tony
 
- =====ตัวติดตามจีน====
+! ==================================================
+! 🔰 TON AV BLOCKER – SAFE + APP + REDIRECT EDITION
+! บล็อกโฆษณา / ตัวติดตาม / เว็บพนัน / เว็บพาเด้ง
+! ==================================================
+
+! ==================================================
+! 🇨🇳 ตัวติดตามจีน (Umeng / Cloud)
+! ==================================================
+
 ||oslogs.umeng.com^
 ||resolve.umeng.com^
 ||cnlogs.umengcloud.com^
-! ===== ติดตามโฆษณา=====
+||utoken.umeng.com^
+
+! ==================================================
+! 👁 ตัวติดตามโฆษณา / Analytics แปลกๆ
+! ==================================================
+
 ||fp.metricswpsh.com^
 ||metricswpsh.com^
 ||bngtrak.com^
 ||flepquix.com^
 ||fh-wgt.com^
 ||go.awdeliverynet.com^
-! ===== พนัน =====
+||platform-api.sharethis.com^
+
+! ==================================================
+! 🎰 พนัน / เว็บมั่ว / Redirect
+! ==================================================
+
 ||1ts18.top^
+||1ts21.top^
+||s.1ts21.top^
 ||upfastfile88.com^
 ||loungeyjg.pics^
-! ===== GOOGLE ADS =====
+||sibergy.com^
+||inspectorstrongerpill.com^
+||hctn.nv7s.com^
+
+! ==================================================
+! 🔴 GOOGLE ADS / TRACKING
+! ==================================================
+
 ||doubleclick.net^
 ||googlesyndication.com^
 ||googleadservices.com^
 ||google-analytics.com^
-||googleads.g.doubleclick.net^$third-party
-! ===== TON AV BLOCKER (SAFE EDITION) =====
-! Purpose: Block ads & trackers only (no site break)
+||googleads.g.doubleclick.net^
 
-! ===== META / TRACKING =====
+! ==================================================
+! 🔵 META / FACEBOOK
+! ==================================================
 
-! Facebook / Meta
 ||connect.facebook.net^
 ||graph.facebook.com^
 ||analytics.facebook.com^
 ||ads.facebook.com^
 
-! TikTok
+! ==================================================
+! 🎵 TIKTOK
+! ==================================================
+
 ||ads.tiktok.com^
 ||analytics.tiktok.com^
 
-! Xiaomi telemetry
-||tracking.miui.com^
+! ==================================================
+! 📱 Xiaomi / Huawei Telemetry
+! ==================================================
 
-! Huawei telemetry
+||tracking.miui.com^
 ||metrics.data.hicloud.com^
 
-! ===== Google ads / analytics (SAFE) =====
-||doubleclick.net^
-||googlesyndication.com^
-||googleadservices.com^
-||google-analytics.com^
+! ==================================================
+! 🧨 Crash / Telemetry (ถ้าแอพ error ค่อย whitelist)
+! ==================================================
 
-! NOTE:
-! Do NOT block accounts.google.com
-! Do NOT block gsi / oauth
+||sentry.io^
 
-! ===== DuckDuckGo cosmetic (optional) =====
+! ==================================================
+! 🔎 DuckDuckGo cosmetic (มือถือ)
+! ==================================================
+
 duckduckgo.com##div[class*="mobile-atb-banner"]
 
-! ===== END AV BLOCKER SAFE =====
+! ==================================================
+! 📝 NOTE
+! ==================================================
+! ❌ อย่าบล็อก:
+! accounts.google.com
+! gsi / oauth
