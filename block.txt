@@ -1,6 +1,6 @@
 ! Title: 💊 Ton Mobile Blocklist (SAFE)
 ! Description: Mobile ads + fake popup cleanup (no login break)
-! Version: 2.4.8
+! Version: 2.4.9
 !
 
 ! ===== YESVIDS FIX THUMBNAILS =====
@@ -85,18 +85,6 @@ its.porn##h4.banner-asd__title
 ! ===== MOTHERLESS.COM =====
 motherless.com##div.content > div:nth-child(4) > div
 motherless.com##div.content > div:nth-child(1) > div > div:nth-child(3)
-! ===== EPORNER.COM CLEAN SAFE =====
-eporner.com##iframe[src*="ads"]
-eporner.com##div[class^="ad"]
-eporner.com##div[class*="popup"]
-eporner.com##div[style*="position: fixed"]
-eporner.com##body:style(overflow:auto!important;)
-eporner.com##html:style(overflow:auto!important;)
-eporner.com##main > div > div > div:nth-child(19)
-eporner.com##main > div > div > div:nth-child(3) > div:nth-child(3)
-eporner.com##main > div:nth-child(9)
-eporner.com##main > div:nth-child(10)
-eporner.com##main > div:nth-child(16)
 ! == INTIMATEDIARY (COSMETIC SAFE) ==
 intimatediary.com##div[class*="ad"]
 ! ===== HEREPORN.COM CLEAN =====
