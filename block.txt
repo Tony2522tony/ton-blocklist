@@ -1,6 +1,6 @@
 ! Title: 💊 Ton Mobile Blocklist (SAFE)
 ! Description: Mobile ads + fake popup cleanup (no login break)
-! Version: 2.4.9
+! Version: 2.5.0
 !
 
 ! ===== YESVIDS FIX THUMBNAILS =====
@@ -19,6 +19,7 @@ xhsocial.com##div[style*="position: fixed"]
 xhsocial.com##div[style*="z-index"]
 xhsocial.com##span[class*="root"]
 xhsocial.com##body:style(overflow:auto!important)
+
 
 ! freeporno.tv
 freeporno.tv##a[onclick*="window.open"]
@@ -339,14 +340,10 @@ zbporn.com##div.wrapper:nth-child(2) > div.block-t:nth-child(4) > div:first-chil
 m.tubeon.club##div#mobile-middle-1
 m.tubeon.club##span.adv-title
 m.tubeon.club##div.adv-wide
-! ===== keporn =====
-f1.keporn.vip##section[data-v-0d8da4a2][style]
+
 ! ===== run.porn =====
 run.porn###inp_iframe-rpnm-runp_mobile_header_300x100
-! === keporn fake overlays ===
-f1.keporn.vip##div[class*="popup"]
-f1.keporn.vip##div[class*="modal"]
-f1.keporn.vip##div[class*="overlay"]
+
 ! === xhsocial ===
 xhsocial.com##div[class*="popup"]
 xhsocial.com##div[class*="Shadow"]
