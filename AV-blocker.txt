@@ -1,7 +1,8 @@
-! Title: 🔞 Ton AV Block (SAFE)
-! Description: Adult popup + ads + gap
-! Version: 1.4.1
-! Maintainer: Tony2522tony
+! Title: 🌲Ton AV Blocker
+! Description: Adult / video site ads + residue cleaner (uBlock companion)
+! Homepage: https://github.com/Tony2522tony/ton-blocklist
+! Expires: 1 days
+! Version: 1.5.0
 
 ! 🇨🇳 ตัวติดตามจีน (Umeng / Cloud)
 
