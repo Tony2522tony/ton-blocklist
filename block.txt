@@ -1,6 +1,6 @@
 ! Title: 💊 Ton Mobile Blocklist (SAFE)
 ! Description: Mobile ads + fake popup cleanup (no login break)
-! Version: 2.5.2
+! Version: 2.5.3
 !
 
 ! ===== YESVIDS FIX THUMBNAILS =====
@@ -19,6 +19,7 @@ xhsocial.com##div[style*="position: fixed"]
 xhsocial.com##div[style*="z-index"]
 xhsocial.com##span[class*="root"]
 xhsocial.com##body:style(overflow:auto!important)
+
 ! ===== pornuse.com =====
 pornuse.com##div.partners
 pornuse.com##h4[data-v-6adb4dde] > span[data-v-6adb4dde]
@@ -30,18 +31,15 @@ f1.keporn.vip##div[class*="ldmzn"]
 f1.keporn.vip##section[data-v-0d8da4a2][style]
 f1.keporn.vip##span[data-v-add27cf7]
 f1.keporn.vip##section[data-v-231de013][style]
-!===== EPORNER.com=====    
-eporner.com##iframe[src*="ads"]
-eporner.com##div[class*="popup"]
-eporner.com##div[style*="position:fixed"]
-eporner.com###vidcontent > div:last-child
-eporner.com##body:style(overflow:auto!important;)
-eporner.com##html:style(overflow:auto!important;)
-eporner.com##div[style*="z-index"]
-eporner.com##div[style*="cursor:pointer"]
-eporner.com##body:style(overflow:auto!important;)
-eporner.com##html:style(overflow:auto!important;)
-eporner.com###vidcontent > div:last-child
+!========เริ่มบล็อก=======
+! ===== hotmovs.tube =====
+hotmovs.tube##div.kxjvrjjnjnxxkk,div#xrkxdy.dydrrjjyxjudyu,div.underplayer__info,div[id^="xr"],div[class*="kx"],div[class*="jj"],div[class*="dy"]
+hotmovs.tube##body:style(overflow:auto!important;)
+||hotmovs.tube^$popup,subdocument
+! ===== f1.hclips.online =====
+f1.hclips.online##section[style],section[data-v][style],div[data-v-d8b6f1a1],div[class*="ion"],div[class*="cyr"],div.partners-wrap,div.video__wrapper > section:not(:first-child),div.video__wrapper > section:first-child > div,div.video__wrapper > div.wrapper:nth-last-child(-n+2)
+f1.hclips.online##body:style(overflow:auto!important;)
+||f1.hclips.online^$popup,subdocument
 ! ===== m.bravoteens.com =====
 m.bravoteens.com##h2[style]
 m.bravoteens.com##div.banner_bottom
