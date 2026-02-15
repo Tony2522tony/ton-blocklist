@@ -19,6 +19,9 @@ No login break • Optimized for iOS / Android
 ## 📦 Lists
 
 ### 🔹 SAFE list (Mobile ads / popup)
+
 https://raw.githubusercontent.com/Tony2522tony/ton-blocklist/main/block.txt
+
 ### 🔹 AV / Adult list
+
 https://raw.githubusercontent.com/Tony2522tony/ton-blocklist/main/AV-blocker.txt
