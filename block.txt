@@ -1,25 +1,14 @@
 ! Title: 💊 Ton Mobile Blocklist (SAFE)
 ! Description: Mobile ads + fake popup cleanup (no login break)
-! Version: 2.5.9
+! Version: 2.6.0
 !
 
-! ===== 037hddmovie.com =====
-037hddmovie.com##div#ads-popup
-037hddmovie.com##div.filmcontent > div[style*="position"]
-037hddmovie.com##div.filmcontent > div[style*="fixed"]
-037hddmovie.com##img.img-responsive[src*="ads"]
-! ===== 25-hd.com =====
-25-hd.com##.banner,.main-banner,.banner-content-center,.banner-float,.player-promo-box,.player-overlay-ad,div[class*="popup"],.width-auto img,img[style],div[style*="position:fixed"]
-25-hd.com##body:style(overflow:auto!important;)
 ! ===== YESVIDS FIX THUMBNAILS =====
 @@||yesvids.com^$image
 @@||*.yesvids.com^$image
 ! ===== PUSSYSPACE FIX =====
 @@||*.cdn77.org^$image,domain=pussyspace.com
 @@||*.xvideos-cdn.com^$image,domain=pussyspace.com
-@@||hotmovs.com^$elemhide
-wetsins.com##iframe[src*="ads"]
-wetsins.com##div[style*="position: fixed"]
 !===ลบคำเตือน====
 xhsocial.com##aside
 xhsocial.com##iframe
@@ -28,7 +17,18 @@ xhsocial.com##div[style*="z-index"]
 xhsocial.com##span[class*="root"]
 xhsocial.com##body:style(overflow:auto!important)
 
+!===เริ่มต้นซ่อน====
 
+! ===== hotmovs com =====
+hotmovs.com##[isfooterbanners],div.underplayer__info,div[style*="fixed"],div[style*="z-index"],div[style*="min-height"],div[class*="kx"],div[class*="jj"],div[class*="dy"],iframe[src*="ads"],iframe[src*="banner"],iframe[src*="promo"],iframe[src*="doubleclick"],iframe[src*="pop"]
+! ===== 037hddmovie.com =====
+037hddmovie.com##div#ads-popup
+037hddmovie.com##div.filmcontent > div[style*="position"]
+037hddmovie.com##div.filmcontent > div[style*="fixed"]
+037hddmovie.com##img.img-responsive[src*="ads"]
+! ===== 25-hd.com =====
+25-hd.com##.banner,.main-banner,.banner-content-center,.banner-float,.player-promo-box,.player-overlay-ad,div[class*="popup"],.width-auto img,img[style],div[style*="position:fixed"]
+25-hd.com##body:style(overflow:auto!important;)
 ! ===== abxxx.com =====
 abxxx.com##div.header__item.header_mobile,div.container,div[style*="position: fixed"]
 ! ===== porn300.com =====
@@ -196,9 +196,8 @@ pornuse.com##div[class*="bgqf"]
 f1.gfthai.vip##div[data-v-231de013][style]
 f1.gfthai.vip##div[data-v-9bd22d7d]
 f1.gfthai.vip##section[data-v-0d8da4a2][style]
-! ===== hotmovs.com =====
-hotmovs.com##div.lcwywwwgwgccll
-hotmovs.com##div.wrapper--video > div:nth-child(9):remove()
+
+
 ! ===== japan / pornuse =====
 japan-whores.com##main > div:nth-of-type(2) > div:first-child
 japan-whores.com##main > div:nth-of-type(2) > iframe:first-of-type
