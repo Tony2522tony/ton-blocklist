@@ -1,6 +1,6 @@
 ! Title: 💊 Ton Mobile Blocklist (SAFE)
 ! Description: Mobile ads + fake popup cleanup (no login break)
-! Version: 2.5.0
+! Version: 2.5.1
 !
 
 ! ===== YESVIDS FIX THUMBNAILS =====
@@ -19,8 +19,55 @@ xhsocial.com##div[style*="position: fixed"]
 xhsocial.com##div[style*="z-index"]
 xhsocial.com##span[class*="root"]
 xhsocial.com##body:style(overflow:auto!important)
-
-
+! ===== pornuse.com =====
+pornuse.com##div.partners
+pornuse.com##h4[data-v-6adb4dde] > span[data-v-6adb4dde]
+pornuse.com##h4[data-v] > span[data-v]
+! ===== F1.keporn.vip REAL FINAL =====
+f1.keporn.vip##.partners-wrap
+f1.keporn.vip##.video-videos-slider
+f1.keporn.vip##div[class*="ldmzn"]
+f1.keporn.vip##section[data-v-0d8da4a2][style]
+f1.keporn.vip##span[data-v-add27cf7]
+f1.keporn.vip##section[data-v-231de013][style]
+!===== EPORNER.com=====    
+eporner.com##iframe[src*="ads"]
+eporner.com##div[class*="popup"]
+eporner.com##div[style*="position:fixed"]
+eporner.com###vidcontent > div:last-child
+eporner.com##body:style(overflow:auto!important;)
+eporner.com##html:style(overflow:auto!important;)
+eporner.com##div[style*="z-index"]
+eporner.com##div[style*="cursor:pointer"]
+eporner.com##body:style(overflow:auto!important;)
+eporner.com##html:style(overflow:auto!important;)
+eporner.com###vidcontent > div:last-child
+! ===== m.bravoteens.com =====
+m.bravoteens.com##h2[style]
+m.bravoteens.com##div.banner_bottom
+m.bravoteens.com##div.adv_top
+m.bravoteens.com##[style*="height:"]:empty
+m.bravoteens.com##div[aria-hidden="true"]
+! ===== txxx.me =====
+txxx.me##div.vvysyivnsfy
+txxx.me##[style*="height:"]:empty
+txxx.me##div[aria-hidden="true"]
+! ===== anybunny.me anti redirect =====
+||pomxd.com^$third-party
+||srv.eu.pomxd.com^$third-party
+anybunny.me##span[class*="bb_show"]
+anybunny.me##span[class*="aa_view"]
+! ===== japan-whores =====
+japan-whores##button[class*="btn_more"]
+japan-whores.com##center:nth-child(2)
+japan-whores.com###comment_section
+! == x-videoz.com → pomxd (กันเปิดแท็บอย่างเดียว) ===
+||pomxd.com^$popup,domain=x-videoz.com
+! ===== momvids.com =====
+momvids.com###video_comments_video_comments
+momvids.com##div.block-comments
+momvids.com##div[class*="comment"]
+momvids.com##div[align]
 ! freeporno.tv
 freeporno.tv##a[onclick*="window.open"]
 freeporno.tv##div[onclick*="window.open"]
@@ -238,14 +285,7 @@ txxx.me##div.dhikriicichhdd
 txxx.me##div.oorvrhogvir
 txxx.me##a.fh-line.fh-nomargin
 txxx.me##div[style*="position: fixed"]
-! ===== f1.hclips.online =====
-f1.hclips.online##section[data-v][style]:remove()
-f1.hclips.online##div[class*="cyr"]
-f1.hclips.online##div.partners-wrap
-f1.hclips.online##div.video__wrapper > section:not(:first-child)
-f1.hclips.online##div.video__wrapper > section:first-child > div
-f1.hclips.online##div.video__wrapper > div.wrapper:nth-last-child(-n+2)
-f1.hclips.online##body:style(overflow:auto!important;)
+
 !.xxxdan.com
 xxxdan.com###scrollTarget
 ! ===== m.viptube.com =====
