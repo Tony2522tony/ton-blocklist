@@ -1,6 +1,6 @@
 ! Title: 💊 Ton Mobile Blocklist (SAFE)
 ! Description: Mobile ads + fake popup cleanup (no login break)
-! Version: 2.5.4
+! Version: 2.5.5
 !
 
 ! ===== YESVIDS FIX THUMBNAILS =====
@@ -370,14 +370,9 @@ pornone.com##div[class*="promo"]
 pornone.com##iframe[src*="ads"]
 pornone.com##div[style*="position: fixed"]
 pornone.com##body,html:style(overflow:auto!important;)
-! ===== 25-hd =====
-25-hd.com##.banner
-25-hd.com##.main-banner
-25-hd.com##.banner-content-center
-25-hd.com##.banner-float
-25-hd.com##.player-promo-box
-25-hd.com##.player-overlay-ad
-25-hd.com##div[class*="popup"]
+! ===== 25-hd.com =====
+25-hd.com##.banner,.main-banner,.banner-content-center,.banner-float,.player-promo-box,.player-overlay-ad,div[class*="popup"],.width-auto img,img[style],iframe,div[style*="position:fixed"]
+25-hd.com##body:style(overflow:auto!important;)
 ! ===== misc adult =====
 supreme-porn.com###uOCEXPUs
 alotporn.com##div.video-controls
