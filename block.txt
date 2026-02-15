@@ -1,8 +1,8 @@
-! Title: Ton Mobile Blocklist (SAFE)
+! Title: 🐯Ton Mobile Blocklist (SAFE)
 ! Description: Mobile ads
-! Homepage: https://github.com/Tony2522ton/ton-blocklist
+! Homepage: https://github.com/Tony2522tony/ton-blocklist/edit/main/block.txt
 ! Expires: 1 days
-! Version: 2.6.1
+! Version: 2.6.2
 !
 
 ! ===== YESVIDS FIX THUMBNAILS =====
