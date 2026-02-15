@@ -1,6 +1,6 @@
 ! Title: 💊 Ton Mobile Blocklist (SAFE)
 ! Description: Mobile ads + fake popup cleanup (no login break)
-! Version: 2.5.3
+! Version: 2.5.4
 !
 
 ! ===== YESVIDS FIX THUMBNAILS =====
@@ -20,6 +20,17 @@ xhsocial.com##div[style*="z-index"]
 xhsocial.com##span[class*="root"]
 xhsocial.com##body:style(overflow:auto!important)
 
+
+! ===== abxxx.com =====
+abxxx.com##div.header__item.header_mobile,div.container,div[style*="position: fixed"]
+! ===== porn300.com =====
+porn300.com##ul.aan__list,div[onclick]
+! ===== m.hqporner.com =====
+m.hqporner.com##a[target][style] > div,div[class*="promo"],div[style*="position: fixed"],div[style*="z-index"],div[onclick]
+ ! =====   youporn.com =====
+youporn.com##div#mainWrapper > div[class*=" "]:not([id])
+youporn.com##div#mainWrapper > div:first-child[class]
+youporn.com###announcement-bar
 ! ===== pornuse.com =====
 pornuse.com##div.partners
 pornuse.com##h4[data-v-6adb4dde] > span[data-v-6adb4dde]
