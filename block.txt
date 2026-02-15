@@ -2,7 +2,7 @@
 ! Description: Mobile ads
 ! Homepage: https://github.com/Tony2522tony/ton-blocklist
 ! Expires: 1 days
-! Version: 2.6.6.0
+! Version: 2.6.7
 !
 
 ! ===== YESVIDS FIX THUMBNAILS =====
