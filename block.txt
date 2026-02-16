@@ -2,7 +2,7 @@
 ! Description: Mobile ads
 ! Homepage: https://github.com/Tony2522tony/ton-blocklist
 ! Expires: 1 days
-! Version: 2.6.7
+! Version: 2.6.8
 !
 
 ! ===== YESVIDS FIX THUMBNAILS =====
@@ -107,16 +107,8 @@ javporno.net##iframe
 javporno.net##div[style*="position: fixed"]
 javporno.net##div[style*="z-index"]
 javporno.net##html,body:style(overflow:auto!important)
-! japan-porn.net
-japan-porn.net##a[onclick*="window.open"]
-japan-porn.net##div[onclick*="window.open"]
-japan-porn.net##a[onclick*="location"]
-japan-porn.net##div[onclick*="location"]
-japan-porn.net##div:has(> iframe)
-japan-porn.net##iframe
-japan-porn.net##div[style*="position: fixed"]
-japan-porn.net##div[style*="z-index"]
-japan-porn.net##html,body:style(overflow:auto!important)
+! ===== Japan-porn.net =====
+japan-porn.net##.main-container div[class^="brka"], .brkas-container > div, .main-container div:has(> a[href*="exoclick"])
 ! ===== ab-xxx.com ==
 ab~xxx.com##div.header__item.header_mobile
 ab-xxx.com##div[data-v-4c6c26b0][style]
