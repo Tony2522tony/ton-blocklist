@@ -2,7 +2,7 @@
 ! Description: Mobile ads
 ! Homepage: https://github.com/Tony2522tony/ton-blocklist
 ! Expires: 1 days
-! Version: 2.6.8
+! Version: 2.6.9
 !
 
 ! ===== YESVIDS FIX THUMBNAILS =====
@@ -21,6 +21,15 @@ xhsocial.com##body:style(overflow:auto!important)
 
 !===เริ่มต้นซ่อน====
 
+! ===== kahirihome.com=====
+kahirihome.com##div[class*="popup"]
+kahirihome.com##div[class*="modal"]
+kahirihome.com##div[class*="overlay"]
+kahirihome.com##a[target="_blank"]
+! hide leftover close button
+kahirihome.com##span.close-btn
+kahirihome.com##div[class*="close"]
+kahirihome.com##button[class*="close"]
 ! ===== hotmovs com =====
 hotmovs.com##[isfooterbanners],div.underplayer__info,div[style*="fixed"],div[style*="z-index"],div[style*="min-height"],div[class*="kx"],div[class*="jj"],div[class*="dy"],iframe[src*="ads"],iframe[src*="banner"],iframe[src*="promo"],iframe[src*="doubleclick"],iframe[src*="pop"]
 ! ===== 037hddmovie.com =====
@@ -244,10 +253,9 @@ f1.inporn.vip##div[style*="position: fixed"]
 f1.inporn.vip##body:style(overflow:auto!important;)
 ! ===== sex3 =====
 sex3.com##div.block-info
-! ===== jizzbunker SAFE =====
-jizzbunker.com###partner-items-2 > div.panel.panel-default.gallery
-jizzbunker.com###content > div.gallery-item:first-child > div.mob-aft-plr:nth-child(9)
-jizzbunker.com###scrollTarget
+! ===== jizzbunker.com =====
+jizzbunker.com##div.panel.panel-default > div.panel-body
+jizzbunker.com##div.panel-rklcontent-wide
 ! ===== pornoxo SAFE =====
 pornoxo.com##div.adblock
 pornoxo.com##div[class*="popup"]
