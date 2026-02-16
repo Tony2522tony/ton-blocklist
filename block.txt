@@ -2,7 +2,7 @@
 ! Description: Mobile ads
 ! Homepage: https://github.com/Tony2522tony/ton-blocklist
 ! Expires: 1 days
-! Version: 2.6.9
+! Version: 2.7.0
 !
 
 ! ===== YESVIDS FIX THUMBNAILS =====
@@ -183,10 +183,7 @@ m.yourlust.com##body:style(margin-top:0!important)
 m.yourlust.com##.adsbygoogle:remove()
 ! ===== iceporn =====
 m.iceporn.club###comment-box
-! ===== hot-sex-tube CLEAN =====
-hot-sex-tube.com##div[class*="adv"],div[class*="banner"],iframe[src*="ads"],#ntv,div:empty,section:empty,div[style*="min-height"]
-hot-sex-tube.com##body,html:style(overflow:auto!important;)
-hot-sex-tube.com##main:style(min-height:auto!important;)
+
 ! ===== xmilf (more cleanup) =====
 f1.xmilf.vip###fhvids
 f1.xmilf.vip##article
