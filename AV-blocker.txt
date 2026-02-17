@@ -2,7 +2,7 @@
 ! Description: Adult / video site ads + residue cleaner (uBlock companion)
 ! Homepage: https://github.com/Tony2522tony/ton-blocklist
 ! Expires: 1 days
-! Version: 1.5.8
+! Version: 1.5.9
 !
 
 !====เว็บพนัน====
@@ -29,8 +29,7 @@
 ||t.ly^
 !===   โดเมนโฆษณา ===
 ||a.adtng.com^
-m3pd.com##img[src*="01timg"]
-||m3pd.com^$image,third-party
+
 ||fuxxx.com^$subdocument,third-party
 ||pornuse.com^$subdocument,third-party
 ||fupxy.com^$subdocument,third-party
