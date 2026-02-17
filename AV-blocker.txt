@@ -2,8 +2,23 @@
 ! Description: Adult / video site ads + residue cleaner (uBlock companion)
 ! Homepage: https://github.com/Tony2522tony/ton-blocklist
 ! Expires: 1 days
-! Version: 1.5.0
+! Version: 1.5.1
+!
 
+
+!====เว็บพนัน====
+||sexygame666r.com^
+||lockdown168q.com^
+||1688sagame4.com^
+||vip168sa12.com^
+||lotto432ab.com^
+||panama8888c.cc^
+||good288.fun^
+||th.trip.com^
+||abm96.com^
+||kamo99.com^
+||kiki49.com^
+||mab96.com^
 ! 🇨🇳 ตัวติดตามจีน (Umeng / Cloud)
 
 ||oslogs.umeng.com^
