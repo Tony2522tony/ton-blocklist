@@ -2,13 +2,10 @@
 ! Description: Mobile ads
 ! Homepage: https://github.com/Tony2522tony/ton-blocklist
 ! Expires: 1 days
-! Version: 2.8.0
+! Version: 2.8.1
 !
 
-@@||imagetwist.com^$image,domain=f1.xjav.club
-@@||img.xjav.club^$image,domain=f1.xjav.club
-@@||cdn.*^$image,domain=f1.xjav.club
-@@||*.cdn77.org^$image,domain=f1.xjav.club
+
 ! ===== YESVIDS FIX THUMBNAILS =====
 @@||yesvids.com^$image
 @@||*.yesvids.com^$image
