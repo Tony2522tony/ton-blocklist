@@ -2,10 +2,10 @@
 ! Description: Adult / video site ads + residue cleaner (uBlock companion)
 ! Homepage: https://github.com/Tony2522tony/ton-blocklist
 ! Expires: 1 days
-! Version: 1.5.9
+! Version: 1.6.0
 !
 
-!====เว็บพนัน====
+! ===== เว็บพนัน / redirect =====
 ||sexygame666r.com^
 ||lockdown168q.com^
 ||1688sagame4.com^
@@ -13,7 +13,6 @@
 ||lotto432ab.com^
 ||panama8888c.cc^
 ||good288.fun^
-||th.trip.com^
 ||abm96.com^
 ||kamo99.com^
 ||kiki49.com^
@@ -24,28 +23,12 @@
 ||bj88thb.com^
 ||xn--365-1kl1e3c8a5a9q.net^
 ||ufabet168.partners^
+
 ||ibit.ly^
 ||cutt.ly^
 ||t.ly^
-!===   โดเมนโฆษณา ===
-||a.adtng.com^
 
-||fuxxx.com^$subdocument,third-party
-||pornuse.com^$subdocument,third-party
-||fupxy.com^$subdocument,third-party
-||boannred.com^
-||gggpppht.com^
-||bartcons.com^
-||stripchat.com^$popup,third-party
-||doppiocdn.org^$popup,third-party
-||doppiocdn.com^$popup,third-party
-! 🇨🇳 ตัวติดตามจีน (Umeng / Cloud)
-||oslogs.umeng.com^
-||resolve.umeng.com^
-||cnlogs.umengcloud.com^
-||utoken.umeng.com^
-
-! ==== redirect / junk ====
+! ===== redirect junk =====
 ||1ts18.top^
 ||1ts21.top^
 ||s.1ts21.top^
@@ -54,24 +37,39 @@
 ||sibergy.com^
 ||inspectorstrongerpill.com^
 
-! 🔴 GOOGLE ADS / TRACKING
+! ===== popup / adult adnet =====
+||a.adtng.com^
+||boannred.com^
+||gggpppht.com^
+||bartcons.com^
+||stripchat.com^$popup
+||doppiocdn.org^$popup
+||doppiocdn.com^$popup
+
+! ===== Umeng (จีน) =====
+||oslogs.umeng.com^
+||resolve.umeng.com^
+||cnlogs.umengcloud.com^
+||utoken.umeng.com^
+
+! ===== Google =====
 ||doubleclick.net^
 ||googlesyndication.com^
 ||googleadservices.com^
-||google-analytics.com^
 ||googleads.g.doubleclick.net^
+||google-analytics.com^
 
-! 🔵 META / FACEBOOK
+! ===== Meta =====
 ||connect.facebook.net^
 ||graph.facebook.com^
 ||analytics.facebook.com^
 ||ads.facebook.com^
 
-! 🎵 TIKTOK
+! ===== TikTok =====
 ||ads.tiktok.com^
 ||analytics.tiktok.com^
 
-! ===== 🍎 APPLE ADS / TRACKING =====
+! ===== Apple =====
 ||metrics.apple.com^
 ||metrics.icloud.com^
 ||iadsdk.apple.com^
@@ -79,14 +77,14 @@
 ||advertising.apple.com^
 ||ads.apple.com^
 
-! ===== 📲 SAMSUNG ADS =====
+! ===== Samsung =====
 ||samsungads.com^
 ||config.samsungads.com^
 ||analytics.samsungknox.com^
 ||log-ingestion.samsungcloudsolution.com^
 ||ads.mncmedia.net^
 
-! ===== 📱 XIAOMI / MIUI ADS =====
+! ===== Xiaomi =====
 ||tracking.miui.com^
 ||data.mistat.xiaomi.com^
 ||sdkconfig.ad.xiaomi.com^
@@ -94,24 +92,24 @@
 ||adv.sec.intl.miui.com^
 ||globalapi.ad.xiaomi.com^
 
-! ===== 📡 HUAWEI ADS / TRACKING =====
+! ===== Huawei =====
 ||metrics.data.hicloud.com^
 ||metrics1.data.hicloud.com^
 ||logservice.hicloud.com^
 ||ads.huawei.com^
 ||tracking.huawei.com^
 
-! ===== 📱 OPPO ADS =====
+! ===== Oppo =====
 ||adsfs.oppomobile.com^
 ||bdapi.ads.oppomobile.com^
 ||ck.ads.oppomobile.com^
 ||data.ads.oppomobile.com^
 
-! ===== 📱 VIVO ADS =====
+! ===== Vivo =====
 ||ads.vivo.com.cn^
 ||monitor-stsdk.vivo.com.cn^
 ||stsdk.vivo.com.cn^
 ||ads-marketing-vivofs.vivo.com.cn^
 
-!! DuckDuckGo cosmetic (มือถือ)
+! DuckDuckGo mobile banner
 duckduckgo.com##div[class*="mobile-atb-banner"]
