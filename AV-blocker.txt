@@ -2,7 +2,7 @@
 ! Description: Adult / video site ads + residue cleaner (uBlock companion)
 ! Homepage: https://github.com/Tony2522tony/ton-blocklist
 ! Expires: 1 days
-! Version: 1.5.1
+! Version: 1.5.3
 !
 
 
@@ -19,6 +19,16 @@
 ||kamo99.com^
 ||kiki49.com^
 ||mab96.com^
+||abm96.com^
+||kamo99.com^
+||kiki49.com^
+||mab96.com^
+||eps789.pro^
+||max-56t.com^
+||heng-36b.com^
+||bj88thb.com^
+||xn--365-1kl1e3c8a5a9q.net^
+||ufabet168.partners^
 ! 🇨🇳 ตัวติดตามจีน (Umeng / Cloud)
 
 ||oslogs.umeng.com^
@@ -47,8 +57,41 @@
 ! 🎵 TIKTOK
 ||ads.tiktok.com^
 ||analytics.tiktok.com^
-! 📱 Xiaomi / Huawei Telemetry
+! ===== 🍎 APPLE ADS / TRACKING =====
+||metrics.apple.com^
+||metrics.icloud.com^
+||iadsdk.apple.com^
+||iad.apple.com^
+||advertising.apple.com^
+||ads.apple.com^
+! ===== 📲 SAMSUNG ADS =====
+||samsungads.com^
+||config.samsungads.com^
+||analytics.samsungknox.com^
+||log-ingestion.samsungcloudsolution.com^
+||ads.mncmedia.net^
+! ===== 📱 XIAOMI / MIUI ADS =====
 ||tracking.miui.com^
+||data.mistat.xiaomi.com^
+||sdkconfig.ad.xiaomi.com^
+||api.ad.xiaomi.com^
+||adv.sec.intl.miui.com^
+||globalapi.ad.xiaomi.com^
+! ===== 📡 HUAWEI ADS / TRACKING =====
 ||metrics.data.hicloud.com^
+||logservice.hicloud.com^
+||ads.huawei.com^
+||tracking.huawei.com^
+||metrics1.data.hicloud.com^
+! ===== 📱 OPPO ADS =====
+||adsfs.oppomobile.com^
+||bdapi.ads.oppomobile.com^
+||ck.ads.oppomobile.com^
+||data.ads.oppomobile.com^
+! ===== 📱 VIVO ADS =====
+||ads.vivo.com.cn^
+||monitor-stsdk.vivo.com.cn^
+||stsdk.vivo.com.cn^
+||ads-marketing-vivofs.vivo.com.cn^
 !!🔎 DuckDuckGo cosmetic (มือถือ)
 duckduckgo.com##div[class*="mobile-atb-banner"]
