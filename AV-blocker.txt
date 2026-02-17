@@ -2,7 +2,7 @@
 ! Description: Adult / video site ads + residue cleaner (uBlock companion)
 ! Homepage: https://github.com/Tony2522tony/ton-blocklist
 ! Expires: 1 days
-! Version: 1.5.3
+! Version: 1.5.6
 !
 
 
