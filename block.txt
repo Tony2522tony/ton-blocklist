@@ -2,16 +2,9 @@
 ! Description: Mobile ads
 ! Homepage: https://github.com/Tony2522tony/ton-blocklist
 ! Expires: 1 days
-! Version: 2.8.1
+! Version: 2.8.3
 !
 
-
-! ===== YESVIDS FIX THUMBNAILS =====
-@@||yesvids.com^$image
-@@||*.yesvids.com^$image
-! ===== PUSSYSPACE FIX =====
-@@||*.cdn77.org^$image,domain=pussyspace.com
-@@||*.xvideos-cdn.com^$image,domain=pussyspace.com
 !===ลบคำเตือน====
 xhsocial.com##aside
 xhsocial.com##iframe
@@ -21,6 +14,11 @@ xhsocial.com##span[class*="root"]
 xhsocial.com##body:style(overflow:auto!important)
 
 !===เริ่มต้นซ่อน====
+!====กฎเว๊บหนังไทย====
+
+!===== 7-HD ===== 
+nunghd4k.com,7-hd.com##a[target="_blank"]:upward(div)
+nunghd4k.com,7-hd.com##a[target="_blank"]
 
 ! ===== kahirihome.com=====
 kahirihome.com##div[class*="popup"]
