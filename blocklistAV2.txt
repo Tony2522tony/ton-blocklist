@@ -1,7 +1,7 @@
 ! Title: 👽Ton Mobile 2
 ! Description: Mobile ads
 ! Expires: 1 days
-! Version: 0.5
+! Version: 0.6
 !
 
 !===ลบคำเตือน====
