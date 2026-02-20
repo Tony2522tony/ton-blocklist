@@ -2,7 +2,7 @@
 ! Description: Adult / video site ads + residue cleaner (uBlock companion)
 ! Homepage: https://github.com/Tony2522tony/ton-blocklist
 ! Expires: 1 days
-! Version: 1.6.0
+! Version: 1.6.1
 !
 
 ! ===== เว็บพนัน / redirect =====
@@ -23,11 +23,26 @@
 ||bj88thb.com^
 ||xn--365-1kl1e3c8a5a9q.net^
 ||ufabet168.partners^
-
+||lgbtnewsnow.org^
+||pgw44.net^
+||chokbet.win^
+||fastcdn888.xyz^
+||sv1.fastcdn888.xyz^
+||sv1.cdnbm168.xyz^
+||ufazeed1.com^
+||ufazeed18.com^
 ||ibit.ly^
 ||cutt.ly^
 ||t.ly^
 
+===โดเมนโฆษณาพนัน===
+||ibit.ly^
+||vip168sa^
+||ufanance^
+||cutt.ly^
+||rebrand.ly^
+||rb289.online^
+||rb289^
 ! ===== redirect junk =====
 ||1ts18.top^
 ||1ts21.top^
