@@ -1,8 +1,42 @@
 ! Title: 🐯Ton Mobile Blocklist (SAFE)
 ! Description: Mobile ads
 ! Expires: 1 days
-! Version: 2.9.9
+! Version: 3.0
 !
+
+!! ===== VIVATUBE COM =====
+m.vivatube.com##div[data-thumbs_block]
+vivatube.com##div[data-thumbs_block]
+m.vivatube.com##.main fieldset
+vivatube.com##.main fieldset
+! ===== NUVID.COM =====
+nuvid.com##div.scrollable
+m.nuvid.com##div.scrollable
+nuvid.com###comment-box
+m.nuvid.com###comment-box
+! ===== 3movs.com=====
+3movs.com##div.section.recommended
+! ===== OXXX.vip ====
+ooxxx.vip##div.underplayer__controllers
+ooxxx.vip##div.video-page__mobile-tags.tags
+! ===== OXXX.vip =====
+ooxxx.vip##div:has(iframe)
+ooxxx.vip##section:has(iframe)
+ooxxx.vip##div[class^="cz"]
+ooxxx.vip##div[class*="cz"]
+ooxxx.vip##div:has-text(Advertisement)
+! ===== HDSEX.ORG =====
+hdsex.org##div[class*="adv"]
+hdsex.org##div[class*="lazy"]
+hdsex.org##div:has(iframe)
+hdsex.org##div:has-text(Advertisement)
+hdsex.org##div:empty
+! ===== videojav.online (original) =====
+videojav.online##div.wrapper__block > div.thumbs.thumbs--double.thumbs--vertical__long.index__thumbs
+videojav.online##div.container
+videojav.online##div.wrapper.headline > h2
+videojav.online##div.wrapper__block > section
+videojav.online##div.wrapper__block > div.thumbs
 
 !===ลบคำเตือน====
 xhsocial.com##aside
