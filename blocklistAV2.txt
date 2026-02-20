@@ -1,7 +1,7 @@
 ! Title: 👽Mobile av2
 ! Description: Mobile av
 ! Expires: 1 days
-! Version: 1.6
+! Version: 1.7
 !
 
 ! ===== pornoxo SAFE =====
@@ -131,3 +131,44 @@ pornone.com##div[class*="promo"]
 pornone.com##iframe[src*="ads"]
 pornone.com##div[style*="position: fixed"]
 pornone.com##body,html:style(overflow:auto!important;)
+
+! ===== javgg =====
+javgg.net##div.asg-interstitial
+javgg.net##div[id^="asg"]
+javgg.net##div[class*="asg"]
+javgg.net##iframe[src*="asg"]
+javgg.net##body:style(overflow:auto!important;)
+
+! ===== hclips =====
+hclips.com##div[class*="ads"]
+hclips.com##div[id*="ads"]
+hclips.com##iframe[src*="ads"]
+hclips.com##div[style*="position: fixed"]
+hclips.com##body:style(overflow:auto!important;)
+
+! ===== xvideos mobile fix =====
+m.xvideos.com##div[class*="ads"]
+m.xvideos.com##div[id*="ads"]
+m.xvideos.com##iframe[src*="ads"]
+
+! ===== xnxx mobile fix =====
+m.xnxx.com##div[class*="ads"]
+m.xnxx.com##div[id*="ads"]
+m.xnxx.com##iframe[src*="ads"]
+
+! ===== generic popup killers =====
+##div[class*="popup"]
+##div[id*="popup"]
+##div[class*="overlay"]
+##div[id*="overlay"]
+##div[class*="modal"]
+##div[id*="modal"]
+##iframe[src*="ads"]
+##a[href*="advert"]
+##a[href*="banner"]
+##div[style*="z-index: 9999"]
+##div[style*="position: fixed"][style*="top"]
+
+! ===== anti scroll lock fix =====
+##body:style(overflow:auto!important;)
+##html:style(overflow:auto!important;)
