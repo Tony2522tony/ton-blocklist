@@ -1,20 +1,111 @@
 ! Title: 🐯Ton Mobile Blocklist (SAFE)
 ! Description: Mobile ads
 ! Expires: 1 days
-! Version: 3.1
+! Version: 3.2
 !
 
-!===เริ่มต้นซ่อน====
-!====กฎเว๊บหนังไทย====
-||sstatic1.histats.com^
-mampost-hd.com##.ads-above-single-player
-mampost-hd.com###leftBanner
-mampost-hd.com##.ads-below-single-player
-!.=
-! ===== 7-HD.COM =====
-7-hd.com##a[href*="ibit.ly"],a[href*="vip168sa"],a[href*="ufanance"],a[href*="cutt.ly"],a[href*="rebrand.ly"],a[href*="rb289.online"],a[href*="rb289"],a[href*="ufa"],a[href*="rebrand"]
-7-hd.com##img.banner_large,td.topad_mid,div.share-buttons
-7-hd.com##a[target="_blank"]:has(img)
+porntop.com##div.video-header
+porntop.com##h4:has-text(Sponsored)
+porntop.com##div[class*="promo"]
+porntop.com##div[class*="banner"]
+porntop.com##div[class*="inst"]
+
+! ===== videojav =====
+f1.videojav.online##.video-page__mobile-user
+f1.videojav.online##.underplayer > section
+f1.videojav.online##.fah-btn.nopop
+f1.videojav.online##.video-page__wrapper > section:first-child
+f1.videojav.online##.dvjqbqqrkjdbdbvvrr
+f1.videojav.online##.video-page__wrapper > section:nth-child(6)
+
+! ===== yourlust =====
+m.yourlust.com###headB
+m.yourlust.com###headMA
+m.yourlust.com##body:style(margin-top:0!important)
+m.yourlust.com##.adsbygoogle:remove()
+
+! ===== iceporn =====
+m.iceporn.club###comment-box
+m.iceporn.club##p.vertical
+
+! ===== xmilf (more cleanup) =====
+f1.xmilf.vip###fhvids
+f1.xmilf.vip##article
+f1.xmilf.vip##div.header__item
+f1.xmilf.vip##div.left > section
+f1.xmilf.vip##div[data-v-7318280d][style]
+
+! ===== pornuse =====
+pornuse.com##div[class*="bgqf"]
+
+! ===== gfthai =====
+f1.gfthai.vip##div[data-v-231de013][style]
+f1.gfthai.vip##div[data-v-9bd22d7d]
+f1.gfthai.vip##section[data-v-0d8da4a2][style]
+
+! ===== japan / pornuse =====
+japan-whores.com##main > div:nth-of-type(2) > div:first-child
+japan-whores.com##main > div:nth-of-type(2) > iframe:first-of-type
+pornuse.com##main > div:nth-of-type(2) > div > section
+
+! ===== porns =====
+pornl.com##main > div > div > div:nth-of-type(2) > div > section
+pornl.com##div[data-v-eb7d8f10][style]
+
+! ===== upornia =====
+f1.upornia.online##main > div > div > div:nth-of-type(2) section
+f1.upornia.online##body:style(overflow:auto!important;)
+
+! ===== kub24hd =====
+kub24hd.com##.promo-banners
+kub24hd.com##div.container.mx-auto.py-2.flex.flex-row.flex-wrap
+kub24hd.com##div[style*="position: fixed"]
+kub24hd.com##div[class*="modal"]
+kub24hd.com##html:style(overflow:auto!important;)
+kub24hd.com##body:style(overflow:auto!important;)
+
+! ===== xfeed =====
+xfeed.com###tags-pills
+xfeed.com##div.prm-wrapper.nocopy
+xfeed.com##div#video-js-page div.prm-wrapper.nocopy:first-child
+
+! ===== xhand =====
+xhand.com##iframe
+xhand.com##div[class*="ads"]
+xhand.com##div[class*="banner"]
+xhand.com##div[style*="position: fixed"]
+
+! ===== analdin =====
+analdin.com##a.brazzers-link.brazzers-link-desktop
+analdin.com###scrollhere
+analdin.com##div[id="index-main-container"] > div[class*="ads"]
+
+! ===== bdsmx =====
+f1.bdsmx.vip##div.header__item
+f1.bdsmx.vip##div.fah-btn.nopop
+f1.bdsmx.vip###embed_code83366
+f1.bdsmx.vip##article
+
+! ===== winporn =====
+m.winporn.club###mobile-header-1
+m.winporn.club###mobile-middle-1
+
+! ===== inporn =====
+f1.inporn.vip##section.wkurrkkrfkurkrfnfkrrk
+f1.inporn.vip##section.urnnpukpfkrrfnfkrrk
+f1.inporn.vip##div.video-info__sites
+f1.inporn.vip##div.video-info__items
+f1.inporn.vip##article
+f1.inporn.vip##div[style*="position: fixed"]
+f1.inporn.vip##body:style(overflow:auto!important;)
+
+! ===== sex3 =====
+sex3.com##div.block-info
+
+! ===== jizzbunker =====
+jizzbunker.com##div.panel.panel-default > div.panel-body
+jizzbunker.com##div.panel-rklcontent-wide
+jizzbunker.com##.mob-aft-plr
 
 m.iceporn.club##div#mobile-middle-1
 m.iceporn.club##div.spot
