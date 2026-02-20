@@ -431,12 +431,3 @@ kahirihome.com##.elementor-location-single > .e-con-boxed:first-child .elementor
 de88.me##img[src*="/tothe/"]
 de88.me##img[src*="Frozen-Hot-Boy1"]
 
-! ===== POVJP.COM - =====
-
-POVJP.COM##div.main-content:has(> #comment)
-POVJP.COM##section#comment
-POVJP.COM##.fh-line2:remove()
-POVJP.COM##div[class*="player-top-line"]:remove()
-
-
-f1.pornvxxx.com,pornvxxx.com##div[style*="bottom"]
