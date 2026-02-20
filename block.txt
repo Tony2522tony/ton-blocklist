@@ -2,7 +2,7 @@
 ! Description: Mobile ads
 ! Homepage: https://github.com/Tony2522tony/ton-blocklist
 ! Expires: 1 days
-! Version: 2.8.4
+! Version: 2.8.5
 !
 
 !===ลบคำเตือน====
@@ -17,7 +17,34 @@ xhsocial.com##body:style(overflow:auto!important)
 !====กฎเว๊บหนังไทย====
 
 
+! ===== POVJP.COM - ฉบับถอนรากถอนโคน =====
 
+POVJP.COM##div.main-content:has(> #comment)
+POVJP.COM##section#comment
+POVJP.COM##.fh-line2:remove()
+POVJP.COM##div[class*="player-top-line"]:remove()
+
+
+! ===== XNXXXXX.pro =====
+xnxxxxx.pro##div.brkas-container
+xnxxxxx.pro##div.full-brkas-container
+||asg.snuffilm.com^$all
+||snuffilm.com/api/spots^$all
+! ===== PORNVXXX.COM =====
+pornvxxx.com##.video-page-content-left.without-padding > div:nth-child(-n+3), .fh-slider__header, .page.video-page > div:last-child, .tikporn-carousel, .page.video-page > .wrapper.wrapper-margin > div:nth-child(3)
+f1.pornvxxx.com,pornvxxx.com##div[style*="bottom"]
+! ===== ROCK.PORN =====
+rock.porn##div.above_player_ads, div.banner-asd__banner, div.spot.spot_header_mobile, div[align="center"]
+rock.porn##h4.banner_asd__title
+rock.porn##+js(window.open)
+rock.porn##+js(setTimeout, window.open)
+! ===== F1.XJAV.CLUB =====
+f1.xjav.club##article div.headline
+f1.xjav.club##div.video-page__related > div.headline
+f1.xjav.club##article > section > div:first-child
+f1.xjav.club##.ad-container
+! ===== 11SNKRS.COM =====
+11snkrs.com##a[href*="ibit.ly"], img[src*="Kingdom66"], .elementor-element-05377d9, span.close-btn
 ! ===== kahirihome.com=====
 kahirihome.com##div[class*="popup"]
 kahirihome.com##div[class*="modal"]
