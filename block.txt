@@ -1,7 +1,7 @@
 ! Title: 🐯Ton Mobile Blocklist (AV)
 ! Description: Mobile ads
 ! Expires: 1 days
-! Version: 5.14
+! Version: 5.15
 !
 
 ! ===== empflix =====
@@ -453,8 +453,6 @@ pornoxo.com##body:style(overflow:auto!important;)
 abjav.me##div.header__item.header_mobile
 abjav.me##div[data-v-4c6c26b0][style]
 
-
-
 ! ===== yeptube =====
 m.yeptube.club##div.splitup.ad
 m.yeptube.club##.livecams_main
@@ -579,9 +577,7 @@ hclips.com##body:style(overflow:auto!important;)
 m.xvideos.com##div[class*="ads"]
 m.xvideos.com##div[id*="ads"]
 m.xvideos.com##iframe[src*="ads"]
-! ===== anti scroll lock fix =====
-##body:style(overflow:auto!important;)
-##html:style(overflow:auto!important;)
+
 ! ===== xnxx mobile fix =====
 m.xnxx.com##div[class*="ads"]
 m.xnxx.com##div[id*="ads"]
