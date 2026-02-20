@@ -16,15 +16,7 @@ pornoxo.com##body:style(overflow:auto!important;)
 abjav.me##div.header__item.header_mobile
 abjav.me##div[data-v-4c6c26b0][style]
 
-! ===== empflix =====
-empflix.com###bannerBlock_head
 
-! ===== hd21 mobile =====
-m.hd21.com###mobile-middle-1
-m.hd21.com###mobile-middle-2
-
-! ===== videojav =====
-f1.videojav.online##section h4
 
 ! ===== yeptube =====
 m.yeptube.club##div.splitup.ad
