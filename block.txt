@@ -1,112 +1,16 @@
 ! Title: 🐯Ton Mobile Blocklist (SAFE)
 ! Description: Mobile ads
 ! Expires: 1 days
-! Version: 0.8
+! Version: 2.9.9
 !
 
-
-||hotmovs.tube^$popup,subdocument
-! ===== f1.hclips.online =====
-f1.hclips.online##section[style],section[data-v][style],div[data-v-d8b6f1a1],div[class*="ion"],div[class*="cyr"],div.partners-wrap,div.video__wrapper > section:not(:first-child),div.video__wrapper > section:first-child > div,div.video__wrapper > div.wrapper:nth-last-child(-n+2)
-f1.hclips.online##body:style(overflow:auto!important;)
-||f1.hclips.online^$popup,subdocument
-! ===== m.bravoteens.com =====
-m.bravoteens.com##h2[style]
-m.bravoteens.com##div.banner_bottom
-m.bravoteens.com##div.adv_top
-m.bravoteens.com##[style*="height:"]:empty
-m.bravoteens.com##div[aria-hidden="true"]
-! ===== txxx.me =====
-txxx.me##div.vvysyivnsfy
-txxx.me##[style*="height:"]:empty
-txxx.me##div[aria-hidden="true"]
-! ===== anybunny.me anti redirect =====
-||pomxd.com^$third-party
-||srv.eu.pomxd.com^$third-party
-anybunny.me##span[class*="bb_show"]
-anybunny.me##span[class*="aa_view"]
-! ===== japan-whores =====
-japan-whores##button[class*="btn_more"]
-japan-whores.com##center:nth-child(2)
-japan-whores.com###comment_section
-! == x-videoz.com → pomxd (กันเปิดแท็บอย่างเดียว) ===
-||pomxd.com^$popup,domain=x-videoz.com
-! ===== momvids.com =====
-momvids.com###video_comments_video_comments
-momvids.com##div.block-comments
-momvids.com##div[class*="comment"]
-momvids.com##div[align]
-! freeporno.tv
-freeporno.tv##a[onclick*="window.open"]
-freeporno.tv##div[onclick*="window.open"]
-freeporno.tv##a[onclick*="location"]
-freeporno.tv##div[onclick*="location"]
-freeporno.tv##div:has(> iframe)
-freeporno.tv##iframe
-freeporno.tv##div[style*="position: fixed"]
-freeporno.tv##div[style*="z-index"]
-freeporno.tv##html,body:style(overflow:auto!important)
-! javporno.net
-javporno.net##a[onclick*="window.open"]
-javporno.net##div[onclick*="window.open"]
-javporno.net##a[onclick*="location"]
-javporno.net##div[onclick*="location"]
-javporno.net##div:has(> iframe)
-javporno.net##iframe
-javporno.net##div[style*="position: fixed"]
-javporno.net##div[style*="z-index"]
-javporno.net##html,body:style(overflow:auto!important)
-! ===== Japan-porn.net =====
-japan-porn.net##.main-container div[class^="brka"], .brkas-container > div, .main-container div:has(> a[href*="exoclick"])
-! ===== ab-xxx.com ==
-ab~xxx.com##div.header__item.header_mobile
-ab-xxx.com##div[data-v-4c6c26b0][style]
-ab-xxx.com##+js(aopw, open)
-! ===== porn-latina.com =====
-porn-latina.com##.adv-container
-porn-latina.com##.underplayer
-porn-latina.com##section[class*="adv"]
-porn-latina.com##div[class*="adv"]
-porn-latina.com##[style*="height:"]:empty
-porn-latina.com##div[aria-hidden="true"]
-! ===== www.al4a.com =====
-www.al4a.com##section:nth-of-type(2)
-! ===== yesvids.com HIDE BOX =====
-yesvids.com##div > div > iframe:first-of-type
-yesvids.com##div > div > div > iframe:first-of-type
-! ===== yesvids.com full comments =====
-yesvids.com##div:has(> p > a)
-! ===== www.fetishpapa.com  =====
-www.fetishpapa.com##div.ad-wrap > iframe
-! ===== abmilf.me HIDE ADS SAFE =====
-abmilf.me##div[data-v-350265f8][style]
-! ===== JAVFUN.ME CLEAN SAFE =====
-www3.javfun.me##center:has-text(Sponsored)
-www3.javfun.me##iframe[src*="ads"]
-www3.javfun.me##iframe[src*="doubleclick"]
-! ===== XOZILLA.COM =====
-xozilla.com##scrollhere
-xozilla.com##div[align]
-xozilla.com##div[width="120"][align]
-! ===== ITS.PORN =====
-its.porn##h4.banner-asd__title
-! ===== MOTHERLESS.COM =====
-motherless.com##div.content > div:nth-child(4) > div
-motherless.com##div.content > div:nth-child(1) > div > div:nth-child(3)
-! == INTIMATEDIARY (COSMETIC SAFE) ==
-intimatediary.com##div[class*="ad"]
-! ===== HEREPORN.COM CLEAN =====
-hereporn.com##div.adv-responsive
-! ===== green.porn เพิ่มได้=====
-fak.xxx,tubehall.com,porm.xxx,xxx.fak,green.porn##div.coockie_warning.brd
-hereporn.com,fak.xxx,tubehall.com,porm.xxx,xxx.fak,green.porn##div.coockie_warning.brd:style(display:none!important)
-! ===== PORNTOP EXTRA CLEAN =====
-porntop.com##div[class*="inst"]
-porntop.com##div.video-header
-porntop.com##h4:has-text(Sponsored)
-porntop.com##div[class*="promo"]
-porntop.com##div[class*="banner"]
-porntop.com##div[class*="inst"]
+!===ลบคำเตือน====
+xhsocial.com##aside
+xhsocial.com##iframe
+xhsocial.com##div[style*="position: fixed"]
+xhsocial.com##div[style*="z-index"]
+xhsocial.com##span[class*="root"]
+xhsocial.com##body:style(overflow:auto!important)
 
 ! ===== videojav =====
 f1.videojav.online##.video-page__mobile-user
