@@ -1,22 +1,19 @@
-! Title: 👽Mobile av2
+! Title: 👽Mobile A 
 ! Description: Mobile av
 ! Expires: 1 days
-! Version: 1.7
+! Version: 1.71
 !
 
+! ===== PORNOXO.COM =====
+pornoxo.com##div.modal.custom.visible
+pornoxo.com##body:style(overflow:auto!important;)
+pornoxo.com##html:style(overflow:auto!important;)
 
-
-! ===== generic popup killers =====
-##div[class*="popup"]
-##div[id*="popup"]
-##div[class*="overlay"]
-##div[id*="overlay"]
-##div[class*="modal"]
-##div[id*="modal"]
-##iframe[src*="ads"]
-##a[href*="advert"]
-##a[href*="banner"]
-##div[style*="z-index: 9999"]
-##div[style*="position: fixed"][style*="top"]
+! ===== F1.BDSMX.VIP =====
+f1.bdsmx.vip##div.__bai-container
+f1.bdsmx.vip##div.__bai-container.__bai-show
+f1.bdsmx.vip##div.uaak-force-visible
+f1.bdsmx.vip##body:style(overflow:auto!important;)
+f1.bdsmx.vip##html:style(overflow:auto!important;)
 
 
