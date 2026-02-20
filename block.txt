@@ -1,8 +1,7 @@
 ! Title: 🐯Ton Mobile Blocklist (SAFE)
 ! Description: Mobile ads
-! Homepage: https://github.com/Tony2522tony/ton-blocklist
 ! Expires: 1 days
-! Version: 2.9.0
+! Version: 2.9.4
 !
 
 !===ลบคำเตือน====
@@ -12,7 +11,6 @@ xhsocial.com##div[style*="position: fixed"]
 xhsocial.com##div[style*="z-index"]
 xhsocial.com##span[class*="root"]
 xhsocial.com##body:style(overflow:auto!important)
-
 !===เริ่มต้นซ่อน====
 !====กฎเว๊บหนังไทย====
 ||sstatic1.histats.com^
@@ -24,8 +22,6 @@ mampost-hd.com##.ads-below-single
 7-hd.com##a[href*="ibit.ly"],a[href*="vip168sa"],a[href*="ufanance"],a[href*="cutt.ly"],a[href*="rebrand.ly"],a[href*="rb289.online"],a[href*="rb289"],a[href*="ufa"],a[href*="rebrand"]
 7-hd.com##img.banner_large,td.topad_mid,div.share-buttons
 7-hd.com##a[target="_blank"]:has(img)
-
-
 m.iceporn.club##div#mobile-middle-1
 m.iceporn.club##div.spot
 f1.hclips.online##div.fah-btn__container
@@ -63,18 +59,15 @@ videojav.online##div.wrapper.headline > h2
 videojav.online##div.wrapper__block > section
 videojav.online##div.wrapper__block > div.thumbs
 videojav.online###app > div.app__wrapper > main:nth-child(3) > div > div.content-block > div.video-page__wrapper > div.syixnxxfuisnsnyyff:nth-child(
-
 !! ===== txxx.me =====
 txxx.me##div[class^="tl"] > div[class^="ll"]
 ! ===== manysex.vip =====
 manysex.vip##div[class^="video"] > div[class^="header"]
-
 ! ===== xxxdan.com =====
 xxxdan.com##div.mob-aft-plr
 xxxdan.com##div.video-desc__stats
 xxxdan.com##div:empty
 xxxdan.com##body > div:not(:has(*))
-
 ! ===== hot-sex-tube.com =====
 hot-sex-tube.com##div[align][style]
 hot-sex-tube.com###embed > #ntv
@@ -259,7 +252,6 @@ porntop.com##h4:has-text(Sponsored)
 porntop.com##div[class*="promo"]
 porntop.com##div[class*="banner"]
 porntop.com##div[class*="inst"]
-
 ! ===== videojav =====
 f1.videojav.online##.video-page__mobile-user
 f1.videojav.online##.underplayer > section
@@ -275,7 +267,6 @@ m.yourlust.com##body:style(margin-top:0!important)
 m.yourlust.com##.adsbygoogle:remove()
 ! ===== iceporn =====
 m.iceporn.club###comment-box
-
 ! ===== xmilf (more cleanup) =====
 f1.xmilf.vip###fhvids
 f1.xmilf.vip##article
@@ -288,8 +279,6 @@ pornuse.com##div[class*="bgqf"]
 f1.gfthai.vip##div[data-v-231de013][style]
 f1.gfthai.vip##div[data-v-9bd22d7d]
 f1.gfthai.vip##section[data-v-0d8da4a2][style]
-
-
 ! ===== japan / pornuse =====
 japan-whores.com##main > div:nth-of-type(2) > div:first-child
 japan-whores.com##main > div:nth-of-type(2) > iframe:first-of-type
@@ -378,7 +367,6 @@ txxx.me##div.dhikriicichhdd
 txxx.me##div.oorvrhogvir
 txxx.me##a.fh-line.fh-nomargin
 txxx.me##div[style*="position: fixed"]
-
 !.xxxdan.com
 xxxdan.com###scrollTarget
 ! ===== m.viptube.com =====
@@ -465,10 +453,8 @@ zbporn.com##div.wrapper:nth-child(2) > div.block-t:nth-child(4) > div:first-chil
 m.tubeon.club##div#mobile-middle-1
 m.tubeon.club##span.adv-title
 m.tubeon.club##div.adv-wide
-
 ! ===== run.porn =====
 run.porn###inp_iframe-rpnm-runp_mobile_header_300x100
-
 ! === xhsocial ===
 xhsocial.com##div[class*="popup"]
 xhsocial.com##div[class*="Shadow"]
