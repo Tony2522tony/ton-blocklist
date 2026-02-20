@@ -1,5 +1,5 @@
 ! Title: 🐯Ton Mobile Blocklist (AV)
-! Description: Mobile ads
+! Description: Mobile ads Av
 ! Homepage: https://github.com/Tony2522tony/ton-blocklist
 ! Expires: 1 days
 ! Version: 5.17
@@ -571,7 +571,7 @@ m.xvideos.com##div[class*="ads"]
 m.xvideos.com##div[id*="ads"]
 m.xvideos.com##iframe[src*="ads"]
 
-! ===== xnxx mobile fix =====
+! ===== xnxx .com=====
 m.xnxx.com##div[class*="ads"]
 m.xnxx.com##div[id*="ads"]
 m.xnxx.com##iframe[src*="ads"]
