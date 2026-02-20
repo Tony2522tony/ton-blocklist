@@ -2,7 +2,7 @@
 ! Description: Mobile ads
 ! Homepage: https://github.com/Tony2522tony/ton-blocklist
 ! Expires: 1 days
-! Version: 2.8.7
+! Version: 2.9.0
 !
 
 !===ลบคำเตือน====
@@ -15,7 +15,7 @@ xhsocial.com##body:style(overflow:auto!important)
 
 !===เริ่มต้นซ่อน====
 !====กฎเว๊บหนังไทย====
-||sstatic1.histats.com||
+||sstatic1.histats.com^
 mampost-hd.com##.ads-above-single-player
 mampost-hd.com###leftBanner
 mampost-hd.com##.ads-below-single
@@ -25,7 +25,6 @@ mampost-hd.com##.ads-below-single
 7-hd.com##img.banner_large,td.topad_mid,div.share-buttons
 7-hd.com##a[target="_blank"]:has(img)
 
-||fhgte.com^
 
 m.iceporn.club##div#mobile-middle-1
 m.iceporn.club##div.spot
