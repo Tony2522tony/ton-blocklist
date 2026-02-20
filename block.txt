@@ -1,7 +1,7 @@
 ! Title: 🐯Ton Mobile Blocklist (SAFE)
 ! Description: Mobile ads
 ! Expires: 1 days
-! Version: 5
+! Version: 5.1.1
 
 f1.keporn.vip##.partners-wrap
 f1.keporn.vip##.video-videos-slider
@@ -424,3 +424,93 @@ porntop.com##div.video-header
 fak.xxx,tubehall.com,porm.xxx##li.adv-responsive
 ! ===== duckduckgo.com =====
 duckduckgo.com##main[id="features"]
+
+
+
+
+||sstatic1.histats.com^
+mampost-hd.com##.ads-above-single-player
+mampost-hd.com###leftBanner
+mampost-hd.com##.ads-below-single
+!.=
+! ===== 7-HD.COM =====
+7-hd.com##a[href*="ibit.ly"],a[href*="vip168sa"],a[href*="ufanance"],a[href*="cutt.ly"],a[href*="rebrand.ly"],a[href*="rb289.online"],a[href*="rb289"],a[href*="ufa"],a[href*="rebrand"]
+7-hd.com##img.banner_large,td.topad_mid,div.share-buttons
+7-hd.com##a[target="_blank"]:has(img)
+
+
+m.iceporn.club##div#mobile-middle-1
+m.iceporn.club##div.spot
+f1.hclips.online##div.fah-btn__container
+!! ===== VIVATUBE COM =====
+m.vivatube.com##div[data-thumbs_block]
+vivatube.com##div[data-thumbs_block]
+m.vivatube.com##.main fieldset
+vivatube.com##.main fieldset
+! ===== NUVID.COM =====
+nuvid.com##div.scrollable
+m.nuvid.com##div.scrollable
+nuvid.com###comment-box
+m.nuvid.com###comment-box
+! ===== 3movs.com=====
+3movs.com##div.section.recommended
+! ===== OXXX.vip ====
+ooxxx.vip##div.underplayer__controllers
+ooxxx.vip##div.video-page__mobile-tags.tags
+! ===== OXXX.vip =====
+ooxxx.vip##div:has(iframe)
+ooxxx.vip##section:has(iframe)
+ooxxx.vip##div[class^="cz"]
+ooxxx.vip##div[class*="cz"]
+ooxxx.vip##div:has-text(Advertisement)
+! ===== HDSEX.ORG =====
+hdsex.org##div[class*="adv"]
+hdsex.org##div[class*="lazy"]
+hdsex.org##div:has(iframe)
+hdsex.org##div:has-text(Advertisement)
+hdsex.org##div:empty
+! ===== videojav.online (original) =====
+videojav.online##div.wrapper__block > div.thumbs.thumbs--double.thumbs--vertical__long.index__thumbs
+videojav.online##div.container
+videojav.online##div.wrapper.headline > h2
+videojav.online##div.wrapper__block > section
+videojav.online##div.wrapper__block > div.thumbs
+videojav.online###app > div.app__wrapper > main:nth-child(3) > div > div.content-block > div.video-page__wrapper > div.syixnxxfuisnsnyyff:nth-child(
+
+!! ===== txxx.me =====
+txxx.me##div[class^="tl"] > div[class^="ll"]
+! ===== manysex.vip =====
+manysex.vip##div[class^="video"] > div[class^="header"]
+
+! ===== xxxdan.com =====
+xxxdan.com##div.mob-aft-plr
+xxxdan.com##div.video-desc__stats
+xxxdan.com##div:empty
+xxxdan.com##body > div:not(:has(*))
+
+! ===== hot-sex-tube.com =====
+hot-sex-tube.com##div[align][style]
+hot-sex-tube.com###embed > #ntv
+hot-sex-tube.com##body > div:empty
+! ===== KAHIRIHOME.COM =====
+kahirihome.com##.elementor-location-single > .e-con-boxed:first-child .elementor-widget-image
+! ===== DE88.ME =====
+de88.me##img[src*="/tothe/"]
+de88.me##img[src*="Frozen-Hot-Boy1"]
+
+! ===== POVJP.COM - =====
+
+POVJP.COM##div.main-content:has(> #comment)
+POVJP.COM##section#comment
+POVJP.COM##.fh-line2:remove()
+POVJP.COM##div[class*="player-top-line"]:remove()
+
+
+! ===== XNXXXXX.pro =====
+xnxxxxx.pro##div.brkas-container
+xnxxxxx.pro##div.full-brkas-container
+||asg.snuffilm.com^$all
+||snuffilm.com/api/spots^$all
+! ===== PORNVXXX.COM =====
+pornvxxx.com##.video-page-content-left.without-padding > div:nth-child(-n+3), .fh-slider__header, .page.video-page > div:last-child, .tikporn-carousel, .page.video-page > .wrapper.wrapper-margin > div:nth-child(3)
+f1.pornvxxx.com,pornvxxx.com##div[style*="bottom"]
