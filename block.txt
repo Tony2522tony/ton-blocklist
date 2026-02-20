@@ -1,10 +1,26 @@
 ! Title: 🐯Ton Mobile Blocklist (SAFE)
 ! Description: Mobile ads
 ! Expires: 1 days
-! Version: 3.0
+! Version: 3.1
 !
 
-!! ===== VIVATUBE COM =====
+!===เริ่มต้นซ่อน====
+!====กฎเว๊บหนังไทย====
+||sstatic1.histats.com^
+mampost-hd.com##.ads-above-single-player
+mampost-hd.com###leftBanner
+mampost-hd.com##.ads-below-single-player
+!.=
+! ===== 7-HD.COM =====
+7-hd.com##a[href*="ibit.ly"],a[href*="vip168sa"],a[href*="ufanance"],a[href*="cutt.ly"],a[href*="rebrand.ly"],a[href*="rb289.online"],a[href*="rb289"],a[href*="ufa"],a[href*="rebrand"]
+7-hd.com##img.banner_large,td.topad_mid,div.share-buttons
+7-hd.com##a[target="_blank"]:has(img)
+
+m.iceporn.club##div#mobile-middle-1
+m.iceporn.club##div.spot
+f1.hclips.online##div.fah-btn__container
+
+! ===== VIVATUBE COM =====
 m.vivatube.com##div[data-thumbs_block]
 vivatube.com##div[data-thumbs_block]
 m.vivatube.com##.main fieldset
