@@ -1,16 +1,7 @@
 ! Title: 🐯Ton Mobile Blocklist (SAFE)
 ! Description: Mobile ads
 ! Expires: 1 days
-! Version: 3.5
-!
-
-! Title: 🐯Ton Mobile Blocklist (SAFE)
-! Description: Mobile ads
-! Expires: 1 days
 ! Version: 5
-!
-
-!===ลบคำเตือน====
 
 f1.keporn.vip##.partners-wrap
 f1.keporn.vip##.video-videos-slider
