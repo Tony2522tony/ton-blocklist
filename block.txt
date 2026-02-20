@@ -1,7 +1,18 @@
 ! Title: 🐯Ton Mobile Blocklist (SAFE)
 ! Description: Mobile ads
 ! Expires: 1 days
-! Version: 5.1.2
+! Version: 5.13
+!
+
+! ===== empflix =====
+empflix.com###bannerBlock_head
+
+! ===== hd21 mobile =====
+m.hd21.com###mobile-middle-1
+m.hd21.com###mobile-middle-2
+
+! ===== videojav =====
+f1.videojav.online##section h4
 
 f1.keporn.vip##.partners-wrap
 f1.keporn.vip##.video-videos-slider
