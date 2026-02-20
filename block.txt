@@ -2,7 +2,7 @@
 ! Description: Mobile ads
 ! Homepage: https://github.com/Tony2522tony/ton-blocklist
 ! Expires: 1 days
-! Version: 5.16
+! Version: 5.17
 !
 
 ! ===== empflix =====
@@ -156,7 +156,6 @@ f1.gfthai.vip##div[data-v-231de013][style]
 f1.gfthai.vip##div[data-v-9bd22d7d]
 f1.gfthai.vip##section[data-v-0d8da4a2][style]
 
-
 ! ===== japan / pornuse =====
 japan-whores.com##main > div:nth-of-type(2) > div:first-child
 japan-whores.com##main > div:nth-of-type(2) > iframe:first-of-type
@@ -189,14 +188,9 @@ xhand.com##div[style*="position: fixed"]
 m.iceporn.club##p.vertical
 ! ===== analdin =====
 analdin.com##a.brazzers-link.brazzers-link-desktop
-! ===== analdin =====
 analdin.com###scrollhere
 analdin.com##div[id="index-main-container"] > div[class*="ads"]
-! ===== bdsmx =====
-f1.bdsmx.vip##div.header__item
-f1.bdsmx.vip##div.fah-btn.nopop
-f1.bdsmx.vip###embed_code83366
-f1.bdsmx.vip##article
+
 ! ===== winporn =====
 m.winporn.club###mobile-header-1
 ! ===== inporn =====
@@ -246,8 +240,6 @@ txxx.me##div.oorvrhogvir
 txxx.me##a.fh-line.fh-nomargin
 txxx.me##div[style*="position: fixed"]
 
-!.xxxdan.com
-xxxdan.com###scrollTarget
 ! ===== m.viptube.com =====
 m.viptube.com##p.vertical
 ! ===== winporn =====
