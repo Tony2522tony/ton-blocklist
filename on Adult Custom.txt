@@ -3,3 +3,70 @@
 ! Version: 1.0
 ! Expires: 1 day
 !
+
+! ===== VAST / preroll =====
+||xhamster.com*/vast?
+||xhamster.desi*/vast?
+||xhamster2.com*/vast?
+||xhamster3.com*/vast?
+||xvideos.com/zoneload/
+||xnxx.tv/zoneload/
+||pornhub.*/_xa/ads
+||redtube.com/_xa/ads
+||tube8.*/_xa/ads
+||thumbzilla.com/_xa/ads
+||you-porn.com/_xa/ads
+||youporn.com/_xa/ads
+
+! ===== Generic ad folders =====
+||*/banner/
+||*/banners/
+||*/ads/
+||*/advert/
+||*/promo/
+||*/prerolls/
+||*/popunder.js
+||*/pop.js
+||*/popcode.js
+||*/bump/
+||*/spot/
+||*/vast/
+||*/ads_*
+||*/adv-*
+||*/adlib/
+||*/adserver/
+||*/adsystem/
+
+! ===== Known ad networks (safe only) =====
+||trafficstars.com^
+||trafficbroker.com^
+||trackvoluum.com^
+||ero-advertising.com^
+||exoclick.com^
+||juicyads.com^
+||propellerads.com^
+||plugrush.com^
+||popads.net^
+||rtb-*.*
+||creative.*.*
+! ===== Popup Kill – iOS Stable =====
+
+||boyfriend.tv/out/bg-$popup
+||boyfriendtv.com/out/bg-$popup
+||clicknplay.to/api/$popup
+||livejasmin.com/pu/$popup
+||missav.com/pop?$popup
+||nhentai.net/api/_/popunder?$popup
+||pornogramxxx.com/out/$popup
+||simpcity.su/magic/goodpapi.php?$popup
+||videowood.tv/pop?$popup
+
+||t.ly^$popup,domain=veev.to
+||temu.com^$popup,domain=pornproxy.art
+||chaturbate.com^$popup,domain=xxxbios.com
+||icepbns.com^$popup,domain=iceporn.com
+||porndude.link/porndudepass$popup,domain=theporndude.com
+
+|http*://*?$popup,third-party,domain=forums.socialmediagirls.com|pornhub.com|redtube.com|tube8.com|youporn.com|youporngay.com
+
+$popup,third-party,domain=hentai2read.com|porn-tube-club.com
