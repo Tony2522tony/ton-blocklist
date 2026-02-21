@@ -2,9 +2,12 @@
 ! Description: Mobile ads Av
 ! Homepage: https://github.com/Tony2522tony/ton-blocklist
 ! Expires: 1 days
-! Version: 5.17
+! Version: 5.18
 !
 
+! ===== SENZURI.TUBE =====
+senzuri.tube##.videos-tube-friends
+senzuri.tube###app > div.content:nth-child(3) > div:last-child > div:nth-child(2)
 ! ===== empflix =====
 empflix.com###bannerBlock_head
 
