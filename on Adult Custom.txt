@@ -2,8 +2,396 @@
 ! Title: ☀️Ton Adult Custom
 ! Version: 1.1.2
 ! Expires: 1 day
-!
 
+! ===== Layer 5 – Nuclear Mode =====
+
+! ---- Kill dynamic script creation ----
+##+js(aopr, document.createElement)
+##+js(aopr, appendChild)
+##+js(aopr, insertBefore)
+##+js(aopr, replaceChild)
+
+! ---- Block eval / Function constructor globally ----
+##+js(set, eval, noopFunc)
+##+js(set, Function, noopFunc)
+
+! ---- Kill base64 decoded loader ----
+##+js(set, atob, noopFunc)
+
+! ---- Disable dynamic timers used by loaders ----
+##+js(set, setTimeout, noopFunc)
+##+js(set, setInterval, noopFunc)
+
+! ---- Block fetch/XHR injection (aggressive) ----
+##+js(set, fetch, noopFunc)
+##+js(set, XMLHttpRequest.prototype.open, noopFunc)
+
+! ---- Kill dynamic iframe creation ----
+##+js(aopr, HTMLIFrameElement.prototype.src)
+##+js(aopr, HTMLIFrameElement.prototype.contentWindow)
+
+! ---- Disable MutationObserver (used by ad reinject) ----
+##+js(set, MutationObserver, noopFunc)
+
+! ---- Remove all inline scripts containing common ad markers ----
+##script:has-text(adservice)
+##script:has-text(exoclick)
+##script:has-text(trafficjunky)
+##script:has-text(popads)
+##script:has-text(propeller)
+##script:has-text(vast)
+##script:has-text(banner)
+
+! ---- Remove suspicious hidden containers ----
+##div[style*="display:none"][class*="ad"]
+##div[style*="visibility:hidden"][class*="ad"]
+##div[style*="opacity:0"][class*="ad"]
+
+! ---- Block suspicious sandboxed iframes ----
+##iframe[sandbox]
+##iframe[allow*="autoplay"][allow*="fullscreen"]
+
+! ---- Kill inline onclick hijack ----
+##+js(aopr, HTMLElement.prototype.onclick)
+##+js(aopr, addEventListener)
+! ===== Hardcore Layer 4 =====
+
+! ---- Block common inline popup triggers ----
+##+js(aopr, window.open)
+##+js(aopr, open)
+##+js(aopr, onbeforeunload)
+##+js(aopr, onunload)
+##+js(aopr, onmouseup)
+##+js(aopr, onclick)
+
+! ---- Block common popup JS patterns ----
+##+js(abort-current-inline-script, window.open)
+##+js(abort-current-inline-script, document.write)
+##+js(abort-current-inline-script, atob)
+##+js(abort-current-inline-script, eval)
+##+js(abort-current-inline-script, setTimeout)
+##+js(abort-current-inline-script, setInterval)
+
+! ---- Remove dynamic injected iframes ----
+##iframe[src*="pop"]
+##iframe[src*="promo"]
+##iframe[src*="affiliate"]
+##iframe[src*="banner"]
+##iframe[src*="ads"]
+##iframe[src*="redirect"]
+
+! ---- Remove overlay / click traps ----
+##div[style*="position:fixed"][style*="z-index"]
+##div[style*="position: absolute"][style*="z-index"]
+##div[class*="overlay"]
+##div[id*="overlay"]
+##div[class*="popup"]
+##div[id*="popup"]
+##div[class*="modal"]
+##div[id*="modal"]
+
+! ---- Remove fake play buttons ----
+##div[class*="play"][class*="ad"]
+##div[id*="play"][id*="ad"]
+##a[class*="download"][href*="ad"]
+##a[href*="redirect"]
+
+! ---- Remove notification bait ----
+##div[class*="notification"]
+##div[id*="notification"]
+##div[class*="subscribe"]
+##div[id*="subscribe"]
+
+! ---- Kill service worker registration (aggressive) ----
+##+js(set, navigator.serviceWorker.register, noopFunc)
+
+! ---- Disable push request ----
+##+js(set, Notification.requestPermission, noopFunc)
+
+! ---- Block back button hijack ----
+##+js(aopr, history.pushState)
+##+js(aopr, history.replaceState)
+
+! ---- Anti adblock detector bypass ----
+##+js(set, FuckAdBlock, undefined)
+##+js(set, BlockAdBlock, undefined)
+##+js(set, canRunAds, true)
+
+! ---- Remove common anti-adblock overlays ----
+##div[class*="adblock"]
+##div[id*="adblock"]
+##div[class*="adsblock"]
+##div[id*="adsblock"]
+! ===== Aggressive Layer 3 =====
+
+||*/ad-loader/*$third-party
+||*/adframe/*$third-party
+||*/adframes/*$third-party
+||*/adcontent/*$third-party
+||*/adserve/*$third-party
+||*/adserving/*$third-party
+||*/adcall/*$third-party
+||*/adrequest/*$third-party
+||*/adresponse/*$third-party
+||*/adstream/*$third-party
+||*/adtag/*$third-party
+||*/adzone/*$third-party
+||*/adzones/*$third-party
+||*/zoneid/*$third-party
+||*/zone_id/*$third-party
+||*/affiliateid/*$third-party
+||*/aff_id/*$third-party
+||*/refid/*$third-party
+||*/subid/*$third-party
+||*/sub_id/*$third-party
+||*/clickid/*$third-party
+||*/clkid/*$third-party
+||*/utm_source=*$third-party
+||*/utm_campaign=*$third-party
+||*/utm_medium=*$third-party
+||*/utm_term=*$third-party
+||*/utm_content=*$third-party
+
+||*/adsystem.js$third-party
+||*/adservice.js$third-party
+||*/advert.js$third-party
+||*/banner.js$third-party
+||*/promo.js$third-party
+||*/pop.js$third-party
+||*/popunder.js$third-party
+||*/popup.js$third-party
+||*/vastloader.js$third-party
+||*/adsloader.js$third-party
+||*/affiliate.js$third-party
+
+||*/preland/*$third-party
+||*/pre-landing/*$third-party
+||*/jump/*$third-party
+||*/exit/*$third-party
+||*/external/*$third-party
+||*/outgoing/*$third-party
+||*/go.php*$third-party
+||*/out.php*$third-party
+||*/click.php*$third-party
+||*/redirect.php*$third-party
+||*/track.php*$third-party
+||*/aff.php*$third-party
+
+||*.xyz^$third-party
+||*.top^$third-party
+||*.click^$third-party
+||*.monster^$third-party
+||*.support^$third-party
+||*.loan^$third-party
+||*.download^$third-party
+||*.stream^$third-party
+||*.party^$third-party
+||*.gdn^$third-party
+
+||*/push/*$third-party
+||*/subscribe/*$third-party
+||*/notification/*$third-party
+||*/notif/*$third-party
+
+||*/newtab*$third-party
+||*/window.open*$third-party
+||*/tabunder*$third-party
+||*/backbutton*$third-party
+
+||*/service-worker.js$third-party
+||*/sw.js$third-party
+||*/register-sw*$third-party
+||*/firebase-messaging*$third-party
+! ===== Extended Safe Pack v2 =====
+
+||adservice.google.com/pagead/
+||adservice.google.com/adsid/
+||pagead2.googlesyndication.com/pagead/
+||securepubads.g.doubleclick.net^$third-party
+||tpc.googlesyndication.com^$third-party
+||ad.doubleclick.net^$third-party
+
+||exoclick.com^$third-party
+||a.exoclick.com^
+||ads.exoclick.com^
+||trafficjunky.net^$third-party
+||ads.trafficjunky.net^
+||juicyads.com^$third-party
+||ads.juicyads.com^
+||plugrush.com^$third-party
+||ads.plugrush.com^
+||ero-advertising.com^$third-party
+||ads.ero-advertising.com^
+||popads.net^$third-party
+||serve.popads.net^
+||propellerads.com^$third-party
+||ad.propellerads.com^
+||hilltopads.net^$third-party
+||ads.hilltopads.net^
+||adcash.com^$third-party
+||ads.adcash.com^
+||adsterra.com^$third-party
+||serve.adsterra.com^
+||clickadu.com^$third-party
+||serve.clickadu.com^
+||adnium.com^$third-party
+||ads.adnium.com^
+||trafficstars.com^$third-party
+||ads.trafficstars.com^
+||mgid.com^$third-party
+||ads.mgid.com^
+||revcontent.com^$third-party
+||ads.revcontent.com^
+||outbrain.com^$third-party
+||widgets.outbrain.com^$third-party
+||taboola.com^$third-party
+||cdn.taboola.com^$third-party
+||zemanta.com^$third-party
+||ads.zemanta.com^
+||bidvertiser.com^$third-party
+||ads.bidvertiser.com^
+
+||*/banner/*$third-party
+||*/banners/*$third-party
+||*/adsystem/*$third-party
+||*/adserver/*$third-party
+||*/advert/*$third-party
+||*/promo/*$third-party
+||*/promotions/*$third-party
+||*/affiliates/*$third-party
+||*/affiliate/*$third-party
+||*/go/*$third-party
+||*/out/*$third-party
+||*/track/*$third-party
+||*/tracking/*$third-party
+||*/redirect/*$third-party
+||*/click/*$third-party
+||*/clk/*$third-party
+||*/ref/*$third-party
+||*/refer/*$third-party
+||*/campaign/*$third-party
+
+||*.cloudfront.net/*banner*
+||*.cloudfront.net/*promo*
+||*.cloudfront.net/*affiliate*
+||*.cloudfront.net/*ads*
+
+||*.akamaized.net/*banner*
+||*.akamaized.net/*promo*
+||*.akamaized.net/*ads*
+
+||*/vast.xml$third-party
+||*/vpaid.xml$third-party
+||*/vast.js$third-party
+||*/video-ad-*$third-party
+||*/pre-roll*$third-party
+||*/mid-roll*$third-party
+
+||*/popunder*$third-party
+||*/popup*$third-party
+||*/newtab*$third-party
+||*/onclick?$third-party
+
+||*/landing?$third-party
+||*/prelanding?$third-party
+||*/bridge?$third-party
+||*/gateway?$third-party
+!=========4=======
+
+! ===== Extended Safe Pack v2 =====
+
+||adservice.google.com/pagead/
+||adservice.google.com/adsid/
+||pagead2.googlesyndication.com/pagead/
+||securepubads.g.doubleclick.net^$third-party
+||tpc.googlesyndication.com^$third-party
+||ad.doubleclick.net^$third-party
+
+||exoclick.com^$third-party
+||a.exoclick.com^
+||ads.exoclick.com^
+||trafficjunky.net^$third-party
+||ads.trafficjunky.net^
+||juicyads.com^$third-party
+||ads.juicyads.com^
+||plugrush.com^$third-party
+||ads.plugrush.com^
+||ero-advertising.com^$third-party
+||ads.ero-advertising.com^
+||popads.net^$third-party
+||serve.popads.net^
+||propellerads.com^$third-party
+||ad.propellerads.com^
+||hilltopads.net^$third-party
+||ads.hilltopads.net^
+||adcash.com^$third-party
+||ads.adcash.com^
+||adsterra.com^$third-party
+||serve.adsterra.com^
+||clickadu.com^$third-party
+||serve.clickadu.com^
+||adnium.com^$third-party
+||ads.adnium.com^
+||trafficstars.com^$third-party
+||ads.trafficstars.com^
+||mgid.com^$third-party
+||ads.mgid.com^
+||revcontent.com^$third-party
+||ads.revcontent.com^
+||outbrain.com^$third-party
+||widgets.outbrain.com^$third-party
+||taboola.com^$third-party
+||cdn.taboola.com^$third-party
+||zemanta.com^$third-party
+||ads.zemanta.com^
+||bidvertiser.com^$third-party
+||ads.bidvertiser.com^
+
+||*/banner/*$third-party
+||*/banners/*$third-party
+||*/adsystem/*$third-party
+||*/adserver/*$third-party
+||*/advert/*$third-party
+||*/promo/*$third-party
+||*/promotions/*$third-party
+||*/affiliates/*$third-party
+||*/affiliate/*$third-party
+||*/go/*$third-party
+||*/out/*$third-party
+||*/track/*$third-party
+||*/tracking/*$third-party
+||*/redirect/*$third-party
+||*/click/*$third-party
+||*/clk/*$third-party
+||*/ref/*$third-party
+||*/refer/*$third-party
+||*/campaign/*$third-party
+
+||*.cloudfront.net/*banner*
+||*.cloudfront.net/*promo*
+||*.cloudfront.net/*affiliate*
+||*.cloudfront.net/*ads*
+
+||*.akamaized.net/*banner*
+||*.akamaized.net/*promo*
+||*.akamaized.net/*ads*
+
+||*/vast.xml$third-party
+||*/vpaid.xml$third-party
+||*/vast.js$third-party
+||*/video-ad-*$third-party
+||*/pre-roll*$third-party
+||*/mid-roll*$third-party
+
+||*/popunder*$third-party
+||*/popup*$third-party
+||*/newtab*$third-party
+||*/onclick?$third-party
+
+||*/landing?$third-party
+||*/prelanding?$third-party
+||*/bridge?$third-party
+||*/gateway?$third-party
 ! ===== Optimized Safe Banner / Affiliate Pack =====
 
 ||18onlygirls.tv/wp-content/banners/
