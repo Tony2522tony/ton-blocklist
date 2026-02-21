@@ -2,9 +2,12 @@
 ! Description: Adult / video site ads + residue cleaner (uBlock companion)
 ! Homepage: https://github.com/Tony2522tony/ton-blocklist
 ! Expires: 1 days
-! Version: 1.6.31
+! Version: 1.6.32
 !
 
+!=====หนังไทย====
+!====037======•
+www.037hddmovie.com##img.img-responsive
 ! ===== เว็บพนัน / redirect =====
 ||sexygame666r.com^
 ||lockdown168q.com^
@@ -83,24 +86,6 @@
 ! ===== TikTok =====
 ||ads.tiktok.com^
 ||analytics.tiktok.com^
-
-! ===== Apple =====
-||metrics.apple.com^
-||metrics.icloud.com^
-||iadsdk.apple.com^
-||iad.apple.com^
-||advertising.apple.com^
-||ads.apple.com^
-||advertising.apple.com^
-||banners.itunes.apple.com^
-||iadcontent.apple.com^
-||iadctest.qwapi.com^
-||iadmoo.apple.com^
-||iadworkbench.apple.com^ 
-||launch.apple.com^ 
-||metrics.apple.com^
-||qwapi.apple.com^
-||securemetrics.apple.com^
 
 ! ===== Samsung =====
 ||samsungads.com^
