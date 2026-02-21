@@ -2,7 +2,7 @@
 ! Description: Adult / video site ads + residue cleaner (uBlock companion)
 ! Homepage: https://github.com/Tony2522tony/ton-blocklist
 ! Expires: 1 days
-! Version: 1.6.3
+! Version: 1.6.31
 !
 
 ! ===== เว็บพนัน / redirect =====
@@ -91,6 +91,16 @@
 ||iad.apple.com^
 ||advertising.apple.com^
 ||ads.apple.com^
+||advertising.apple.com^
+||banners.itunes.apple.com^
+||iadcontent.apple.com^
+||iadctest.qwapi.com^
+||iadmoo.apple.com^
+||iadworkbench.apple.com^ 
+||launch.apple.com^ 
+||metrics.apple.com^
+||qwapi.apple.com^
+||securemetrics.apple.com^
 
 ! ===== Samsung =====
 ||samsungads.com^
