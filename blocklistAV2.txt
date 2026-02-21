@@ -1,9 +1,28 @@
 ! Title: 👽TON Mobile AV
 ! Description: Mobile av
 ! Expires: 1 days
-! Version: 1.72
+! Version: 1.73
 !
 
+! ===== ADULTXHUB.COM =====
+adultxhub.com##.player-holder img[src*="Frame"]
+adultxhub.com##span.top-marketing
+adultxhub.com##div.player-top-line
+adultxhub.com##div.fp-ui-close
+adultxhub.com##div.fh-line2
+! ===== XHSOCIAL SAFE =====
+xhsocial.com##div.main-wrap:nth-child(3) > div.layoutPage:nth-child(3) > div.video-type-video > aside:first-child > div.LMNT-jf.LMNT-jf--top.LMNT-jfno-ts-init
+xhsocial.com##aside[data-role]
+xhsocial.com##div[class*="LMNT"]
+xhsocial.com##iframe[src*="ad"]
+xhsocial.com##div.video-page > div:not(.video-type-video):first-child
+xhsocial.com##a[class*="LMNT"]
+xhsocial.com##div.thumb-widget.template-content-wrapper:has(a[class*="LMNT"])
+xhsocial.com##div[class*="insideVideoList"]
+! ===== F1.BDSMX.VIP =====
+f1.bdsmx.vip##.__bai-container
+f1.bdsmx.vip##.uaak-force-visible
+f1.bdsmx.vip##html,body:style(overflow:auto!important;)
 ! ===== F1.INPORN.VIP =====
 f1.inporn.vip##section[data-nosnippet],.uaak-force-visible
 f1.inporn.vip##body,html:style(overflow:auto!important;)
