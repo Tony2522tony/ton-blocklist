@@ -2,7 +2,7 @@
 ! Description: Adult / video site ads + residue cleaner (uBlock companion)
 ! Homepage: https://github.com/Tony2522tony/ton-blocklist
 ! Expires: 1 days
-! Version: 1.6.32
+! Version: 1.6.33
 !
 
 !=====หนังไทย====
@@ -77,49 +77,8 @@ www.037hddmovie.com##img.img-responsive
 ||googleads.g.doubleclick.net^
 ||google-analytics.com^
 
-! ===== Meta =====
-||connect.facebook.net^
-||graph.facebook.com^
-||analytics.facebook.com^
-||ads.facebook.com^
 
-! ===== TikTok =====
-||ads.tiktok.com^
-||analytics.tiktok.com^
 
-! ===== Samsung =====
-||samsungads.com^
-||config.samsungads.com^
-||analytics.samsungknox.com^
-||log-ingestion.samsungcloudsolution.com^
-||ads.mncmedia.net^
-
-! ===== Xiaomi =====
-||tracking.miui.com^
-||data.mistat.xiaomi.com^
-||sdkconfig.ad.xiaomi.com^
-||api.ad.xiaomi.com^
-||adv.sec.intl.miui.com^
-||globalapi.ad.xiaomi.com^
-
-! ===== Huawei =====
-||metrics.data.hicloud.com^
-||metrics1.data.hicloud.com^
-||logservice.hicloud.com^
-||ads.huawei.com^
-||tracking.huawei.com^
-
-! ===== Oppo =====
-||adsfs.oppomobile.com^
-||bdapi.ads.oppomobile.com^
-||ck.ads.oppomobile.com^
-||data.ads.oppomobile.com^
-
-! ===== Vivo =====
-||ads.vivo.com.cn^
-||monitor-stsdk.vivo.com.cn^
-||stsdk.vivo.com.cn^
-||ads-marketing-vivofs.vivo.com.cn^
 
 ! DuckDuckGo mobile banner
 duckduckgo.com##div[class*="mobile-atb-banner"]
