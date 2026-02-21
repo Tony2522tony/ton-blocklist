@@ -1,9 +1,15 @@
 ! Title: 👽TON Mobile AV
 ! Description: Mobile av
 ! Expires: 1 days
-! Version: 1.73
+! Version: 1.74
 !
 
+! ===== FREEPORNO.TV =====
+freeporno.tv##a[target="_blank"][href^="http"]
+! ===== TXXX.ME =====
+txxx.me##div.__bai-container.__bai-show
+! ===== VJAV /All======
+vjav.com,vjav.net,vjav.me,f1.vjav.net,f1.vjav.me,txxx.me##.page-video > div.video-player + div
 ! ===== ADULTXHUB.COM =====
 adultxhub.com##.player-holder img[src*="Frame"]
 adultxhub.com##span.top-marketing
