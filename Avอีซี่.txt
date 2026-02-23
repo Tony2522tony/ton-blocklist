@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Title: ☀️Ton Adult Custom
+! Title: ☀️Ton Av อีซี่
 ! Homepage: https://github.com/Tony2522tony/ton-blocklist
 ! Version: 1.1.4
 ! Expires: 1 day
