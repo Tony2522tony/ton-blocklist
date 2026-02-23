@@ -1,0 +1,13 @@
+! Title: 👽TON Mob AV 2
+! Description: Mobile AV
+! Homepage: https://github.com/Tony2522tony/ton-blocklist
+! Expires: 1 days
+! Version: 1.0
+!
+
+! ===== VERYFREEPORN.COM =====
+veryfreeporn.com##.header_spot iframe.na
+! ===== JIZZBUNKER.COM =====
+jizzbunker.com###scrollTarget
+! ===== AB-XXX.COM====
+ab-xxx.com##.header__item.header_mobile
