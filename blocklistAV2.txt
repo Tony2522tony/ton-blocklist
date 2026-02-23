@@ -1,8 +1,8 @@
 ! Title: 👽TON Mobile AV
 ! Description: Mobile av! Homepage: 
-! https://github.com/Tony2522tony/ton-blocklist
+! Homepage: https://github.com/Tony2522tony/ton-blocklist
 ! Expires: 1 days
-! Version: 1.76
+! Version: 2.0
 !
 
 ! ===== VXXX.COM =====
