@@ -2,9 +2,42 @@
 ! Description: Mobile AV
 ! Homepage: https://github.com/Tony2522tony/ton-blocklist
 ! Expires: 3 days
-! Version: 1.0.2
+! Version: 1.0.3
 !
 
+!====กฎ UBLOCK======
+hot-sex-tube.com##+js(no-window-open-if)
+! ===== HOT-SEX-TUBE.COM Anti-Popup
+hot-sex-tube.com##+js(no-window-open-if)
+hot-sex-tube.com##+js(aopr, window.open)
+hot-sex-tube.com##+js(no-window-open-if,.*)
+
+!======แผ่นใส=======
+txxx.me##div.__bai-container.__bai-show
+!======เด้ง เด้ง=======
+www.sexvideos.tel*$popup
+www.sexvideos.tel*$popunder
+! --- บล็อกสคริปต์ที่สั่งเปลี่ยนหน้า (Redirect) ---  
+goldpornfilms.com##+js(abort-on-property-read, open)
+goldpornfilms.com##+js(no-onbeforeunload-attribute)
+!===•=•••ฟิมล์เติมจอ======
+! ===== TXXX.ME =====
+sopornvideos.com,txxx.me##div.__bai-container.__bai-show
+! ===== TXXX.ME =====
+txxx.me##div.__bai-container.__bai-show
+,finalteens.com##a[target="_blank"]:remove-attr(target)
+! ==============================
+! M.NUVID.COM
+! ==============================
+m.nuvid.com###lcams
+! ==============================
+! M.ICEPORN.CLUB
+! ==============================
+m.iceporn.club##div.main > div.introduction
+! ==============================
+! M.ICEPORN.CLUB
+! ==============================
+m.iceporn.club##div.main > div.introduction
 ! ==============================
 ! HDSEX.ORG
 ! ==============================
