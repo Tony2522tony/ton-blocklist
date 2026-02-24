@@ -1,10 +1,40 @@
 ! Title: 👽TON Mob AV 2
 ! Description: Mobile AV
 ! Homepage: https://github.com/Tony2522tony/ton-blocklist
-! Expires: 1 days
-! Version: 1.0
+! Expires: 3 days
+! Version: 1.0.1
 !
 
+! ==============================
+! M.HD21.COM
+! ==============================
+m.hd21.com###lcams .wrap_spot .spot
+! ==============================
+! M.DRTUBER.COM
+! ==============================
+m.drtuber.com##a.player_premium_bar
+m.drtuber.com##div.rated_box.section_frame_tools
+m.drtuber.com##div.vpage_premium_bar
+m.drtuber.com##div.wrap_spots
+m.drtuber.com##div[class*="spots"]
+! ==============================
+! XXXDAN.COM
+! ==============================
+xxxdan.com##main .container > div:nth-of-type(3)
+xxxdan.com##div.mob-aft-plr
+xxxdan.com##div.zx1.mob1
+xxxdan.com##main.container > div.rzx1:nth-child(2)
+xxxdan.com###partner-items-2 > div.panel.panel-default.gallery
+xxxdan.com##main.container > div.rzx1:nth-child(5)
+xxxdan.com###scrollTarget
+! ==============================
+! VIDEOSECTION.COM
+! ==============================
+videosection.com##.player-detail .faphouse-adv
+! ==============================
+! JIZZBUNKER.COM
+! ==============================
+jizzbunker.com###partner-items-2
 ! ===== F1.KEPORN.VIP =====
 f1.keporn.vip##.video-wrapper > div:nth-child(4)
 ! ===== VXXX.COM =====
