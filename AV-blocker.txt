@@ -2,7 +2,7 @@
 ! Description: Adult / video site ads + residue cleaner (uBlock companion)
 ! Homepage: https://github.com/Tony2522tony/ton-blocklist
 ! Expires: 1 days
-! Version: 1.6.39
+! Version: 1.6.40
 !
 
 !=====หนังไทย====
@@ -63,6 +63,8 @@ www.037hddmovie.com##img.img-responsive
 ||rebrand.ly^
 ||rb289.online^
 ||rb289^
+||adsxtits.com^
+||adtng.com^
 ! ===== redirect junk =====
 ||1ts18.top^
 ||1ts21.top^
