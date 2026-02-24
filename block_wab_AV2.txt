@@ -2,9 +2,31 @@
 ! Description: Mobile AV
 ! Homepage: https://github.com/Tony2522tony/ton-blocklist
 ! Expires: 3 days
-! Version: 1.0.1
+! Version: 1.0.2
 !
 
+! ==============================
+! HDSEX.ORG
+! ==============================
+hdsex.org##div.second-navigation
+hdsex.org##main > section > div:nth-of-type(2) > div:nth-of-type(2)
+! ==============================
+! XXXDAN.COM
+! ==============================
+@@||xxxdan.com^$script
+! ==============================
+! F1.PORNVXXX.COM
+! ==============================
+f1.pornvxxx.com##body > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)
+f1.pornvxxx.com##.wrapper.wrapper-margin > div:nth-of-type(2)
+f1.pornvxxx.com##.wrapper.wrapper-margin > div:nth-of-type(3)
+! ==============================
+! XFEED.COM
+! ==============================
+xfeed.com##.video-info__row.mb-1
+xfeed.com##.video-description
+xfeed.com##.video-info > div:last-child
+xfeed.com##.columns.mb-0 .column > div:last-of-type
 ! ==============================
 ! M.HD21.COM
 ! ==============================
