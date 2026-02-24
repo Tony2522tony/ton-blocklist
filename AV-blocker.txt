@@ -2,7 +2,7 @@
 ! Description: Adult / video site ads + residue cleaner (uBlock companion)
 ! Homepage: https://github.com/Tony2522tony/ton-blocklist
 ! Expires: 1 days
-! Version: 1.6.38
+! Version: 1.6.39
 !
 
 !=====หนังไทย====
@@ -52,6 +52,8 @@ www.037hddmovie.com##img.img-responsive
 ||ibit.ly^
 ||cutt.ly^
 ||t.ly^
+||huaylike7.com^
+||neonewsspace.my^
 
 ===โดเมนโฆษณาพนัน===
 ||ibit.ly^
@@ -91,6 +93,37 @@ www.037hddmovie.com##img.img-responsive
 ||googleadservices.com^
 ||googleads.g.doubleclick.net^
 ||google-analytics.com^
+
+!=====โซเชียว===•
+||adfstat.yandex.ru^
+||appmetrica.yandex.ru^
+||log.fc.yahoo.com^
+||analytics.query.yahoo.com^
+||udcm.yahoo.com^
+||impact.com^
+||bingads.microsoft.com^
+||thetradedesk.com^
+||pixel.quora.com^
+||analytics.twitter.com^
+||d.reddit.com^
+||vk.com/rtrg^
+||mads-eu.amazon.com^
+||metrics-us-2.amazon.com^
+||device-metrics-us.amazon.com^
+
+! Social (since you don't use them)
+||connect.facebook.net^
+||graph.facebook.com^
+||tr.facebook.com^
+||graph.instagram.com^
+||i.instagram.com^
+||tagmanager.google.com^
+!====Apple==•••
+||api-adservices.apple.com^
+||books-analytics-events.apple.com^
+||weather-analytics-events.apple.com^
+||notes-analytics-events.apple.com^
+||xp.apple.com^
 
 
 
