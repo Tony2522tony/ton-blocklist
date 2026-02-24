@@ -2,9 +2,33 @@
 ! Description: Mobile AV
 ! Homepage: https://github.com/Tony2522tony/ton-blocklist
 ! Expires: 3 days
-! Version: 1.0.3
+! Version: 1.0.4
 !
 
+!==========จบ================
+xxxdan.com##+js(set, canRunAds, true)
+xxxdan.com##+js(set, adblockDetected, false)
+xxxdan.com##+js(aopr, window.open)
+xxxdan.com##+js(set, canRunAds, true)
+xxxdan.com##+js(set, adblockDetected, false)
+xxxdan.com##+js(aopr, window.open)
+
+! ==============================
+! HDSEX.ORG
+! ==============================
+hdsex.org###video-page > section.videos:nth-child(6)
+hdsex.org##h2.related-title
+! ==============================
+! XXXVOGUE.NET
+! ==============================
+xxxvogue.net##div.faphouse-adv
+xxxvogue.net##div.player-section__ad-w
+! ==============================
+! HOMEMADE.ADULT
+! ==============================
+homemade.adult##iframe[src*="adsxtits"]
+homemade.adult##iframe[src*="adtng"]
+homemade.adult##div[style*="width: 300px"][style*="text-align: left"]
 !====กฎ UBLOCK======
 hot-sex-tube.com##+js(no-window-open-if)
 ! ===== HOT-SEX-TUBE.COM Anti-Popup
