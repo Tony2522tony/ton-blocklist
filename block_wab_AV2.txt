@@ -2,10 +2,58 @@
 ! Description: Mobile AV
 ! Homepage: https://github.com/Tony2522tony/ton-blocklist
 ! Expires: 3 days
-! Version: 1.0.4
+! Version: 1.0.5
 !
 
-!==========จบ================
+
+! ==============================
+! M.DRTUBER.COM
+! ==============================
+m.drtuber.com##div.holder.video_play > div.container:nth-of-type(n+4)
+
+
+! ==============================
+! F1.BDSMX.VIP
+! ==============================
+f1.bdsmx.vip##div.video__wrapper > div.header__item:first-child
+f1.bdsmx.vip##div.video__wrapper > div.wrapper:nth-of-type(3)
+f1.bdsmx.vip##div.video__wrapper > div.wrapper:nth-of-type(4)
+f1.bdsmx.vip##div.fah-btn.nopop
+! ==============================
+! F1.XMILF.VIP
+! ==============================
+f1.xmilf.vip##div.video__wrapper:first-child > div.wrapper:nth-of-type(n+6)
+! ==============================
+! F1.UPORNIA.ONLINE
+! ==============================
+f1.upornia.online##a.top-bar
+f1.upornia.online##div:has(> button)
+||cmonbae.com^$domain=f1.upornia.online
+! ==============================
+! F1.HCLIPS.ONLINE
+! ==============================
+f1.hclips.online##div.fh-line2
+f1.hclips.online##div.video__wrapper:last-child div.left:last-child > div.fah-btn.nopop
+f1.hclips.online##div.content-block div.video__wrapper:last-child > div:nth-child(4)
+f1.hclips.online##div.left:last-child > div.video-page__mobile-user
+! ==============================
+! F1.MANYSEX.VIP
+! ==============================
+f1.manysex.vip##div.video__wrapper:first-child > div.header__item
+! ==============================
+! M.YEPTUBE.CLUB
+! ==============================
+m.yeptube.club##form.f_area.form_coments
+! ==============================
+! 429MEN.COM
+! ==============================
+429men.com##div.top
+429men.com##.title2
+429men.com##div div center:first-child
+429men.com##.fluid_start_container
+429men.com##center:nth-child(7)
+!=======DAN=========
+
 xxxdan.com##+js(set, canRunAds, true)
 xxxdan.com##+js(set, adblockDetected, false)
 xxxdan.com##+js(aopr, window.open)
