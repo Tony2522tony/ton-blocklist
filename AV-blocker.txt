@@ -96,22 +96,6 @@ www.037hddmovie.com##img.img-responsive
 ||googleads.g.doubleclick.net^
 ||google-analytics.com^
 
-!=====โซเชียว===•
-||adfstat.yandex.ru^
-||appmetrica.yandex.ru^
-||log.fc.yahoo.com^
-||analytics.query.yahoo.com^
-||udcm.yahoo.com^
-||impact.com^
-||bingads.microsoft.com^
-||thetradedesk.com^
-||pixel.quora.com^
-||analytics.twitter.com^
-||d.reddit.com^
-||vk.com/rtrg^
-||mads-eu.amazon.com^
-||metrics-us-2.amazon.com^
-||device-metrics-us.amazon.com^
 
 ! Social (since you don't use them)
 ||connect.facebook.net^
@@ -120,12 +104,7 @@ www.037hddmovie.com##img.img-responsive
 ||graph.instagram.com^
 ||i.instagram.com^
 ||tagmanager.google.com^
-!====Apple==•••
-||api-adservices.apple.com^
-||books-analytics-events.apple.com^
-||weather-analytics-events.apple.com^
-||notes-analytics-events.apple.com^
-||xp.apple.com^
+
 
 
 
