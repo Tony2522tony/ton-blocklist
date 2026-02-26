@@ -2,10 +2,54 @@
 ! Description: Mobile AV
 ! Homepage: https://github.com/Tony2522tony/ton-blocklist
 ! Expires: 3 days
-! Version: 1.0.5
+! Version: 1.0.6
 !
 
-
+! ==============================
+! THEYAREHUGE.COM
+! ==============================
+theyarehuge.com##span.blink_me.slogan-wrapper
+! ==============================
+! NUVID.COM
+! ==============================
+nuvid.com##div.advertisement
+nuvid.com##.comments
+nuvid.com###comments
+! ==============================
+! DEVIANTS.COM
+! ==============================
+deviants.com##div.ad-wrappe
+! ==============================
+! PORNL.COM
+! ==============================
+pornl.com##div.doqunuuiqqdndnooii
+! ==============================
+! F1.XJAV.CLUB
+! ==============================
+f1.xjav.club##.video__wrapper > .header__item
+f1.xjav.club##.video-page__content section:nth-of-type(1)
+f1.xjav.club##div.video__wrapper:last-child > div.wrapper:nth-of-type(4)
+f1.xjav.club##div.video__wrapper:last-child > div.wrapper:nth-of-type(6)
+f1.xjav.club##div.video__wrapper > div.wrapper:nth-of-type(8):style(display:none!important)
+f1.xjav.club##.comments
+f1.xjav.club##section[is-footer-banners]
+f1.xjav.club##div.wrapper.headline
+! ==============================
+! TXXX.ME
+! ==============================
+txxx.me##div.jw-bbb:style(display:none !important)
+txxx.me##div.jw-bbb
+txxx.me##div.jw-bbb.nopop
+txxx.me##a.jw-buble__inner
+txxx.me##div.jw-buble
+txxx.me##a[href*="enter.javhd.com"]
+txxx.me##div.gfpl-wrapper
+txxx.me##+js(window.open-defuser)
+txxx.me##+js(aopr, window.open)
+! ==============================
+! GLOBAL BLOCK
+! ==============================
+||poloptrex.com^$third-party
 ! ==============================
 ! M.DRTUBER.COM
 ! ==============================
@@ -53,7 +97,6 @@ m.yeptube.club##form.f_area.form_coments
 429men.com##.fluid_start_container
 429men.com##center:nth-child(7)
 !=======DAN=========
-
 xxxdan.com##+js(set, canRunAds, true)
 xxxdan.com##+js(set, adblockDetected, false)
 xxxdan.com##+js(aopr, window.open)
