@@ -2,9 +2,89 @@
 ! Description: Mobile AV
 ! Homepage: https://github.com/Tony2522tony/ton-blocklist
 ! Expires: 3 days
-! Version: 1.0.6
+! Version: 1.0.7
 !
 
+! ==============================
+! UPORNIA.COM
+! ==============================
+upornia.com##.video-page__mobile-user--item
+upornia.com##div.video-page__comments
+upornia.com##main > div > div > div:nth-of-type(2) > div:nth-of-type(2)
+! ==============================
+! SPANKBANG.COM
+! ==============================
+th.spankbang.com###video > div.main_content_container.my-4.flex.flex-col.gap-4.min-h-25:nth-child(11)
+spankbang.com###video > div.main_content_container.mt-4:nth-of-type(7)
+spankbang.com###video > div.tab_similar > section.js-related-playlists
+! ==============================
+! VJAV.COM / VIDEOJAV.ONLINE
+! ==============================
+vjav.com,f1.videojav.online##.partners-wrap
+vjav.com,f1.videojav.online##.rmzxoxxijzrorommii
+vjav.com,f1.videojav.online##.video-page__related .video-videos-slider
+vjav.com,f1.videojav.online##.video-page__related .headline
+vjav.com,f1.videojav.online##.comments
+! ==============================
+! KUB24HD.COM
+! ==============================
+kub24hd.com##aside.unicorn-ads
+kub24hd.com##div.unicorn-grid
+kub24hd.com##div.unicorn-item
+kub24hd.com###ads2
+kub24hd.com##div.mt-4.flex.justify-center
+! ==============================
+! THEYAREHUGE.COM
+! ==============================
+theyarehuge.com##span.blink_me.slogan-wrapper
+! ==============================
+! NUVID.COM
+! ==============================
+nuvid.com##div.advertisement
+nuvid.com##.comments
+nuvid.com###comments
+! ==============================
+! DEVIANTS.COM
+! ==============================
+deviants.com##div.ad-wrapper
+! ==============================
+! PORNL.COM
+! ==============================
+pornl.com##div.doqunuuiqqdndnooii
+! ==============================
+! F1.XJAV.CLUB
+! ==============================
+f1.xjav.club##.video__wrapper > .header__item
+f1.xjav.club##.video-page__content section:nth-of-type(1)
+f1.xjav.club##div.video__wrapper:last-child > div.wrapper:nth-of-type(4)
+f1.xjav.club##div.video__wrapper:last-child > div.wrapper:nth-of-type(6)
+f1.xjav.club##div.video__wrapper > div.wrapper:nth-of-type(8):style(display:none!important)
+f1.xjav.club##.comments
+f1.xjav.club##section[is-footer-banners]
+f1.xjav.club##div.wrapper.headline
+
+
+
+! ==============================
+! TXXX.ME
+! ==============================
+
+txxx.me##div.jw-bbb
+txxx.me##div.jw-bbb.nopop
+txxx.me##a.jw-buble__inner
+txxx.me##div.jw-buble
+txxx.me##a[href*="enter.javhd.com"]
+txxx.me##div.gfpl-wrapper
+txxx.me##+js(window.open-defuser)
+txxx.me##+js(aopr, window.open)
+
+
+
+! ==============================
+! GLOBAL BLOCK
+! ==============================
+
+||poloptrex.com^$third-party
 ! ==============================
 ! THEYAREHUGE.COM
 ! ==============================
