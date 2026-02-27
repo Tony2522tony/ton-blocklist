@@ -2,7 +2,7 @@
 ! Description: Adult / video site ads + residue cleaner (uBlock companion)
 ! Homepage: https://github.com/Tony2522tony/ton-blocklist
 ! Expires: 1 days
-! Version: 1.6.40
+! Version: 1.6.41
 !
 
 !=====หนังไทย====
@@ -23,6 +23,10 @@ www.037hddmovie.com##img.img-responsive
 037hddmovie.com##img[src*="600x90-1688sa.gif"]
 037hddmovie.com##img[src*="cdend.com/wp-content/uploads"]
 037hddmovie.com##body > div:nth-of-type(1) > div:nth-of-type(5) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(4) > iframe:nth-of-type(2)
+!====แท็ปเด้งหน้าดำ====
+||go.gsrv.dev^$all
+! --- โดเมนโฆษณา ---
+||tubecorporate.com^
 ! ===== เว็บพนัน / redirect =====
 ||sexygame666r.com^
 ||lockdown168q.com^
@@ -49,7 +53,6 @@ www.037hddmovie.com##img.img-responsive
 ||sv1.cdnbm168.xyz^
 ||ufazeed1.com^
 ||ufazeed18.com^
-||ibit.ly^
 ||cutt.ly^
 ||t.ly^
 ||huaylike7.com^
