@@ -2,9 +2,48 @@
 ! Description: Mobile AV
 ! Homepage: https://github.com/Tony2522tony/ton-blocklist
 ! Expires: 3 days
-! Version: 1.0.7
+! Version: 1.0.8
 !
 
+! ==============================
+! SEX3.COM
+! ==============================
+sex3.com##.block-video .player_meta
+! ==============================
+! ROCK.PORN
+! ==============================
+rock.porn##.spot_header_mobile
+rock.porn##.above_player_ads
+rock.porn##.wrapper-box-aside .spot
+rock.porn##.wrapper-box-aside .above_player_ads
+rock.porn##main.sections > .container > .container
+rock.porn##main.sections > .container > .container:last-of-type
+! ==============================
+! ABMILF.COM
+! ==============================
+abmilf.com##div.video__wrapper > div:nth-of-type(4)
+abmilf.com##a.banner__container
+abmilf.com##div.header__item.header_mobile
+abmilf.com##div.wrapper.banner
+! ==============================
+! XOZILLA.COM
+! ==============================
+xozilla.com##div#list_models_top_models
+! ==============================
+! ABJAV.ME
+! ==============================
+abjav.me###app div.app__container div.wrapper.banner:first-of-type
+! ==============================
+! ITS.PORN
+! ==============================
+its.porn##+js(window.open-defuser)
+its.porn##+js(aopr, window.open)
+its.porn##+js(nowoif)
+its.porn###invb_banners
+! ==============================
+! EXAMPLE.COM (TEST)
+! ==============================
+example.com##.adsbox:style(display:block !important;)
 ! ==============================
 ! UPORNIA.COM
 ! ==============================
