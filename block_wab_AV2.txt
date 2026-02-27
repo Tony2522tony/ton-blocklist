@@ -2,9 +2,61 @@
 ! Description: Mobile AV
 ! Homepage: https://github.com/Tony2522tony/ton-blocklist
 ! Expires: 3 days
-! Version: 1.0.8
+! Version: 1.0.9
 !
 
+! ==============================
+!=TUBE8.COM
+! ==============================
+tube8.com##.video-uploaderInfoWrapper
+! ==============================
+!=3MOVS.COM
+! ==============================
+3movs.com##.section.border
+! ==============================
+!=YOUPORN.COM
+! ==============================
+youporn.com##div#announcement-bar
+youporn.com###mainWrapper > div:nth-child(2)
+! ==============================
+!=REDTUBE.COM
+! ==============================
+redtube.com##.watch_page_content
+! ==============================
+!=YOUJIZZ.COM
+! ==============================
+youjizz.com###related .video-thumb
+youjizz.com##.mobile-only .text-center
+! ==============================
+!=PORNTREX.COM
+! ==============================
+porntrex.com###block-chat .info-holder
+porntrex.com##.content > div:nth-of-type(5)
+! ==============================
+!=M.HQPORNER.COM
+! ==============================
+m.hqporner.com##.websiteWrapper > div:nth-of-type(3) > a
+! ==============================
+!=MOTHERLESS.COM
+! ==============================
+motherless.com##.media-groups-wrapper
+motherless.com##.quickies-home
+motherless.com##.ml-sliding-grouped-wrapper
+motherless.com##.control-box > .row:last-of-type
+motherless.com##.ml-media-meta-info
+motherless.com##.ml-members-content-wrapper
+motherless.com##.ml-media-meta-comments
+motherless.com##.view-page-jumplinks
+motherless.com##iframe[src*="trustberrie.com"]
+motherless.com###mobile_in_content_view
+! ==============================
+!=SEXU.COM
+! ==============================
+sexu.com##.player-block__link
+! ==============================
+!=ABJAV.ME
+! ==============================
+abjav.me##.video__wrapper .left > section:last-of-type
 ! ==============================
 ! SEX3.COM
 ! ==============================
