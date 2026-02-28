@@ -2,9 +2,52 @@
 ! Description: Mobile AV
 ! Homepage: https://github.com/Tony2522tony/ton-blocklist
 ! Expires: 3 days
-! Version: 1.0.9
+! Version: 1.1.0
 !
 
+! ==============================
+! LETMEJERK.COM
+! ==============================
+letmejerk.com##main.main > div.container > div:first-child
+! ==============================
+! AB-XXX.COM
+! ==============================
+ab-xxx.com##.wrapper.banner
+! ==============================
+! PUSSYSPACE.COM
+! ==============================
+pussyspace.com##body > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)
+pussyspace.com##body > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1)
+pussyspace.com##body > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(5)
+pussyspace.com##body > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(6) > div:nth-of-type(2)
+pussyspace.com##body > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(3)
+pussyspace.com##body > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(2) > div:nth-of-type(2)
+! ==============================
+! LETSJERK.TV
+! ==============================
+letsjerk.tv##div[class*="spot"]
+! ==============================
+! PORNOBAE.COM
+! ==============================
+pornobae.com##div.happy-under-player-mobile
+pornobae.com##iframe[width="300"][height="100"][src*="adtng"]
+||a.adtng.com^$domain=pornobae.com
+! ==============================
+! ANYSEX.COM
+! ==============================
+anysex.com##div[id^="head"]
+! ==============================
+! TXXX.COM
+! ==============================
+txxx.com##.wwcccwkcykr
+txxx.com##.page-video .uduurwcdwrcddwdyyd > div:last-child
+! ==============================
+! PORNDIG.COM
+! ==============================
+porndig.com##.video_page_wrapper_16by9
+porndig.com##iframe.mobile_banner_frame
+porndig.com##.post_bottom_extra_wrapper
+porndig.com##.js_webcam_models_container
 ! ==============================
 !=TUBE8.COM
 ! ==============================
