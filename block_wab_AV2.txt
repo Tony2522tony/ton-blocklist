@@ -2,9 +2,69 @@
 ! Description: Mobile AV
 ! Homepage: https://github.com/Tony2522tony/ton-blocklist
 ! Expires: 3 days
-! Version: 1.1.0
+! Version: 1.1.1
 !
 
+! ==============================
+! XMILF.COM
+! ==============================
+xmilf.com##main.main:nth-child(2) > div.main-content > div.video__wrapper:first-child > div.wrapper:nth-child(6)
+xmilf.com##div.video-page__items:last-of-type > div.video-page__item:first-of-type
+xmilf.com###fhvids
+xmilf.com##div.video__wrapper > div.wrapper:nth-of-type(4)
+xmilf.com##div.video__wrapper > div.wrapper:last-of-type
+xmilf.com##section[data-nosnippet]
+xmilf.com###app > div.app__wrapper > main.main > div.main-content > div.video__wrapper > div.header__item
+! ==============================
+! HADESEX.COM
+! ==============================
+hadesex.com##aside:nth-child(4)
+hadesex.com##article.video-wrapper > aside.video-aside
+hadesex.com##article.video-wrapper > div.video-container > div.unplay-mob
+hadesex.com##section:has(> article.video-wrapper) div.header-spo
+! ==============================
+! XXX.OBSERVER
+! ==============================
+xxx.observer##+js(aeld, click)
+xxx.observer##+js(aeld, mousedown)
+xxx.observer##+js(aeld, touchstart)
+xxx.observer##+js(abort-current-inline-script)
+xxx.observer##aside.xtubwatchaside
+xxx.observer##iframe[src*="garlicice"]
+! ==============================
+! SEXJAVXXX.NET
+! ==============================
+sexjavxxx.net##div.wrapper > div.bottom-blocks
+sexjavxxx.net##article.video-wrapper > aside.video-aside
+! ==============================
+! WONDERASIAN.COM
+! ==============================
+wonderasian.com##div#chu
+wonderasian.com##div:has(> iframe.na)
+! ==============================
+! SEXVID.XXX
+! ==============================
+sexvid.xxx##div.media-holder:first-child > div.cs:nth-child(3)
+sexvid.xxx##div.spot-holder.under-player
+sexvid.xxx##div.media-holder > div.cs:has(iframe)
+sexvid.xxx##div#fltd
+sexvid.xxx##div#fltd-inner
+sexvid.xxx##+js(remove, #fltd)
+! ==============================
+! AD DOMAINS
+! ==============================
+||3dfulicai.com^
+##div:has(iframe[src*="3dfulicai.com"])
+! ==============================
+! POPUP / BLACK TAB
+! ==============================
+||asg.myvideos.club^$all
+||smartcj.com^$all
+||s.pemsrv.com^$all
+||pemsrv.com^$all
+||go.rmhfrtnd.com^$all
+||cc.garlicice.store^
+||toxsales1.com^$all
 ! ==============================
 ! LETMEJERK.COM
 ! ==============================
