@@ -2,9 +2,68 @@
 ! Description: Mobile AV
 ! Homepage: https://github.com/Tony2522tony/ton-blocklist
 ! Expires: 3 days
-! Version: 1.1.2
+! Version: 1.1.3
 !
 
+! ==============================
+! FUJAV.COM
+! ==============================
+fujav.com##.video-wrapper > section:last-of-type
+fujav.com##.video-wrapper > div:nth-child(4)
+fujav.com##.video-wrapper > div.partners-wrap:nth-child(3)
+fujav.com##.video__info:last-child > section:last-child
+fujav.com##.video-wrapper > section:first-child
+! ==============================
+! GFTHAI.COM
+! ==============================
+gfthai.com##.video-wrapper > section:last-child
+gfthai.com##.video-wrapper > div:nth-child(4)
+gfthai.com##.partners-wrap
+gfthai.com##.video__info--fixed > section:last-child
+gfthai.com##.video-wrapper > section:first-of-type
+! ==============================
+! KEPORN.COM
+! ==============================
+keporn.com##.video-wrapper span:has-text(AD)
+keporn.com###app > div > div.app:last-child > main.app__wrapper:first-child > div.content:last-child > div.video-wrapper > div.video:nth-child(2) > div.video__content > div.left > div.video__info.video__info--fixed:last-child > section:last-child > div > h4:last-child
+keporn.com##.video-wrapper > div:nth-child(4)
+keporn.com##.video-wrapper > div:not(:has(.jw-wrapper)) > div:has(iframe)
+keporn.com##.video-wrapper > section:last-of-type
+keporn.com##.video-wrapper > section:first-child
+! ==============================
+! TXXX.ME
+! ==============================
+txxx.me##a:has(span:has-text(/^AD$/))
+! ==============================
+! JAVLUST.NET
+! ==============================
+javlust.net##.col-auto.col-md-3.col-xl-2.bg-dark
+! ==============================
+! SENZURI.ME
+! ==============================
+senzuri.me##footer.footer
+! ==============================
+! ASIANMUFFIN.COM
+! ==============================
+asianmuffin.com##div.block-video a.fh-line
+asianmuffin.com##div#list_videos_related_videos iframe
+asianmuffin.com##div.player-top-line
+! ==============================
+! SEXKBJ.COM
+! ==============================
+sexkbj.com###masthead > div.happy-header-mobile
+sexkbj.com###custom_html-25
+! ==============================
+! ABJAV.COM
+! ==============================
+abjav.com##.video-page__content > .left > div:not(:has(video)):first-child
+! ==============================
+! JAPAN-WHORES.COM
+! ==============================
+japan-whores.com###kt_player a[class*="fp-logo"]
+japan-whores.com###list_videos_related_videos > div:nth-child(2)
+japan-whores.com##main > center:nth-of-type(1)
+japan-whores.com##div.video_player > a.fh-!line
 ! ==============================
 ! ABXXX.COM
 ! ==============================
