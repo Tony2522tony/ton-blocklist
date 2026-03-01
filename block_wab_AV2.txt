@@ -2,9 +2,45 @@
 ! Description: Mobile AV
 ! Homepage: https://github.com/Tony2522tony/ton-blocklist
 ! Expires: 3 days
-! Version: 1.1.1
+! Version: 1.1.2
 !
 
+! ==============================
+! ABXXX.COM
+! ==============================
+abxxx.com##.wrapper.banner
+abxxx.com##.video-page .header__item.header_mobile
+! ==============================
+! HOTMOVS.COM
+! ==============================
+hotmovs.com###app .wrapper--video .video-page .underplayer > .underplayer__info
+hotmovs.com###app .wrapper--video .video-page > div:nth-child(9)
+hotmovs.com###app .content.index-page .content-block > div:nth-child(8)
+hotmovs.com##.video-page .block_label.mt-15
+hotmovs.com##.video-page > .block_label.mt-15
+! ==============================
+! XHSOCIAL.COM
+! ==============================
+xhsocial.com##.main-wrap > div:nth-child(4) > div:first-child
+xhsocial.com##div.m-related-container.mobile-0c900 div.video_block.videoListMobile-81bf3 ul.thumb-list-mobile > div.ghFH-baV--middle:last-child
+xhsocial.com##.main-wrap > .layoutPage > div:nth-child(3) > div:nth-child(5)
+xhsocial.com##.main-wrap > .layoutPage > aside:first-child
+xhsocial.com##.search-results .video_block ul.thumb-list-mobile > .ghFH-baV--middle
+xhsocial.com##ul.thumb-list-mobile > div.thumb-list-mobile-item--widget:nth-child(17)
+xhsocial.com##ul.thumb-list-mobile > div.ghFH-baVpremium-n-overlay.fixed-height
+xhsocial.com##ul.thumb-list-mobile > div.bNRX-MCUox--middle
+xhsocial.com##ul.thumb-list-mobile > li.thumb-list-mobile-item--widget
+xhsocial.com##ul.thumb-list-mobile > .bNRX-MCUoxpremium-n-overlay.fixed-height
+! ==============================
+! ZENPORN.COM
+! ==============================
+zenporn.com##div[class*="bnr"]
+zenporn.com##div.video__content > div.video__side:last-child
+! ==============================
+! ITSEX.TUBE
+! ==============================
+itsex.tube##iframe[src*="ad"]
+itsex.tube##iframe[src*="promo"]
 ! ==============================
 ! XMILF.COM
 ! ==============================
