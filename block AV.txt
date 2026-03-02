@@ -2,9 +2,44 @@
 ! Description: Mobile ads Av
 ! Homepage: https://github.com/Tony2522tony/ton-blocklist
 ! Expires: 1 days
-! Version: 5.2
+! Version: 5.3
 !
 
+! ==============================
+! XHAND.NET
+! ==============================
+xhand.net##.main__holder > div:first-child:not(.video)
+xhand.net##.video > .container > div[style]
+xhand.net##iframe[src^="https://a.adtng.com/get/"]
+xhand.net##.video > .container > div:first-child
+! ==============================
+! JAPAN-WHORES.COM
+! ==============================
+japan-whores.com##center
+japan-whores.com###list_videos_related_videos > div:nth-child(3) iframe
+japan-whores.com###list_videos_related_videos > iframe
+japan-whores.com###list_videos_related_videos > div:nth-child(2)
+! ==============================
+! F1.INPORN.VIP
+! ==============================
+f1.inporn.vip##div.__inst-container.__inst-container__mobile
+! ==============================
+! EPORNER.COM
+! ==============================
+eporner.com##div#vidcontent > div[style]
+! ==============================
+! DRTUBER.COM
+! ==============================
+@@||m.drtuber.com^$script,domain=m.drtuber.com
+@@||drtuber.com^$script,domain=m.drtuber.com
+@@||drtuber.com^$media,domain=m.drtuber.com
+! ==============================
+! VXXX.COM
+! ==============================
+vxxx.com##.video-page-content-left.without-padding > div.pwa-ad
+vxxx.com##.page.video-page .wrapper.wrapper-margin > div:nth-of-type(3)
+vxxx.com##+js(rmnt, div.wrapper.wrapper-margin > div, if, has, iframe)
+! ==============================
 !=====hot-sex-tube.com====
 hot-sex-tube.com##div#content > div[style]
 hot-sex-tube.com##div#ntv
