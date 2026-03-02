@@ -2,9 +2,49 @@
 ! Description: Mobile ads Av
 ! Homepage: https://github.com/Tony2522tony/ton-blocklist
 ! Expires: 1 days
-! Version: 5.4.1
+! Version: 5.4.2
 !
 
+! ==============================
+! POVJP.COM
+! ==============================
+povjp.com##.main-cams-wrap
+povjp.com##.bottom-adv
+povjp.com##.player-holder > a.fh-line
+povjp.com##div.advertisement
+povjp.com##div.fh-line2
+povjp.com###kt_player > div.fp-player:last-child > div.player-top-line.shown:nth-child(2)
+! ==============================
+! BOKEP.PORN
+! ==============================
+bokep.porn##div:has(> #rock-widget-host)
+bokep.porn##h4.banner-asd__title
+! ==============================
+! OOXXX.VIP
+! ==============================
+ooxxx.vip##.content-block .content > .wrapper > div:nth-last-child(4)
+! ==============================
+! PORNLIB.COM
+! ==============================
+pornlib.com##.main_video_page .spots
+! ==============================
+! MANYSEX.COM
+! ==============================
+manysex.com##.underplayer-review
+manysex.com##.video-page .fah-btn.nopop
+! ==============================
+! XHAND.NET
+! ==============================
+xhand.net###scrollhere iframe
+xhand.net###kt_player .fp-big-play
+! ==============================
+! 2JAV.COM
+! ==============================
+2jav.com##.container > .header-banner
+2jav.com##.content-block:last-of-type > div:nth-of-type(5)
+2jav.com##.related_content .ft-row
+2jav.com##.main > .container > div:nth-child(5) > div:first-child
+! ==============================
 ! ==============================
 ! FUJAV.COM
 ! ==============================
