@@ -2,9 +2,49 @@
 ! Description: Mobile ads Av
 ! Homepage: https://github.com/Tony2522tony/ton-blocklist
 ! Expires: 1 days
-! Version: 5.4.2
+! Version: 5.4.3
 !
 
+! ==============================
+! 4KPORN.XXX
+! ==============================
+4kporn.xxx##div.adswarning iframe
+4kporn.xxx##div.noopenlink.adswarning.outstreambp
+! ==============================
+! FUXXX.COM
+! ==============================
+fuxxx.com##.video-wrapper > section:first-child
+fuxxx.com##.video__info--fixed section:last-child span
+fuxxx.com##.video-wrapper > .partners
+fuxxx.com##.video-wrapper > div:nth-of-type(3)
+fuxxx.com##.video-wrapper > section:last-child
+fuxxx.com##.video-wrapper .video__info > .video-info
+fuxxx.com##.video-wrapper .video__info section h4
+! ==============================
+! ANYPORN.COM
+! ==============================
+anyporn.com##.mh-ad
+! ==============================
+! TXXX.COM
+! ==============================
+txxx.com##.jw-title-secondary .jw-channel
+! ==============================
+! PORNID.XXX
+! ==============================
+pornid.xxx##.top-spot iframe
+! ==============================
+! AH-ME.COM
+! ==============================
+ah-me.com##a.cams-button.upd-source.no-tab
+! ==============================
+! SEXVID.XXX
+! ==============================
+sexvid.xxx##.spot-holder.under-player
+sexvid.xxx##div.cs
+sexvid.xxx##div.spot
+sexvid.xxx###slot-player
+sexvid.xxx###fltd
+sexvid.xxx##.player-top-line
 ! ==============================
 ! POVJP.COM
 ! ==============================
