@@ -5,3 +5,277 @@
 ! Version: 1.0
 !
 
+! ==============================
+! 4KPORN.XXX
+! ==============================
+4kporn.xxx##div.adswarning iframe
+4kporn.xxx##div.noopenlink.adswarning.outstreambp
+! ==============================
+! FUXXX.COM
+! ==============================
+fuxxx.com##.video-wrapper > section:first-child
+fuxxx.com##.video__info--fixed section:last-child span
+fuxxx.com##.video-wrapper > .partners
+fuxxx.com##.video-wrapper > div:nth-of-type(3)
+fuxxx.com##.video-wrapper > section:last-child
+fuxxx.com##.video-wrapper .video__info > .video-info
+fuxxx.com##.video-wrapper .video__info section h4
+! ==============================
+! ANYPORN.COM
+! ==============================
+anyporn.com##.mh-ad
+! ==============================
+! TXXX.COM
+! ==============================
+txxx.com##.jw-title-secondary .jw-channel
+txxx.com##.wwcccwkcykr
+txxx.com##.page-video .uduurwcdwrcddwdyyd > div:last-child
+txxx.com##div.hgvvrhirhicchvkooviic
+! ==============================
+! PORNID.XXX
+! ==============================
+pornid.xxx##.top-spot iframe
+! ==============================
+! AH-ME.COM
+! ==============================
+ah-me.com##a.cams-button.upd-source.no-tab
+! ==============================
+! SEXVID.XXX
+! ==============================
+sexvid.xxx##.spot-holder.under-player
+sexvid.xxx##div.cs
+sexvid.xxx##div.spot
+sexvid.xxx###slot-player
+sexvid.xxx###fltd
+sexvid.xxx##.player-top-line
+! ==============================
+! POVJP.COM
+! ==============================
+povjp.com##.main-cams-wrap
+povjp.com##.bottom-adv
+povjp.com##.player-holder > a.fh-line
+povjp.com##div.advertisement
+povjp.com##div.fh-line2
+povjp.com###kt_player > div.fp-player:last-child > div.player-top-line.shown:nth-child(2)
+! ==============================
+! BOKEP.PORN
+! ==============================
+bokep.porn##div:has(> #rock-widget-host)
+bokep.porn##h4.banner-asd__title
+! ==============================
+! OOXXX.VIP
+! ==============================
+ooxxx.vip##.content-block .content > .wrapper > div:nth-last-child(4)
+! ==============================
+! PORNLIB.COM
+! ==============================
+pornlib.com##.main_video_page .spots
+pornlib.com##span.spot-title
+pornlib.com##div.sspots.middle_mobile_adv
+pornlib.com##body:style(overflow:auto!important;)
+! ==============================
+! MANYSEX.COM
+! ==============================
+manysex.com##.underplayer-review
+manysex.com##.video-page .fah-btn.nopop
+! ==============================
+! XHAND.NET
+! ==============================
+xhand.net###scrollhere iframe
+xhand.net###kt_player .fp-big-play
+! ==============================
+! JAPAN-WHORES.COM
+! ==============================
+japan-whores.com##center
+japan-whores.com###list_videos_related_videos > div:nth-child(3) iframe
+japan-whores.com###list_videos_related_videos > iframe
+japan-whores.com###list_videos_related_videos > div:nth-child(2)
+! ==============================
+! F1.XJAV.CLUB
+! ==============================
+f1.xjav.club##.video__wrapper > .header__item
+f1.xjav.club##.video-page__content section:nth-of-type(1)
+f1.xjav.club##div.video__wrapper:last-child > div.wrapper:nth-of-type(4)
+f1.xjav.club##div.video__wrapper:last-child > div.wrapper:nth-of-type(6)
+f1.xjav.club##div.video__wrapper > div.wrapper:nth-of-type(8):style(display:none!important)
+f1.xjav.club##.comments
+f1.xjav.club##section[is-footer-banners]
+f1.xjav.club##div.wrapper.headline
+! ==============================
+! F1.MANYSEX.VIP
+! ==============================
+f1.manysex.vip##div.video__wrapper:first-child > div.header__item
+! ==============================
+! F1.BDSMX.VIP
+! ==============================
+f1.bdsmx.vip##div.video__wrapper > div.header__item:first-child
+f1.bdsmx.vip##div.video__wrapper > div.wrapper:nth-of-type(3)
+f1.bdsmx.vip##div.video__wrapper > div.wrapper:nth-of-type(4)
+f1.bdsmx.vip##div.fah-btn.nopop
+f1.bdsmx.vip##.__bai-container
+f1.bdsmx.vip##.uaak-force-visible
+f1.bdsmx.vip##html,body:style(overflow:auto!important;)
+! ==============================
+! F1.XMILF.VIP
+! ==============================
+f1.xmilf.vip##div.video__wrapper:first-child > div.wrapper:nth-of-type(n+6)
+! ==============================
+! F1.UPORNIA.ONLINE
+! ==============================
+f1.upornia.online##a.top-bar
+f1.upornia.online##div:has(> button)
+||cmonbae.com^$domain=f1.upornia.online
+! ==============================
+! F1.HCLIPS.ONLINE
+! ==============================
+f1.hclips.online##div.fh-line2
+f1.hclips.online##div.video__wrapper:last-child div.left:last-child > div.fah-btn.nopop
+f1.hclips.online##div.content-block div.video__wrapper:last-child > div:nth-child(4)
+f1.hclips.online##div.left:last-child > div.video-page__mobile-user
+! ==============================
+! F1.INPORN.VIP
+! ==============================
+f1.inporn.vip##div.__inst-container.__inst-container__mobile
+f1.inporn.vip##section[data-nosnippet],.uaak-force-visible
+f1.inporn.vip##body,html:style(overflow:auto!important;)
+f1.inporn.vip##+js(window-open-defuser)
+f1.inporn.vip##iframe
+f1.inporn.vip##div[style*="position: fixed"]
+f1.inporn.vip##div[style*="z-index"][style*="fixed"]
+f1.inporn.vip##+js(aopr,open)
+! ==============================
+! M.DRTUBER.COM
+! ==============================
+m.drtuber.com##div.holder.video_play > div.container:nth-of-type(n+4)
+m.drtuber.com##a.player_premium_bar
+m.drtuber.com##div.rated_box.section_frame_tools
+m.drtuber.com##div.vpage_premium_bar
+m.drtuber.com##div.wrap_spots
+m.drtuber.com##div[class*="spots"]
+! ==============================
+! DRTUBER.COM
+! ==============================
+@@||m.drtuber.com^$script,domain=m.drtuber.com
+@@||drtuber.com^$script,domain=m.drtuber.com
+@@||drtuber.com^$media,domain=m.drtuber.com
+! ==============================
+! M.HD21.COM
+! ==============================
+m.hd21.com###lcams .wrap_spot .spot
+! ==============================
+! M.NUVID.COM
+! ==============================
+m.nuvid.com###lcams
+! ==============================
+! NUVID.COM
+! ==============================
+nuvid.com##div.advertisement
+nuvid.com##.comments
+nuvid.com###comments
+! ==============================
+! JAPFLAPS.COM
+! ==============================
+japflaps.com##div.wrapper > main > div.container > div:last-child
+japflaps.com##div[class*="promo"]
+japflaps.com##iframe[src*="ads"]
+japflaps.com##body:style(overflow:auto!important;)
+japflaps.com##div.wrapper:nth-child(2) > main.main:nth-child(2) > div.container:nth-child(2)
+japflaps.com##div.wrapper:nth-child(2) > main.main:nth-child(2) > div:last-child
+japflaps.com##div.pink-avd-wrapper
+! ==============================
+! VIDEOJAV.COM
+! ==============================
+videojav.com##div.center-spot
+videojav.com##div.mobile-device
+videojav.com##div.video-side__adv_title.spot_title
+videojav.com##iframe.na
+videojav.com##body:style(overflow:auto!important;)
+! ==============================
+! M.TUBEWOLF.COM
+! ==============================
+m.tubewolf.com##div.top-banners
+! ==============================
+! M.VIVATUBE.COM
+! ==============================
+m.vivatube.com##div.whack.adv
+m.vivatube.com##div.loader-ajax
+m.vivatube.com##h2
+! ==============================
+! M.ICEPORN.CLUB
+! ==============================
+m.iceporn.club##.livecams_main
+m.iceporn.club##div:nth-of-type(13)
+! ==============================
+! XOZILLA.XXX
+! ==============================
+xozilla.xxx##div.container:nth-child(4) > div.content:nth-child(2) > div.headline.video-page-headline:nth-child(2) > p:nth-child(2)
+xozilla.xxx##div.container:nth-child(4) > div.content:nth-child(2)
+xozilla.xxx##div.container:nth-child(4) > div:nth-child(7)
+! ==============================
+! PORNSTEAK.COM
+! ==============================
+pornsteak.com##.coockie_warning .content
+pornsteak.com##div.opt.adv-responsive
+! ==============================
+! PORNONE.COM
+! ==============================
+pornone.com##div.flex.items-center.col-span-full.overflow-x-scroll
+pornone.com##.ad-container
+pornone.com##.adsbygoogle
+pornone.com##div[class*="promo"]
+pornone.com##iframe[src*="ads"]
+pornone.com##div[style*="position: fixed"]
+pornone.com##body,html:style(overflow:auto!important;)
+! ==============================
+! SPANKBANG.COM
+! ==============================
+spankbang.com##.ad-wrapper
+spankbang.com##span.video-inline-ads
+spankbang.com##div[style*="position: fixed"]
+spankbang.com##body,html:style(overflow:auto!important;)
+! ==============================
+! JAVGG.NET
+! ==============================
+javgg.net##div.asg-interstitial
+javgg.net##div[id^="asg"]
+javgg.net##div[class*="asg"]
+javgg.net##iframe[src*="asg"]
+javgg.net##body:style(overflow:auto!important;)
+! ==============================
+! HCLIPS.COM
+! ==============================
+hclips.com##div[class*="ads"]
+hclips.com##div[id*="ads"]
+hclips.com##iframe[src*="ads"]
+hclips.com##div[style*="position: fixed"]
+hclips.com##body:style(overflow:auto!important;)
+! ==============================
+! M.XVIDEOS.COM
+! ==============================
+m.xvideos.com##div[class*="ads"]
+m.xvideos.com##div[id*="ads"]
+m.xvideos.com##iframe[src*="ads"]
+! ==============================
+! M.XNXX.COM
+! ==============================
+m.xnxx.com##div[class*="ads"]
+m.xnxx.com##div[id*="ads"]
+m.xnxx.com##iframe[src*="ads"]
+! ==============================
+! XHSOCIAL.COM
+! ==============================
+xhsocial.com##div[class*="popup"]
+xhsocial.com##div[class*="Shadow"]
+xhsocial.com##div[style*="position: fixed"]
+xhsocial.com##body:style(overflow:auto!important;)
+! ==============================
+! XXXFILES.COM
+! ==============================
+xxxfiles.com##.header_spot
+xxxfiles.com##.center-spot
+xxxfiles.com##.spot_footer
+xxxfiles.com##.video-side__adv_title
+xxxfiles.com##.adv-list
+xxxfiles.com##iframe.na
+xxxfiles.com##div[class*="spot"]
+xxxfiles.com##body > div:nth-of-type(3) > div > div > div:nth-of-type(3)
