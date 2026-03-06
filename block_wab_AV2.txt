@@ -2,9 +2,166 @@
 ! Description: Mobile AV
 ! Homepage: https://github.com/Tony2522tony/ton-blocklist
 ! Expires: 3 days
-! Version: 1.0.1
+! Version: 1.0.2
 !
 
+! ==============================
+! MYLUST.COM
+! ==============================
+mylust.com##div.fluid_context_menu + div.fluid_html_on_pause
+! ==============================
+! ADULTXHUB.COM
+! ==============================
+adultxhub.com##.block-comments
+! ==============================
+! ZBPORN.COM
+! ==============================
+zbporn.com##.comments-holder
+zbporn.com##.under-player-link-holder
+zbporn.com##.comments-head.center
+zbporn.com##.row-links
+zbporn.com##.sp-player-title
+zbporn.com##.sp-player-overlay
+zbporn.com##.sp-player-continue
+zbporn.com##.sp-player-close
+zbporn.com##.sp-player-spot
+zbporn.com##script + div.player-top-line
+! ==============================
+! ANALDIN.COM
+! ==============================
+www.analdin.com##.headline
+www.analdin.com##div.block + div.footer-ads
+www.analdin.com##.bottom-ads
+! ==============================
+! LETSPORN.COM
+! ==============================
+letsporn.com##.headline
+letsporn.com##div.cs-block + div.one-row
+letsporn.com##.cs-block
+letsporn.com##div.one-row + p.video-description
+letsporn.com##.cs-info-holder
+letsporn.com##.sp-row
+letsporn.com##nav.nav + div.mb-0
+letsporn.com###im-spot
+! ==============================
+! XXXDAN.COM
+! ==============================
+xxxdan.com##div[data-zone*="mob-bfr-plr"]
+xxxdan.com##div[class*="zx"]
+! ==============================
+! HD21.COM
+! ==============================
+m.hd21.com##.mercantile_title
+m.hd21.com##a.player_premium_bar
+! ==============================
+! ICEPORN.CLUB
+! ==============================
+m.iceporn.club###play_dvd_html5 + a.player_premium_bar
+! ==============================
+! TUBEON.CLUB
+! ==============================
+m.tubeon.club##a.superficies + a.player_premium_bar
+! ==============================
+! NUVID.COM
+! ==============================
+nuvid.com###banner_overlay
+nuvid.com##.player_premium_bar
+nuvid.com##a[href*="qigenu"]
+! ==============================
+! OOXXX.VIP
+! ==============================
+ooxxx.vip##.comments
+ooxxx.vip##a[href^="https://ctwmsg.com/"]
+ooxxx.vip##.fh-nomargin
+! ==============================
+! UPORNIA.ONLINE
+! ==============================
+f1.upornia.online##.video-page__mobile-user--item
+! ==============================
+! TXXX.ME
+! ==============================
+txxx.me##.jw-hardlink-btn.nopop
+txxx.me##.jw-reset > .nopop
+! ==============================
+! XMILF.VIP
+! ==============================
+f1.xmilf.vip##.video-page__item
+f1.xmilf.vip##.fh-line
+f1.xmilf.vip##.jw-hardlink-inner
+! ==============================
+! MOMVIDS.COM
+! ==============================
+momvids.com##.box.bottom-adv
+! ==============================
+! X-VIDEOZ.COM
+! ==============================
+x-videoz.com##.jw-hardlink-inner
+x-videoz.com##.jw-hardlink
+x-videoz.com##.jw-custom-btn.jw-hardlink-btn
+x-videoz.com##a.jw-channel-btn-link
+x-videoz.com##.jw-overlay.jw-reset
+! ==============================
+! SENZURI.TUBE
+! ==============================
+senzuri.tube##.comments__wrapper
+senzuri.tube##.fah-btn.nopop
+! ==============================
+! JAPAN-WHORES.COM
+! ==============================
+japan-whores.com##div.fp-ui + a.top
+japan-whores.com##div.wrapper + center
+japan-whores.com##.list-sort
+japan-whores.com###list_videos_related_videos_filter_list + div
+japan-whores.com###list_videos_related_videos > iframe[style*="display"][marginwidth="0"]
+japan-whores.com##style + a.fh-line
+japan-whores.com##.fh-line2
+
+! ==============================
+! MEGATUBE.XXX
+! ==============================
+megatube.xxx##.headline-breadcrumbs
+megatube.xxx##.list-sort
+megatube.xxx##.text-uppercase
+megatube.xxx##style + a.p-ig
+megatube.xxx##div.fp-ui + a.top
+! ==============================
+! HOTMOVS.TUBE
+! ==============================
+hotmovs.tube###app .wrapper--video .video-page > div:nth-of-type(9)
+hotmovs.tube##.wrapper--video > .video-page > div:first-of-type
+hotmovs.tube##+js(remove, .video-page > div > div[id])
+hotmovs.tube##.fah-btn.nopop
+hotmovs.tube##.fh-line2
+hotmovs.tube###player-1 .jw-button-container .jw-hardlink-inner
+hotmovs.tube##.jw-channel.nopop
+hotmovs.tube##.jw-custom-btn.jw-hardlink-btn
+! ==============================
+! PORNUSE.COM
+! ==============================
+pornuse.com##.video-slider
+pornuse.com##.video-info
+pornuse.com##.video-wrapper > div:nth-of-type(3)
+pornuse.com##.fah-btn.nopop
+! ==============================
+! PORNL.COM
+! ==============================
+pornl.com##div.wrapper > div:nth-child(4)
+! ==============================
+! KEPORN.COM
+! ==============================
+f1.keporn.com##+js(remove, div.jw-hardlink-inner)
+! ==============================
+! JAVDADDY.COM
+! ==============================
+javdaddy.com##div._videos-slider
+javdaddy.com##[class^="_videos-slider"]
+javdaddy.com##[class*=" _videos-slider"]
+! ==============================
+! PUSSYSPACE.COM
+! ==============================
+pussyspace.com###web_cam
+pussyspace.com##iframe[src*="lazyload.io?ads=true"]
+pussyspace.com##div:has(> iframe[src*="lazyload.io?ads=true"])
 ! ==============================
 !=UPORNIA.COM,ABXXX.COM,F1.BLACKPORN.CLUB,VXXX.COM,PORNTOP.COM,OOXXX.VIP,PORNL.COM,PORNUSE.COM,F1.UPORNIA.ONLINE,F1.HCLIPS.ONLINE,F1.XJAV.CLUB,TXXX.COM
 ! ==============================
