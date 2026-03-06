@@ -2,8 +2,9 @@
 ! Description: Adult / video site ads + residue cleaner (uBlock companion)
 ! Homepage: https://github.com/Tony2522tony/ton-blocklist
 ! Expires: 1 days
-! Version: 1.6.41
+! Version: 1.6.42
 !
+
 
 !=====หนังไทย====
 !===== 25-hd.com=======•
@@ -11,6 +12,10 @@
 25-hd.com##span.terminate-banner
 25-hd.com##.player-promo-box
 25-hd.com##.terminate-banner
+25-hd.com##.player-promo-box
+25-hd.com##.sidebar img[height="268"]
+25-hd.com##.fake-player-overlay
+25-hd.com##.fake-player-loading
 ! ===== 7-HD.COM =====
 7-hd.com##img.bottom-fix-banner
 7-hd.com##img.side-fix-banner
@@ -57,6 +62,12 @@ www.037hddmovie.com##img.img-responsive
 ||t.ly^
 ||huaylike7.com^
 ||neonewsspace.my^
+||cmonbae.com^
+||acquaintjokinglyscoring.com^
+||commodeoverfeedstifling.com^
+||creative.rmhfrtnd.com^
+||a.adtng.com^
+||th.trip.com^
 
 ===โดเมนโฆษณาพนัน===
 ||ibit.ly^
@@ -68,6 +79,9 @@ www.037hddmovie.com##img.img-responsive
 ||rb289^
 ||adsxtits.com^
 ||adtng.com^
+||debet.win^
+||atc96aff.com^
+||vbeeo.com^
 ! ===== redirect junk =====
 ||1ts18.top^
 ||1ts21.top^
