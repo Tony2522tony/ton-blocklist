@@ -6,6 +6,76 @@
 !
 
 ! ==============================
+! JAPAN-WHORES.COM
+! ==============================
+japan-whores.com##div.container.video_page.related-videos.pig-itspc > iframe
+japan-whores.com##center
+japan-whores.com###list_models_top_models
+japan-whores.com##div[data-spots*="491410"]
+japan-whores.com##center[contenteditable="false"]
+japan-whores.com##.fh-line2
+japan-whores.com##.related-videos iframe
+japan-whores.com##ul.list-sort + div
+japan-whores.com##div.container + #comment_section
+japan-whores.com##div.wrapper + center
+! ==============================
+! JAPFLAPS.COM
+! ==============================
+japflaps.com##.title
+japflaps.com##a[href^="http://fhgte.com/"]
+! ==============================
+! NPORN.VIP
+! ==============================
+nporn.vip##.jw-overlays
+! ==============================
+! INPORN.VIP
+! ==============================
+inporn.vip##.jw-preview
+! ==============================
+! F1.INPORN.VIP
+! ==============================
+f1.inporn.vip##.comments
+f1.inporn.vip##.wrapper.headline
+! ==============================
+! SOPORNVIDEOS.COM
+! ==============================
+www.sopornvideos.com##div.cat + #ins
+! ==============================
+! PORNHAT.TV
+! ==============================
+pornhat.tv,e.xv-cdn.net###bb_1 + #bb_2
+! ==============================
+! PORNTRY.COM
+! ==============================
+www.porntry.com##.video-side__adv_title
+www.porntry.com##div[data-spots*="321356"]
+www.porntry.com###player + div.underplayer_banner
+! ==============================
+! APORNOTUBE.NET
+! ==============================
+apornotube.net##.player-wrap > div[style*="z-index"]
+apornotube.net##+js(remove, .player-wrap > div[style*="z-index"])
+apornotube.net##.player-wrap > div[style*="z-index: 9999"]
+www.apornotube.net##ul.ad
+! ==============================
+! ANALDIN.COM
+! ==============================
+www.analdin.com##.comments-box
+! ==============================
+! XHSOCIAL.COM
+! ==============================
+xhsocial.com##.mobileHorizontal-a85ac.small-a85ac
+xhsocial.com###video_box + div.yJ-IGsp-l-tab
+! ==============================
+! F1.XJAV.CLUB
+! ==============================
+f1.xjav.club##.fah-btn
+! ==============================
+! XGROOVY.COM
+! ==============================
+xgroovy.com##div.item + div.headO
+xgroovy.com##script + #tab_comments
+! ==============================
 ! MYLUST.COM
 ! ==============================
 mylust.com##div.fluid_context_menu + div.fluid_html_on_pause
