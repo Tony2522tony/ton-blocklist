@@ -5,6 +5,15 @@
 ! Version: 1.0.3
 !
 
+##a[target="_blank"][href*=".com"]
+##a[target="_blank"][href*=".me"]
+##a[href*="landing"]
+##a[href*="redirect"]
+##a[href*="track"]
+##a[href*="out"]
+##a[href*="aff"]
+##a[href*="go."]
+##a[href*="/go/"]
 *##a[href*="erito.com/landing"][target="_blank"]
 *##a[href^="https://enter.javhd.com/"]
 *##a[href^="https://txxx.me/"]
