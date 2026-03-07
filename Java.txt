@@ -2,6 +2,17 @@
 ! Description: JS & block
 ! Homepage: https://github.com/Tony2522tony/ton-blocklist
 ! Expires: 1 days
-! Version: 1.0
+! Version: 1.0.1
 !
 
+##.video_page iframe:not([src*="player"])
+##.related-videos iframe
+##center > a > img
+##iframe[src*="ads"]
+##iframe[src*="pop"]
+##iframe[src*="traffic"]
+##iframe[src*="banner"]
+##iframe[src*="promo"]
+##a[href^="https://r.trackwilltrk.com/"]
+##a[href^="https://www.c4cgmn8trk.com/"]
+##.footer-ads
