@@ -2,9 +2,102 @@
 ! Description: Mobile AV
 ! Homepage: https://github.com/Tony2522tony/ton-blocklist
 ! Expires: 3 days
-! Version: 1.0.2
+! Version: 1.0.3
 !
 
+! ==============================
+! F1.MANYSEX.VIP
+! ==============================
+f1.manysex.vip##div.jw-spacer + div.nopop
+f1.manysex.vip##.jw-custom-btn.jw-hardlink-btn
+f1.manysex.vip##a[href*="enter.javhd.com/track/M"][target="_blank"]
+
+! ==============================
+! F1.INPORN.VIP
+! ==============================
+f1.inporn.vip##.jw-reset.jw-channel
+f1.inporn.vip##.jw-hardlink
+f1.inporn.vip##a.jw-channel-btn-link
+f1.inporn.vip##a[href^="https://enter.javhd.com/"]
+f1.inporn.vip##a[href*="inporn.com"][target="_blank"]
+
+! ==============================
+! F1.BDSMX.VIP
+! ==============================
+f1.bdsmx.vip##.wrapper.headline
+f1.bdsmx.vip##section[is-footer-banners]
+f1.bdsmx.vip##a[href^="https://www.c4cgmn8trk.com/"]
+
+! ==============================
+! JAPAN-WHORES.COM
+! ==============================
+japan-whores.com##div.wrapper + center
+japan-whores.com###list_videos_related_videos_filter_list + div
+japan-whores.com##a[rel*="nofollow"]
+japan-whores.com##a[href^="https://r.trackwilltrk.com/"]
+
+! ==============================
+! PORNTOP.COM
+! ==============================
+porntop.com##div.gfpl-wrapper
+porntop.com##.related-videos iframe
+porntop.com##.videos-slider-wrap
+porntop.com##.fah-btn.nopop
+porntop.com##.jw-title-secondary.jw-reset-text
+
+! ==============================
+! WHORESHUB.COM
+! ==============================
+www.whoreshub.com##.tab-content
+www.whoreshub.com##div[data-block-id*="video_comments_video_comments"]
+
+! ==============================
+! 3MOVS.COM
+! ==============================
+www.3movs.com##.title
+www.3movs.com##div[data-block-id*="video_comments_video_comments"]
+www.3movs.com##a[href*="3movslive.com"][target="_blank"]
+www.3movs.com##div[contenteditable*="fa"]
+
+! ==============================
+! ASIANMUFFIN.COM
+! ==============================
+www.asianmuffin.com##.tab-content
+www.asianmuffin.com##.main-cams-wrap
+www.asianmuffin.com##a[href^="https://r.trackwilltrk.com/"]
+
+! ==============================
+! XHSOCIAL.COM
+! ==============================
+xhsocial.com##div.tJyG-eJRsp-l-adshare[aria-hidden="true"]
+
+! ==============================
+! ADULTXHUB.COM
+! ==============================
+adultxhub.com##.jw-hardlink-inner
+adultxhub.com##a[href^="https://r.trackwilltrk.com/"]
+
+! ==============================
+! SOPORNVIDEOS.COM / VJAV.COM
+! ==============================
+sopornvideos.com,vjav.com##a[href^="https://enter.javhd.com/"]
+sopornvideos.com,vjav.com##div.afs_ads + div.nopop
+sopornvideos.com,vjav.com##div.jw-reset + div.nopop
+
+! ==============================
+! F1.INPORN.VIP / F1.BDSMX.VIP / ADULTXHUB.COM
+! ==============================
+f1.inporn.vip,f1.bdsmx.vip,adultxhub.com##.jw-hardlink-inner
+
+! ==============================
+! F1.BDSMX.VIP / F1.MANYSEX.VIP
+! ==============================
+f1.bdsmx.vip,f1.manysex.vip##.jw-custom-btn.jw-hardlink-btn
+
+! ==============================
+! 25-HD.COM
+! ==============================
+25-hd.com##.content-category
 ! ==============================
 ! JAPAN-WHORES.COM
 ! ==============================
