@@ -2,7 +2,7 @@
 ! Description: JS & block
 ! Homepage: https://github.com/Tony2522tony/ton-blocklist
 ! Expires: 1 days
-! Version: 1.0.3
+! Version: 1.0.4
 !
 
 ##a[target="_blank"][href*=".com"]
@@ -18,7 +18,6 @@
 *##a[href^="https://enter.javhd.com/"]
 *##a[href^="https://txxx.me/"]
 *##.video_page iframe:not([src*="player"])
-*##center > a > img
 *##a[href^="https://r.trackwilltrk.com/"]
 *##a[href^="https://www.c4cgmn8trk.com/"]
 *##.footer-ads
