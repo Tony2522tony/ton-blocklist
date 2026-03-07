@@ -1,0 +1,7 @@
+! Title: ♈️ JS
+! Description: JS & block
+! Homepage: https://github.com/Tony2522tony/ton-blocklist
+! Expires: 1 days
+! Version: 1.0
+!
+
