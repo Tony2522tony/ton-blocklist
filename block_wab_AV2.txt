@@ -2,9 +2,103 @@
 ! Description: Mobile AV
 ! Homepage: https://github.com/Tony2522tony/ton-blocklist
 ! Expires: 3 days
-! Version: 1.0.3
+! Version: 1.0.4
 !
 
+! ==============================
+! HOG.TV
+! ==============================
+hog.tv##.comments__line
+hog.tv##.player-block__actions
+hog.tv##.player-block__actions.actions
+hog.tv##.player-block__link
+hog.tv##div.player--narrow + div.content__info
+hog.tv##div.content__top + div.content__info
+! ==============================
+! PORNLIB.COM
+! ==============================
+www.pornlib.com##.col_item
+www.pornlib.com##.rate
+www.pornlib.com##.player_premium_bar
+! ==============================
+! NUVlD.COM
+! ==============================
+m.nuvid.com##a.th + #video_seek
+! ==============================
+! RUN.PORN
+! ==============================
+run.porn###aside[max="599"]
+run.porn##.video-links.pignr
+! ==============================
+! SPANKBANG.COM
+! ==============================
+th.spankbang.com##div.mt-4 + div.mt-4
+! ==============================
+! HOT-SEX-TUBE.COM / TXXX.ME
+! ==============================
+hot-sex-tube.com,txxx.me##div.jw-custom-btn + div.jw-custom-btn
+hot-sex-tube.com,txxx.me##svg[fill*="curren"]
+hot-sex-tube.com,txxx.me##.jw-hardlink-inner
+! ==============================
+! ICEPORN.CLUB
+! ==============================
+m.iceporn.club##div.catalog + div.catalog
+m.iceporn.club##.partner_text_link
+m.iceporn.club##div.message + div.tooling
+! ==============================
+! INPORN.VIP
+! ==============================
+f1.inporn.vip###fhvids > div.headline
+! ==============================
+! OOXXX.VIP
+! ==============================
+ooxxx.vip##.video-page__info
+ooxxx.vip##.carousel-wrapper__content
+! ==============================
+! JAPAN-WHORES.COM
+! ==============================
+japan-whores.com###upb-panel + center
+japan-whores.com##ul.list-sort + div
+japan-whores.com##.related-videos.pig-itspc > iframe
+japan-whores.com###list_videos_related_videos .pig-itspc
+japan-whores.com##+js(remove, iframe[src*="ads"])
+! ==============================
+! MOMVIDS.COM
+! ==============================
+www.momvids.com##.mobile_hidden
+! ==============================
+! KEPORN.COM
+! ==============================
+f1.keporn.com##div.jw-spacer + div.nopop
+f1.keporn.com##.jw-custom-btn.jw-hardlink-btn
+! ==============================
+! STILEPROJECT.COM
+! ==============================
+www.stileproject.com##.top
+www.stileproject.com##.footer-margin
+! ==============================
+! XFEED.COM
+! ==============================
+xfeed.com##div[aria-label*="Related dialog"]
+xfeed.com##.icon-small
+! ==============================
+! X-VIDEOZ.COM / TXXX.ME
+! ==============================
+x-videoz.com,txxx.me##div.jw-title[dir="auto"]
+txxx.me,x-videoz.com##a[href^="https://txxx.me/"]
+vjav.com##.video-page__mobile-user
+x-videoz.com,txxx.me##a[href^="https://enter.javhd.com/"]
+x-videoz.com##a[href*="erito.com/landing"][target="_blank"]
+x-videoz.com,hdzog.com##a[href*="hdzog.com/videos/"][target="_blank"]
+! ==============================
+! SENZURI.TUBE
+! ==============================
+senzuri.tube##.info-row.info-row_user
+senzuri.tube##div.video-page + div.container
+! ==============================
+! ANALDIN.COM
+! ==============================
+www.analdin.com##.video-info
 ! ==============================
 ! F1.MANYSEX.VIP
 ! ==============================
