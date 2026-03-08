@@ -2,9 +2,10 @@
 ! Description: JS & block
 ! Homepage: https://github.com/Tony2522tony/ton-blocklist
 ! Expires: 1 days
-! Version: 1.0.4
+! Version: 1.0.5
 !
 
+##.js-native-ad
 ##a[target="_blank"][href*=".com"]
 ##a[target="_blank"][href*=".me"]
 ##a[href*="landing"]
