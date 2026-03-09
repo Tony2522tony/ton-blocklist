@@ -82,6 +82,7 @@ www.037hddmovie.com##a[rel*="nofollow noopener"]
 ||debet.win^
 ||atc96aff.com^
 ||vbeeo.com^
+||apush1.pages.dev^
 ! ===== redirect junk =====
 ||1ts18.top^
 ||1ts21.top^
@@ -103,9 +104,12 @@ www.037hddmovie.com##a[rel*="nofollow noopener"]
 ! ===== Umeng (จีน) =====
 ||oslogs.umeng.com^
 ||resolve.umeng.com^
-||cnlogs.umengcloud.com^
 ||utoken.umeng.com^
-
+||umeng.com^
+||umengcloud.com^
+||ad.twinrdengine.com^$$third-party
+||t.fastblogzone.my^$$third-party
+||mrdmca.com^$third-party
 ! ===== Google =====
 ||doubleclick.net^
 ||googlesyndication.com^
