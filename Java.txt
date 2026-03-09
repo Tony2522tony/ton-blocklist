@@ -2,9 +2,13 @@
 ! Description: JS & block
 ! Homepage: https://github.com/Tony2522tony/ton-blocklist
 ! Expires: 1 days
-! Version: 1.0.5
+! Version: 1.0.6
 !
 
+##.adv-list
+##.video-side__adv_title.spot_title
+##.ad-sdk-pause-overlay
+##.underplayer_banner
 ##.js-native-ad
 ##a[target="_blank"][href*=".com"]
 ##a[target="_blank"][href*=".me"]
