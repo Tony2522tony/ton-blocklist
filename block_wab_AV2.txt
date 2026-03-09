@@ -2,9 +2,77 @@
 ! Description: Mobile AV
 ! Homepage: https://github.com/Tony2522tony/ton-blocklist
 ! Expires: 3 days
-! Version: 1.0.4
+! Version: 1.0.5
 !
 
+! ==============================
+! PORNVXXX.COM
+! ==============================
+pornvxxx.com##div[class^="ozerleexex"]
+pornvxxx.com##iframe[title][style]
+pornvxxx.com##iframe[src^="https://"]
+f1.pornvxxx.com##.gfpl-wrapper,.zlellec,.tikporn-carousel,.title-right,.jw-custom-btn.jw-hardlink-btn,.pwa-ad,.fah-btn
+f1.pornvxxx.com##div.tikporn-videos ~ div
+f1.pornvxxx.com##div.title + div.details
+f1.pornvxxx.com##div.jw-spacer + div.nopop
+f1.pornvxxx.com##a[href^="https://enter.javhd.com/"]
+! ==============================
+! MYLUST.COM
+! ==============================
+mylust.com##.outstream
+! ==============================
+! NUVID.COM
+! ==============================
+nuvid.com##div#video-slider[style]
+m.nuvid.com##a[href*="m.nuvid.com/video/8"],.mm-horizontal
+! ==============================
+! ZBPORN.COM
+! ==============================
+zbporn.com##.spots-title
+zbporn.com##div.fp-ui-inline + div
+! ==============================
+! ITS.PORN
+! ==============================
+www.its.porn###list_videos_related_videos + #comment_section
+! ==============================
+! PORNL.COM
+! ==============================
+pornl.com##.comments,.carousel-wrapper__content
+pornl.com##a[href^="https://clickadilla.com/"]
+! ==============================
+! UIPORN.COM
+! ==============================
+www.uiporn.com##.flex-row-center.vc-plus-rating,.comments-pannel
+www.uiporn.com##div.video + div.related-videos
+! ==============================
+! VERYFREEPORN.NET
+! ==============================
+www.veryfreeporn.net##.center-spot
+! ==============================
+! DRTUBER.COM
+! ==============================
+m.drtuber.com##div.video-overlay
+! ==============================
+! 3MOVS.COM
+! ==============================
+www.3movs.com##.list_info_user,.desc,.general_tools
+! ==============================
+! JAPAN-WHORES.COM
+! ==============================
+japan-whores.com###list_videos_related_videos_filter_list + div
+japan-whores.com###list_videos_related_videos iframe:nth-of-type(1)
+japan-whores.com##div.wrapper + center
+japan-whores.com###comment_section
+japan-whores.com##style + a.fh-line
+! ==============================
+! JAPFLAPS.COM
+! ==============================
+japflaps.com##.in_player_pct_outer
+! ==============================
+! ADULTXHUB.COM
+! ==============================
+adultxhub.com##.bottom-adv
+adultxhub.com##.related-videos iframe
 ! ==============================
 ! HOG.TV
 ! ==============================
