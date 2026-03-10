@@ -5,6 +5,8 @@
 ! Version: 1.0.7
 !
 
+##a[rel*="sponsored"]
+###adstripe
 ##.btn-adv_player
 ##.ad-url
 ##.__bai-overlay
