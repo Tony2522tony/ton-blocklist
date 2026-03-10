@@ -30,8 +30,14 @@ www.037hddmovie.com##img.img-responsive
 www.037hddmovie.com##a[rel*="nofollow noopener"]
 !====แท็ปเด้งหน้าดำ====
 ||go.gsrv.dev^$all
+||neonewsspace.my^$script
+||t.neonewsspace.my^$third-party
+||s.gentlefieldpattern.com^$$third-party
 ! --- โดเมนโฆษณา ---
 ||tubecorporate.com^
+||nothdolen.pro^
+||creative.rmhfrtnd.com^
+||travellermania.com^$all
 ! ===== เว็บพนัน / redirect =====
 ||sexygame666r.com^
 ||lockdown168q.com^
@@ -102,22 +108,18 @@ www.037hddmovie.com##a[rel*="nofollow noopener"]
 ||doppiocdn.com^$popup
 
 ! ===== Umeng (จีน) =====
-||oslogs.umeng.com^
-||resolve.umeng.com^
-||utoken.umeng.com^
 ||umeng.com^
 ||umengcloud.com^
 ||ad.twinrdengine.com^$$third-party
 ||t.fastblogzone.my^$$third-party
 ||mrdmca.com^$third-party
+
 ! ===== Google =====
 ||doubleclick.net^
 ||googlesyndication.com^
 ||googleadservices.com^
 ||googleads.g.doubleclick.net^
 ||google-analytics.com^
-
-
 ! Social (since you don't use them)
 ||connect.facebook.net^
 ||graph.facebook.com^
