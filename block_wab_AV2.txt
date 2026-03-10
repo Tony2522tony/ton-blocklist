@@ -2,9 +2,107 @@
 ! Description: Mobile AV
 ! Homepage: https://github.com/Tony2522tony/ton-blocklist
 ! Expires: 3 days
-! Version: 1.0.5
+! Version: 1.0.6
 !
 
+! ==============================
+! JAPAN-WHORES.COM
+! ==============================
+japan-whores.com###comment_section
+japan-whores.com##center[data-translated*="1"]
+japan-whores.com###list_videos_related_videos_filter_list + div
+japan-whores.com##.related-videos iframe
+japan-whores.com##a.fh-line
+! ==============================
+! JAVTIFUL.COM
+! ==============================
+javtiful.com##a[href^="https://r.trwl1.com/"]
+! ==============================
+! PORNHAT.TV
+! ==============================
+pornhat.tv,e.xv-cdn.net##svg[width="30"][height="30"]
+pornhat.tv,e.xv-cdn.net##circle[cy="12"]
+pornhat.tv,e.xv-cdn.net###js-adContainer > div.adContainer
+pornhat.tv,e.xv-cdn.net###js-adContainer
+pornhat.tv,e.xv-cdn.net##center + div.adBlock
+! ==============================
+! ADULTXHUB.COM
+! ==============================
+adultxhub.com##.info-buttons.mobile
+! ==============================
+! TXXX.COM
+! ==============================
+txxx.com##div[style="height: 100px;"]
+! ==============================
+! YOUPORN.COM
+! ==============================
+youporn.com##div.video-box:has(ins.adsbytrafficjunky)
+youporn.com##.tm_search_result_videos > div:nth-of-type(4)
+! ==============================
+! EPORNER.COM
+! ==============================
+www.eporner.com###movieplayer-left > #adstripe
+! ==============================
+! 18TOKYO.COM
+! ==============================
+18tokyo.com##.info-holder
+18tokyo.com##.main-cams
+18tokyo.com##.main-cams-wrap
+18tokyo.com##a[href^="https://r.trackwilltrk.com/"]
+18tokyo.com##.player-top-line.shown
+! ==============================
+! F1.XMILF.VIP
+! ==============================
+f1.xmilf.vip##div.see-more-wrapper + div.wrapper
+f1.xmilf.vip##.fah-btn
+f1.xmilf.vip##.video-info__buttons
+! ==============================
+! XHSOCIAL.COM
+! ==============================
+xhsocial.com##aside[class*="prePopunder"]
+xhsocial.com##.controls
+xhsocial.com##div.LvaNy-bmQsp-l-tab[aria-hidden="true"]
+! ==============================
+! XCAFE.COM
+! ==============================
+xcafe.com#%#//scriptlet('prevent-window-open')
+! ==============================
+! F1.KEPORN.COM
+! ==============================
+f1.keporn.com##div.direct-abnner--full + h4
+f1.keporn.com##.video-rating
+f1.keporn.com##.video-underplayer
+f1.keporn.com##.top-categories__carousel
+f1.keporn.com##a[href^="https://fhgte.com/"]
+! ==============================
+! EBONY8.COM
+! ==============================
+www.ebony8.com##.info-holder
+! ==============================
+! PROPORN.COM
+! ==============================
+proporn.com##a.player_premium_bar
+! ==============================
+! M.PROPORN.COM
+! ==============================
+m.proporn.com##a[href^="https://t.neonewsspace.my/"]
+! ==============================
+! PORNUSE.COM
+! ==============================
+pornuse.com##div.direct-abnner + h4
+pornuse.com##.video-underplayer
+pornuse.com##.video-rating
+! ==============================
+! PORNHAT.COM
+! ==============================
+www.pornhat.com##.spot-title
+www.pornhat.com##.spot_main
+! ==============================
+! GLOBAL RULES
+! ==============================
+||s.gentlefieldpattern.com^$dnsrewrite=ad-block.dns.adguard.com
+go.tscprts.com#%#//scriptlet("no-window-open-if", "tsyndicate.com")
+xfeed.com#%#//scriptlet("no-window-open-if", "tsyndicate.com")
 ! ==============================
 ! PORNVXXX.COM
 ! ==============================
