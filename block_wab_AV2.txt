@@ -2,9 +2,44 @@
 ! Description: Mobile AV
 ! Homepage: https://github.com/Tony2522tony/ton-blocklist
 ! Expires: 3 days
-! Version: 1.0.6
+! Version: 1.0.7
 !
 
+!=======jizzberry.com=========
+jizzberry.com###list_videos_custom_related_sphinx_tab, .flexible-container.content > .box
+jizzberry.com##.nm1KL0eX
+!===========ทดลอง==========
+pornhub.com###hd-rightColVideoPage, .cmtPrelaodContainer.js-commentReplacement.video-wrapper, .video-wrapper.hd-videos_wrapper.hd-smallerWidth.sectionWrapper
+pornhub.com##.underplayer-thumbs
+pornmd.com##.suggestions-container
+pornone.com##.container.main > .container.content.video_wrapper > .videos.thumblist
+pornone.com##div.w-full.grid-full-col:nth-of-type(2)
+pornoxo.com##.js-toggle-content-wrapper
+f1.txxx.ne,txxx.me,txxx.com##.video-ad-videos, .video-comments.comments, .video-comments.comments, .video-ad-videos, .video-videos-slider, .suggestion
+upornia.com##.video-related
+xhamster.com##.qi-iNno-ts-init
+xhamster.com##:last-child[data-role="bottom-popup-ads"]
+xhamster.com##[class*="EYCMC"]
+xhamster.com##[data-item="ai-friend"]
+xhamster.com##[data-item="dating"]
+xhamster.com##[data-item="premium"]
+xhamster.com##[data-nav-item-id="cams"]
+xhamster.com##[data-statistic-name="Flirtify"]
+xhamster.com##a[href*="faphouse"]
+xhamster.com##a[href*="lovescape.com"]
+xhamster.com##a[href*="xhamster.com/cam"]
+xhamster.com##a[href*="xhamster.com/ff/out"]
+xhamster.com##div.OBS-bxJ
+xhamster.com##div.trigger.on-hover
+xhamster.com##div[class*="clipstore"]
+xhamster.com##div[class*="premium"]
+xhamster.com##div[class*="rectangle"]
+xhamster.com##div[data-item="lusty-heroes"]
+xhamster.com##div[data-nav-item-id="priority-vpn"]
+xhamster.com##div[data-role*="promo"]
+xvideos.com###tabComments_bottom_page
+xvideos.com##.premium-results-line
+xvideos.com##.related-content
 ! ==============================
 ! JAPAN-WHORES.COM
 ! ==============================
