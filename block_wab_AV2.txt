@@ -155,9 +155,7 @@ f1.pornvxxx.com##a[href^="https://enter.javhd.com/"]
 mylust.com##.outstream
 ! ==============================
 ! NUVID.COM
-! ==============================
-nuvid.com##div#video-slider[style]
-m.nuvid.com##a[href*="m.nuvid.com/video/8"],.mm-horizontal
+
 ! ==============================
 ! ZBPORN.COM
 ! ==============================
@@ -222,9 +220,7 @@ www.pornlib.com##.col_item
 www.pornlib.com##.rate
 www.pornlib.com##.player_premium_bar
 ! ==============================
-! NUVlD.COM
-! ==============================
-m.nuvid.com##a.th + #video_seek
+
 ! ==============================
 ! RUN.PORN
 ! ==============================
