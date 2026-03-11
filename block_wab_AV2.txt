@@ -515,12 +515,7 @@ m.iceporn.club###play_dvd_html5 + a.player_premium_bar
 ! TUBEON.CLUB
 ! ==============================
 m.tubeon.club##a.superficies + a.player_premium_bar
-! ==============================
-! NUVID.COM
-! ==============================
-nuvid.com###banner_overlay
-nuvid.com##.player_premium_bar
-nuvid.com##a[href*="qigenu"]
+
 ! ==============================
 ! OOXXX.VIP
 ! ==============================
