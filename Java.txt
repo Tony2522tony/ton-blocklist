@@ -2,9 +2,27 @@
 ! Description: JS & block
 ! Homepage: https://github.com/Tony2522tony/ton-blocklist
 ! Expires: 1 days
-! Version: 1.0.7
+! Version: 1.0.8
 !
 
+
+##.b-thumb-col
+##.tabs-related.tabs
+##.related.thumb-list
+##.js-related.related.b-thumb-list
+##.js-recommended-wrapper.recomend.b-thumb-list
+##.js-recommended-wrapper.b-related
+##.b-thumb-col
+##.b-related
+##.js-recommended-wrapper
+##.b-secondary-column__aside
+##.b-links-cloud
+###relatedVideos
+###spot_video_underplayer_livecams
+##.video-page__related
+##.livecams
+###list_videos_related_videos
+##.related-content
 ##a[rel*="sponsored"]
 ###adstripe
 ##.btn-adv_player
