@@ -123,8 +123,8 @@ www.037hddmovie.com##a[rel*="nofollow noopener"]
 ! ===== Umeng (จีน) =====
 ||umeng.com^
 ||umengcloud.com^
-||ad.twinrdengine.com^$$third-party
-||t.fastblogzone.my^$$third-party
+||ad.twinrdengine.com^$third-party
+||t.fastblogzone.my^$third-party
 ||mrdmca.com^$third-party
 
 ! ===== Google =====
