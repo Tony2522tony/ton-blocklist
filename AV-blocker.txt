@@ -2,7 +2,7 @@
 ! Description: Adult / video site ads + residue cleaner (uBlock companion)
 ! Homepage: https://github.com/Tony2522tony/ton-blocklist
 ! Expires: 1 days
-! Version: 1.6.42
+! Version: 1.6.43
 !
 
 !=====หนังไทย====
@@ -38,6 +38,14 @@ www.037hddmovie.com##a[rel*="nofollow noopener"]
 ||nothdolen.pro^
 ||creative.rmhfrtnd.com^
 ||travellermania.com^$all
+||advnet.xyz^
+||popads.net^
+||popcash.net^
+||exoclick.com^
+||trafficjunky.net^
+||juicyads.com^
+||hilltopads.net^
+||adsterra.com^
 ! ===== เว็บพนัน / redirect =====
 ||sexygame666r.com^
 ||lockdown168q.com^
@@ -64,8 +72,7 @@ www.037hddmovie.com##a[rel*="nofollow noopener"]
 ||sv1.cdnbm168.xyz^
 ||ufazeed1.com^
 ||ufazeed18.com^
-||cutt.ly^
-||t.ly^
+
 ||huaylike7.com^
 ||neonewsspace.my^
 ||cmonbae.com^
@@ -74,9 +81,15 @@ www.037hddmovie.com##a[rel*="nofollow noopener"]
 ||creative.rmhfrtnd.com^
 ||a.adtng.com^
 ||th.trip.com^
-
+||rb289.online^
+||app.betflik-4uu.com^
+||tiz66.me^
+||pgk44b.org^
+||pgw44.net^
+||pgk44b.org^
+##img[alt*="PGK44"]
 ===โดเมนโฆษณาพนัน===
-||ibit.ly^
+
 ||vip168sa^
 ||ufanance^
 ||cutt.ly^
