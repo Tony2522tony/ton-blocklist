@@ -2,9 +2,96 @@
 ! Description: Mobile AV
 ! Homepage: https://github.com/Tony2522tony/ton-blocklist
 ! Expires: 3 days
-! Version: 1.0.7
+! Version: 1.0.8
 !
 
+! ==============================
+! XMEGADRIVE.COM
+! ==============================
+xmegadrive.com##.fp-ui-block
+! ==============================
+! YESPORN.VIP
+! ==============================
+yesporn.vip||creative.yesporn.cam^
+yesporn.vip##.mobile-only-iframe
+! ==============================
+! WIZ69.COM
+! ==============================
+wiz69.com,e.xv-cdn.net###js-adContainer
+! ==============================
+! XXXDAN.COM
+! ==============================
+xxxdan.com##.ad-sdk-overlay
+xxxdan.com##[id^="ad-sdk"]
+xxxdan.com##.ad-sdk-ad-placement-container
+xxxdan.com##div[id^="pauseBanner-"]
+xxxdan.com##.ad-sdk-ad-placement-container iframe
+xxxdan.com##a.player-cta
+! ==============================
+! PORNLIB.COM
+! ==============================
+pornlib.com##div#video_click
+pornlib.com##a.ad-title
+www.pornlib.com##a.th + #video_seek
+! ==============================
+! POVJP.COM
+! ==============================
+povjp.com##.player-top-line.shown
+povjp.com##.fp-ui-block
+povjp.com##.tab-content
+povjp.com##a[href^="https://r.trackwilltrk.com/"]
+! ==============================
+! VIDEO1.BESTJAVPORN.COM
+! ==============================
+video1.bestjavporn.com##img[src^="//pics.pornfhd.com/"]
+video1.bestjavporn.com###js-adContainer
+! ==============================
+! SPANKBANG.COM
+! ==============================
+spankbang.com##div.views
+spankbang.com##.loading-spinner
+! ==============================
+! E.XV-CDN.NET
+! ==============================
+e.xv-cdn.net###js-adContainer
+e.xv-cdn.net###js-adContainer > center
+e.xv-cdn.net###js-adContainer > button.closeAd
+! ==============================
+! PORNHAT.TV
+! ==============================
+pornhat.tv###list-videos > span.bb_show_2
+pornhat.tv###js-adContainer
+pornhat.tv###bb_container
+pornhat.tv##.adBlock
+pornhat.tv##.adContainer
+! ==============================
+! MOTHERLESS.COM
+! ==============================
+motherless.com##.ml-video-pause-screen
+! ==============================
+! TSPANKBANG.COM
+! ==============================
+tspankbang.com###player_cover_img
+! ==============================
+! HQPORNER.COM
+! ==============================
+hqporner.com###flvv_fluid_html_on_pause
+hqporner.com###adc
+! ==============================
+! NUVID.COM
+! ==============================
+nuvid.com##.video-overlay
+! ==============================
+! JAPAN-WHORES.COM
+! ==============================
+japan-whores.com##ul.headline + div
+japan-whores.com##iframe[src*="creative.rmhfrtnd.com"]
+japan-whores.com##div[data-spots="491410"]
+japan-whores.com##a[href*="japan-whores.com"][target="_blank"]
+! ==============================
+! HDPORNMAX.NET
+! ==============================
+hdpornmax.net##.aa_view
 !=======jizzberry.com=========
 jizzberry.com###list_videos_custom_related_sphinx_tab, .flexible-container.content > .box
 jizzberry.com##.nm1KL0eX
