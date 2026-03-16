@@ -144,6 +144,9 @@ www.037hddmovie.com##a[rel*="nofollow noopener"]
 
 
 
-
+duckduckgo.com###features > main
+duckduckgo.com##div[data-testid*="belowTheFold"]
+duckduckgo.com###__next section[class*="atbBadge"]
+duckduckgo.com##.center_root___q8wn.center_intrinsic__Gt_PZ
 ! DuckDuckGo mobile banner
 duckduckgo.com##div[class*="mobile-atb-banner"]
