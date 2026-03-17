@@ -2,9 +2,107 @@
 ! Description: Mobile AV
 ! Homepage: https://github.com/Tony2522tony/ton-blocklist
 ! Expires: 3 days
-! Version: 1.0.8
+! Version: 1.0.9
 !
 
+! ==============================
+! JAPAN-WHORES.COM
+! ==============================
+japan-whores.com##a[href^="https://r.trackwilltrk.com/"]
+japan-whores.com##.fh-line2
+japan-whores.com##div[data-original-text*="A d v e r t i s e m e n t"]
+japan-whores.com##.related-videos iframe
+japan-whores.com##a[data-original-text*="UNLOCK FULL"]
+||creative.rmhfrtnd.com^
+
+! ==============================
+! ZMDB.NET
+! ==============================
+zmdb.net##span.tracking-wide + span.absolute
+
+! ==============================
+! ICEPORN.CLUB
+! ==============================
+iceporn.club##.drt-poster
+
+! ==============================
+! YOURLUST.COM
+! ==============================
+||gentlefieldpattern.com^$popup,domain=yourlust.com|m.yourlust.com
+||gentlefieldpattern.com/v1/d.php?$script,popup
+m.yourlust.com##.fluid-b
+
+! ==============================
+! HOT-SEX-TUBE / DRTUBER
+! ==============================
+||drtst.com/adx_$domain=hot-sex-tube.com
+||drtst.com^$domain=hot-sex-tube.com|drtuber.com
+hot-sex-tube.com,f1.videojav.online##div.afs_ads + div.nopop
+hot-sex-tube.com,xhsocial.com##.xplayer-video-info
+drtuber.com##.video-overlay
+drtuber.com##.ad-title
+drtuber.com##.player_premium_bar
+
+! ==============================
+! WINPORN / KULUJI
+! ==============================
+m.winporn.club##div.video-overlay
+t.kuluji.xyz^$important,third-party
+
+! ==============================
+! TXXX.ME / JAVHD REDIRECT
+! ==============================
+txxx.me##a[href^="https://enter.javhd.com/"]
+hot-sex-tube.com,txxx.me##a[href*="enter.javhd.com/track/M"][target="_blank"]
+
+! ==============================
+! VIPTUBE
+! ==============================
+m.viptube.com##.heading
+m.viptube.com##a[href*="t.promediaspace.my/redirec"][target="_blank"]
+
+! ==============================
+! XHSOCIAL
+! ==============================
+xhsocial.com###messages-counter
+xhsocial.com##div.wGUx-NsRmsp-l-adshare[aria-hidden="true"]
+
+! ==============================
+! SUPER CLOUD / FASTBLOGZONE
+! ==============================
+||/t.supercloud.my^$important,third-party
+||t.fastblogzone.my^$important,third-party
+||t.fastblogzone.my$doc,popup,frame
+||t.fastblogzone.my^$popup,domain=drtuber.com
+m.drtuber.com||t.fastblogzone.my^
+
+! ==============================
+! INPORN
+! ==============================
+f1.inporn.vip##.seo__text
+f1.inporn.vip##div.carousel__prev + div.carousel__container
+
+! ==============================
+! NUVID
+! ==============================
+m.nuvid.com##a[href*="t.qigenu.my/redirec"][target="_blank"]
+
+! ==============================
+! XMILF
+! ==============================
+f1.xmilf.vip##a[rel*="nofollow"]
+f1.xmilf.vip##.jw-channel-btn
+
+! ==============================
+! VIDEOJAV
+! ==============================
+f1.videojav.online##.__bai-container.__bai-show
+
+! ==============================
+! DRTST GLOBAL
+! ==============================
+happy-porn.com,g1.drtst.com##.mb-picking-mode
+g2.drtst.com##head + body.mb-picking-mode
 ! ==============================
 ! XMEGADRIVE.COM
 ! ==============================
