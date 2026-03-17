@@ -2,10 +2,14 @@
 ! Description: Adult / video site ads + residue cleaner (uBlock companion)
 ! Homepage: https://github.com/Tony2522tony/ton-blocklist
 ! Expires: 1 days
-! Version: 1.6.43
+! Version: 1.6.44
 !
 
 !=====หนังไทย====
+! ==============================
+! 24HD.NET
+! ==============================
+www.24hd.net##div[data-widget_type*="image.default"]
 !===== 25-hd.com=======•
 25-hd.com##img[width][height][src][alt][style][title]
 25-hd.com##span.terminate-banner
@@ -15,6 +19,11 @@
 25-hd.com##.sidebar img[height="268"]
 25-hd.com##.fake-player-overlay
 25-hd.com##.fake-player-loading
+25-hd.com##.fake-player-overlay
+25-hd.com##.box-triler
+25-hd.com##span.absolute.inset-0.z-10
+25-hd.com##a[href*="cutt.ly"]
+25-hd.com##img[alt="Advertisement"]
 ! ===== 7-HD.COM =====
 7-hd.com##img.bottom-fix-banner
 7-hd.com##img.side-fix-banner
@@ -31,8 +40,19 @@ www.037hddmovie.com##a[rel*="nofollow noopener"]
 !====แท็ปเด้งหน้าดำ====
 ||go.gsrv.dev^$all
 ||neonewsspace.my^$script
-||t.neonewsspace.my^$third-party
-||s.gentlefieldpattern.com^$$third-party
+||t.neonewsspace.my^$all
+||s.gentlefieldpattern.com^$all
+||1ts17.top^all
+||1ts18.top^$all
+||1ts21.top^$all
+||upfastfile88.com^$all
+||loungeyjg.pics^$all
+||sibergy.com^$all
+||inspectorstrongerpill.com^$all
+||rtb-6.yourlust.com^$all
+||totalfucktube.com^$all
+||rvmessage.online^$all
+||deliver.ptgncdn.com^$all
 ! --- โดเมนโฆษณา ---
 ||tubecorporate.com^
 ||nothdolen.pro^
@@ -46,6 +66,7 @@ www.037hddmovie.com##a[rel*="nofollow noopener"]
 ||juicyads.com^
 ||hilltopads.net^
 ||adsterra.com^
+||fastblogzone.my^$popup
 ! ===== เว็บพนัน / redirect =====
 ||sexygame666r.com^
 ||lockdown168q.com^
@@ -72,7 +93,6 @@ www.037hddmovie.com##a[rel*="nofollow noopener"]
 ||sv1.cdnbm168.xyz^
 ||ufazeed1.com^
 ||ufazeed18.com^
-
 ||huaylike7.com^
 ||neonewsspace.my^
 ||cmonbae.com^
@@ -87,9 +107,6 @@ www.037hddmovie.com##a[rel*="nofollow noopener"]
 ||pgk44b.org^
 ||pgw44.net^
 ||pgk44b.org^
-##img[alt*="PGK44"]
-===โดเมนโฆษณาพนัน===
-
 ||vip168sa^
 ||ufanance^
 ||cutt.ly^
@@ -102,14 +119,7 @@ www.037hddmovie.com##a[rel*="nofollow noopener"]
 ||atc96aff.com^
 ||vbeeo.com^
 ||apush1.pages.dev^
-! ===== redirect junk =====
-||1ts18.top^
-||1ts21.top^
-||s.1ts21.top^
-||upfastfile88.com^
-||loungeyjg.pics^
-||sibergy.com^
-||inspectorstrongerpill.com^
+
 
 ! ===== popup / adult adnet =====
 ||a.adtng.com^
@@ -119,6 +129,8 @@ www.037hddmovie.com##a[rel*="nofollow noopener"]
 ||stripchat.com^$popup
 ||doppiocdn.org^$popup
 ||doppiocdn.com^$popup
+||neonewsspace.my^$domain=hdpornmax.net
+||neonewsspace.my/redirect^$document
 
 ! ===== Umeng (จีน) =====
 ||umeng.com^
@@ -141,8 +153,12 @@ www.037hddmovie.com##a[rel*="nofollow noopener"]
 ||i.instagram.com^
 ||tagmanager.google.com^
 
-
-
+!=****===ALL WED===****=====
+##img[alt*="PGK44"]
+###pre_ad_close_btn_ad_player_abbe4138-44d4-4e4c-86b4-155fb7ce3a32
+##img[src^="https://image.cdend.com/"]
+##a[href][target="_blank"][onclick*="banner"]
+##.aa_view
 
 duckduckgo.com###features > main
 duckduckgo.com##div[data-testid*="belowTheFold"]
