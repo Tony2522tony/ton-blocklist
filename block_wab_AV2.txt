@@ -2,9 +2,70 @@
 ! Description: Mobile AV
 ! Homepage: https://github.com/Tony2522tony/ton-blocklist
 ! Expires: 3 days
-! Version: 1.0.9
+! Version: 1.0.10
 !
 
+! ==============================
+! PORNCLASSIC.TUBE
+! ==============================
+pornclassic.tube##.jw-hardlink-inner
+pornclassic.tube##.video__wrapper > section
+! ==============================
+! PORNRABBIT.COM
+! ==============================
+www.pornrabbit.com##div.fp-ui-block + div
+! ==============================
+! 3MOVS.COM
+! ==============================
+3movs.com##div.fp-ui-inline + div
+3movs.com##a[href*="3movslive.com"]
+! ==============================
+! MATURETUBEHERE.COM
+! ==============================
+www.maturetubehere.com##.top2
+! ==============================
+! XHSOCIAL.COM / ASIANMUFFIN.COM
+! ==============================
+xhsocial.com,asianmuffin.com##.layout-video-player__order
+! ==============================
+! ASIANMUFFIN.COM
+! ==============================
+asianmuffin.com##.player-top-line
+asianmuffin.com##.fp-player > div[style*="z-index: 199"]
+! ==============================
+! AB-XXX.COM
+! ==============================
+ab-xxx.com##.jw-overlays
+ab-xxx.com##.afs_ads
+ab-xxx.com##div.categories + div.wrapper
+ab-xxx.com##a[href*="fhgte.com/tour"]
+! ==============================
+! JAPAN-WHORES.COM
+! ==============================
+jjapan-whores.com##.fp-ui-block
+japan-whores.com##.fp-ui-block > div[style*="position: absolute"]
+japan-whores.com###list_videos_related_videos > div:not([class])
+japan-whores.com##[class^="fh-"]
+japan-whores.com##a[href*="trackwilltrk.com"]
+japan-whores.com###list_videos_related_videos iframe
+japan-whores.com##.fp-brand
+! ==============================
+! ASIANBABEZ.COM
+! ==============================
+asianbabez.com##.above-player-link
+asianbabez.com##main.main div[style]
+asianbabez.com##.comment-count-wrap
+asianbabez.com##.related-spot-wrap-mobile
+asianbabez.com##iframe[src*="ads"]
+asianbabez.com##iframe[src*="pop"]
+asianbabez.com##a[href*="fhgte.com"]
+asianbabez.com###np-pause-overlay
+asianbabez.com##div.index-categories-inner + div.container
+asianbabez.com##a[href^="https://a.adtng.com/"]
+! ==============================
+! ZZZTUBE.COM
+! ==============================
+zzztube.com##.toplist
 ! ==============================
 ! JAPAN-WHORES.COM
 ! ==============================
