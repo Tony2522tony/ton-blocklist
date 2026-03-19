@@ -40,7 +40,6 @@ www.037hddmovie.com##a[rel*="nofollow noopener"]
 !====แท็ปเด้งหน้าดำ====
 ||go.gsrv.dev^$all
 ||neonewsspace.my^$script
-||t.neonewsspace.my^$all
 ||s.gentlefieldpattern.com^$all
 ||1ts17.top^all
 ||1ts18.top^$all
@@ -122,7 +121,7 @@ www.037hddmovie.com##a[rel*="nofollow noopener"]
 
 
 ! ===== popup / adult adnet =====
-||a.adtng.com^
+||adtng.com^
 ||boannred.com^
 ||gggpppht.com^
 ||bartcons.com^
