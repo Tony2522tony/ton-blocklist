@@ -81,10 +81,7 @@ japan-whores.com##a[data-original-text*="UNLOCK FULL"]
 ! ==============================
 zmdb.net##span.tracking-wide + span.absolute
 
-! ==============================
-! ICEPORN.CLUB
-! ==============================
-iceporn.club##.drt-poster
+
 
 ! ==============================
 ! YOURLUST.COM
@@ -254,20 +251,10 @@ hdpornmax.net##.aa_view
 !=======jizzberry.com=========
 jizzberry.com###list_videos_custom_related_sphinx_tab, .flexible-container.content > .box
 jizzberry.com##.nm1KL0eX
-!===========ทดลอง==========
-pornhub.com###hd-rightColVideoPage, .cmtPrelaodContainer.js-commentReplacement.video-wrapper, .video-wrapper.hd-videos_wrapper.hd-smallerWidth.sectionWrapper
-pornhub.com##.underplayer-thumbs
-pornmd.com##.suggestions-container
-pornone.com##.container.main > .container.content.video_wrapper > .videos.thumblist
-pornone.com##div.w-full.grid-full-col:nth-of-type(2)
-pornoxo.com##.js-toggle-content-wrapper
-f1.txxx.ne,txxx.me,txxx.com##.video-ad-videos, .video-comments.comments, .video-comments.comments, .video-ad-videos, .video-videos-slider, .suggestion
-upornia.com##.video-related
 
 
-xvideos.com###tabComments_bottom_page
-xvideos.com##.premium-results-line
-xvideos.com##.related-content
+
+
 ! ==============================
 ! JAPAN-WHORES.COM
 ! ==============================
@@ -464,12 +451,7 @@ th.spankbang.com##div.mt-4 + div.mt-4
 hot-sex-tube.com,txxx.me##div.jw-custom-btn + div.jw-custom-btn
 hot-sex-tube.com,txxx.me##svg[fill*="curren"]
 hot-sex-tube.com,txxx.me##.jw-hardlink-inner
-! ==============================
-! ICEPORN.CLUB
-! ==============================
-m.iceporn.club##div.catalog + div.catalog
-m.iceporn.club##.partner_text_link
-m.iceporn.club##div.message + div.tooling
+
 ! ==============================
 ! INPORN.VIP
 ! ==============================
