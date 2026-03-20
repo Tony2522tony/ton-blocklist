@@ -83,7 +83,7 @@ zmdb.net##span.tracking-wide + span.absolute
 
 
 
-! ==============================
+! ============================
 ! YOURLUST.COM
 ! ==============================
 ||gentlefieldpattern.com^$popup,domain=yourlust.com|m.yourlust.com
@@ -252,9 +252,6 @@ hdpornmax.net##.aa_view
 jizzberry.com###list_videos_custom_related_sphinx_tab, .flexible-container.content > .box
 jizzberry.com##.nm1KL0eX
 
-
-
-
 ! ==============================
 ! JAPAN-WHORES.COM
 ! ==============================
@@ -368,8 +365,7 @@ f1.pornvxxx.com##a[href^="https://enter.javhd.com/"]
 ! MYLUST.COM
 ! ==============================
 mylust.com##.outstream
-! ==============================
-! NUVID.COM
+
 
 ! ==============================
 ! ZBPORN.COM
@@ -456,11 +452,7 @@ hot-sex-tube.com,txxx.me##.jw-hardlink-inner
 ! INPORN.VIP
 ! ==============================
 f1.inporn.vip###fhvids > div.headline
-! ==============================
-! OOXXX.VIP
-! ==============================
-ooxxx.vip##.video-page__info
-ooxxx.vip##.carousel-wrapper__content
+
 ! ==============================
 ! JAPAN-WHORES.COM
 ! ==============================
