@@ -37,21 +37,7 @@ www.037hddmovie.com##img.img-responsive
 037hddmovie.com##img[src*="cdend.com/wp-content/uploads"]
 037hddmovie.com##body > div:nth-of-type(1) > div:nth-of-type(5) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(4) > iframe:nth-of-type(2)
 www.037hddmovie.com##a[rel*="nofollow noopener"]
-!====แท็ปเด้งหน้าดำ====
-||go.gsrv.dev^$all
-||neonewsspace.my^$script
-||s.gentlefieldpattern.com^$all
-||1ts17.top^all
-||1ts18.top^$all
-||1ts21.top^$all
-||upfastfile88.com^$all
-||loungeyjg.pics^$all
-||sibergy.com^$all
-||inspectorstrongerpill.com^$all
-||rtb-6.yourlust.com^$all
-||totalfucktube.com^$all
-||rvmessage.online^$all
-||deliver.ptgncdn.com^$all
+
 ! --- โดเมนโฆษณา ---
 ||tubecorporate.com^
 ||nothdolen.pro^
