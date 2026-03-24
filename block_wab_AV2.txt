@@ -97,9 +97,7 @@ m.yourlust.com##.fluid-b
 ||drtst.com^$domain=hot-sex-tube.com|drtuber.com
 hot-sex-tube.com,f1.videojav.online##div.afs_ads + div.nopop
 hot-sex-tube.com,xhsocial.com##.xplayer-video-info
-drtuber.com##.video-overlay
-drtuber.com##.ad-title
-drtuber.com##.player_premium_bar
+
 
 ! ==============================
 ! WINPORN / KULUJI
@@ -140,10 +138,7 @@ m.drtuber.com||t.fastblogzone.my^
 f1.inporn.vip##.seo__text
 f1.inporn.vip##div.carousel__prev + div.carousel__container
 
-! ==============================
-! NUVID
-! ==============================
-m.nuvid.com##a[href*="t.qigenu.my/redirec"][target="_blank"]
+
 
 ! ==============================
 ! XMILF
@@ -233,10 +228,7 @@ tspankbang.com###player_cover_img
 ! ==============================
 hqporner.com###flvv_fluid_html_on_pause
 hqporner.com###adc
-! ==============================
-! NUVID.COM
-! ==============================
-nuvid.com##.video-overlay
+
 ! ==============================
 ! JAPAN-WHORES.COM
 ! ==============================
