@@ -1,0 +1,119 @@
+! Title: 👻 Love AV
+! Description: ads av
+! Homepage: https://github.com/Tony2522tony/ton-blocklist
+! Expires: 1 days
+! Version: 0.5
+!
+
+! ==============================
+! NUVID.COM
+! ==============================
+nuvid.com##a.player_premium_bar
+! ==============================
+! G5.PLIBCDN.COM
+! ==============================
+g5.plibcdn.com##+js(remove, #video_seek)
+g5.plibcdn.com##+js(remove, #video_click)
+g5.plibcdn.com##+js(remove, a.ad-title)
+g5.plibcdn.com##+js(remove-attr, video[preroll], preroll)
+g5.plibcdn.com##+js(set-attr, #play_dvd_html5, style, "display: inline-block !important;")
+g5.plibcdn.com##+js(remove, #video_preview_thumb)
+! ==============================
+! M.ALPHAPORNO.COM
+! ==============================
+m.alphaporno.com##.top-banners
+! ==============================
+! PORNID.XXX
+! ==============================
+www.pornid.xxx##body.mb-picking-mode[contenteditable="false"]
+www.pornid.xxx##div.spots-title + center
+www.pornid.xxx##.player-top-line.shown
+www.pornid.xxx##.top-spot
+www.pornid.xxx###kt_player + div.sp-player
+! ==============================
+! SEXVID.XXX
+! ==============================
+www.sexvid.xxx##.spot-holder
+www.sexvid.xxx##.player-top-line
+www.sexvid.xxx###kt_player + #slot-player
+www.sexvid.xxx###fltd
+! ==============================
+! HD21.COM / M.HD21.COM
+! ==============================
+m.hd21.com##.video-overlay
+hd21.com##.advertisment_block
+! ==============================
+! F1.XMILF.VIP
+! ==============================
+f1.xmilf.vip##.jw-hardlink-inner
+f1.xmilf.vip##.jw-custom-btn
+f1.xmilf.vip##.fh-line2
+! ==============================
+! JAPAN-WHORES.COM
+! ==============================
+japan-whores.com##.fp-ui-block
+japan-whores.com##.fp-logo
+japan-whores.com##.fp-logo.text
+japan-whores.com##div[style*="z-index:171"]
+japan-whores.com##.video-strip-shell
+japan-whores.com##.fh-line2
+! ==============================
+! POVJP.COM
+! ==============================
+povjp.com##iframe[src*="povjp.com/embed/"]
+povjp.com##.fp-poster
+povjp.com##.fp-ui-block
+povjp.com##div[style*="z-index: 2147483647"]
+! ==============================
+! X-VIDEOZ.COM / F1.VIDEOJAV.ONLINE
+! ==============================
+x-videoz.com,f1.videojav.online##.jw-buble
+! ==============================
+! DEVIANTS.COM
+! ==============================
+www.deviants.com##div[align="center"]
+! ==============================
+! TNAFLIX.COM
+! ==============================
+tnaflix.com##.plyr__poster
+tnaflix.com##.plyr__preview-scrubbing
+! ==============================
+! JAPFLAPS.COM
+! ==============================
+japflaps.com##.comment-count-wrap.mob
+japflaps.com##.btn-download
+japflaps.com##.btn-d4te
+japflaps.com###np-preview + #np-big-play
+japflaps.com##a[href^="https://fhgte.com/"]
+japflaps.com##div.item + div.thumb2
+! ==============================
+! EBONY8.COM
+! ==============================
+www.ebony8.com##.top2.pignu
+www.ebony8.com##.fp-ui-block
+! ==============================
+! 25-HD.COM
+! ==============================
+25-hd.com##.fake-player-overlay
+! ==============================
+! EPORNER.COM
+! ==============================
+www.eporner.com##.uvmspn1
+! ==============================
+! ZMDB.NET
+! ==============================
+zmdb.net##.absolute
+! ==============================
+! 3MOVS.COM
+! ==============================
+www.3movs.com##a[href^="http://www.blazinglink.com/"]
+! ==============================
+! JIZZBERRY.COM
+! ==============================
+jizzberry.com###list_videos_custom_related_sphinx_tab
+jizzberry.com##.flexible-container.content > .box
+jizzberry.com##.nm1KL0eX
+! ==============================
+! HOTMOVS.COM
+! ==============================
+hotmovs.com##.video-page__related
