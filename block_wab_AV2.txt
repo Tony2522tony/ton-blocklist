@@ -82,7 +82,6 @@ japan-whores.com##a[data-original-text*="UNLOCK FULL"]
 zmdb.net##span.tracking-wide + span.absolute
 
 
-
 ! ============================
 ! YOURLUST.COM
 ! ==============================
@@ -358,7 +357,6 @@ f1.pornvxxx.com##a[href^="https://enter.javhd.com/"]
 ! ==============================
 mylust.com##.outstream
 
-
 ! ==============================
 ! ZBPORN.COM
 ! ==============================
@@ -382,10 +380,7 @@ www.uiporn.com##div.video + div.related-videos
 ! VERYFREEPORN.NET
 ! ==============================
 www.veryfreeporn.net##.center-spot
-! ==============================
-! DRTUBER.COM
-! ==============================
-m.drtuber.com##div.video-overlay
+
 ! ==============================
 ! 3MOVS.COM
 ! ==============================
