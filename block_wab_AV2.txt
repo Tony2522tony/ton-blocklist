@@ -81,7 +81,6 @@ japan-whores.com##a[data-original-text*="UNLOCK FULL"]
 ! ==============================
 zmdb.net##span.tracking-wide + span.absolute
 
-
 ! ============================
 ! YOURLUST.COM
 ! ==============================
@@ -122,22 +121,13 @@ m.viptube.com##a[href*="t.promediaspace.my/redirec"][target="_blank"]
 xhsocial.com###messages-counter
 xhsocial.com##div.wGUx-NsRmsp-l-adshare[aria-hidden="true"]
 
-! ==============================
-! SUPER CLOUD / FASTBLOGZONE
-! ==============================
-||/t.supercloud.my^$important,third-party
-||t.fastblogzone.my^$important,third-party
-||t.fastblogzone.my$doc,popup,frame
-||t.fastblogzone.my^$popup,domain=drtuber.com
-m.drtuber.com||t.fastblogzone.my^
+
 
 ! ==============================
 ! INPORN
 ! ==============================
 f1.inporn.vip##.seo__text
 f1.inporn.vip##div.carousel__prev + div.carousel__container
-
-
 
 ! ==============================
 ! XMILF
