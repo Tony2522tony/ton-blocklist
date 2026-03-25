@@ -2,7 +2,7 @@
 ! Description: Mobile AV
 ! Homepage: https://github.com/Tony2522tony/ton-blocklist
 ! Expires: 3 days
-! Version: 1.0.10
+! Version: 1.0.11
 !
 
 ! ==============================
@@ -100,7 +100,7 @@ hot-sex-tube.com,xhsocial.com##.xplayer-video-info
 ! WINPORN / KULUJI
 ! ==============================
 m.winporn.club##div.video-overlay
-t.kuluji.xyz^$important,third-party
+
 
 ! ==============================
 ! TXXX.ME / JAVHD REDIRECT
