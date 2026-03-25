@@ -91,8 +91,7 @@ m.yourlust.com##.fluid-b
 ! ==============================
 ! HOT-SEX-TUBE / DRTUBER
 ! ==============================
-||drtst.com/adx_$domain=hot-sex-tube.com
-||drtst.com^$domain=hot-sex-tube.com|drtuber.com
+
 hot-sex-tube.com,f1.videojav.online##div.afs_ads + div.nopop
 hot-sex-tube.com,xhsocial.com##.xplayer-video-info
 
