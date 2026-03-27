@@ -2,9 +2,16 @@
 ! Description: Mobile AV
 ! Homepage: https://github.com/Tony2522tony/ton-blocklist
 ! Expires: 3 days
-! Version: 1.0.11
+! Version: 1.0.12
 !
 
+! ==============================
+! UPORNIA.COM / ABXXX.COM / MULTI JW FIX
+! ==============================
+upornia.com,abxxx.com,f1.blackporn.club,vxxx.com,porntop.com,ooxxx.vip,pornl.com,pornuse.com,f1.upornia.online,f1.xjav.club,txxx.com##.jw-hardlink-inner
+upornia.com,abxxx.com,f1.blackporn.club,vxxx.com,porntop.com,ooxxx.vip,pornl.com,pornuse.com,f1.upornia.online,f1.xjav.club,txxx.com##.jw-hardlink
+upornia.com,abxxx.com,f1.blackporn.club,vxxx.com,porntop.com,ooxxx.vip,pornl.com,pornuse.com,f1.upornia.online,f1.xjav.club,txxx.com##.jw-custom-btn.jw-hardlink-btn
+upornia.com,abxxx.com,f1.blackporn.club,vxxx.com,porntop.com,ooxxx.vip,pornl.com,pornuse.com,f1.upornia.online,f1.xjav.club,txxx.com##a.jw-channel-btn-link
 ! ==============================
 ! PORNCLASSIC.TUBE
 ! ==============================
@@ -74,7 +81,6 @@ japan-whores.com##.fh-line2
 japan-whores.com##div[data-original-text*="A d v e r t i s e m e n t"]
 japan-whores.com##.related-videos iframe
 japan-whores.com##a[data-original-text*="UNLOCK FULL"]
-||creative.rmhfrtnd.com^
 
 ! ==============================
 ! ZMDB.NET
@@ -91,16 +97,13 @@ m.yourlust.com##.fluid-b
 ! ==============================
 ! HOT-SEX-TUBE / DRTUBER
 ! ==============================
-
 hot-sex-tube.com,f1.videojav.online##div.afs_ads + div.nopop
 hot-sex-tube.com,xhsocial.com##.xplayer-video-info
-
 
 ! ==============================
 ! WINPORN / KULUJI
 ! ==============================
 m.winporn.club##div.video-overlay
-
 
 ! ==============================
 ! TXXX.ME / JAVHD REDIRECT
@@ -119,8 +122,6 @@ m.viptube.com##a[href*="t.promediaspace.my/redirec"][target="_blank"]
 ! ==============================
 xhsocial.com###messages-counter
 xhsocial.com##div.wGUx-NsRmsp-l-adshare[aria-hidden="true"]
-
-
 
 ! ==============================
 ! INPORN
@@ -327,7 +328,6 @@ www.pornhat.com##.spot_main
 ! ==============================
 ! GLOBAL RULES
 ! ==============================
-||s.gentlefieldpattern.com^$dnsrewrite=ad-block.dns.adguard.com
 go.tscprts.com#%#//scriptlet("no-window-open-if", "tsyndicate.com")
 xfeed.com#%#//scriptlet("no-window-open-if", "tsyndicate.com")
 ! ==============================
@@ -789,10 +789,7 @@ javdaddy.com##[class*=" _videos-slider"]
 pussyspace.com###web_cam
 pussyspace.com##iframe[src*="lazyload.io?ads=true"]
 pussyspace.com##div:has(> iframe[src*="lazyload.io?ads=true"])
-! ==============================
-!=UPORNIA.COM,ABXXX.COM,F1.BLACKPORN.CLUB,VXXX.COM,PORNTOP.COM,OOXXX.VIP,PORNL.COM,PORNUSE.COM,F1.UPORNIA.ONLINE,F1.HCLIPS.ONLINE,F1.XJAV.CLUB,TXXX.COM
-! ==============================
-upornia.com,abxxx.com,f1.blackporn.club,vxxx.com,porntop.com,ooxxx.vip,pornl.com,pornuse.com,f1.upornia.online,f1.xjav.club,txxx.com##.jw-hardlink-inner,.jw-hardlink,.jw-custom-btn.jw-hardlink-btn,a.jw-channel-btn-link
+
 ! ==============================
 !=ABXXX.COM
 ! ==============================
