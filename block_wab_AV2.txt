@@ -76,7 +76,7 @@ zzztube.com##.toplist
 ! ==============================
 ! JAPAN-WHORES.COM
 ! ==============================
-japan-whores.com##a[href^="https://r.trackwilltrk.com/"]
+
 japan-whores.com##.fh-line2
 japan-whores.com##div[data-original-text*="A d v e r t i s e m e n t"]
 japan-whores.com##.related-videos iframe
