@@ -2,9 +2,283 @@
 ! Description: Mobile AV
 ! Homepage: https://github.com/Tony2522tony/ton-blocklist
 ! Expires: 3 days
-! Version: 1.0.12
+! Version: 1.1.13
 !
 
+! ==============================
+! F1.XMILF.VIP
+! ==============================
+f1.xmilf.vip##.fah-btn
+f1.xmilf.vip##.header__category
+! ==============================
+! 3MOVS.COM
+! ==============================
+3movs.com##a.btn.p-ig
+3movs.com##a[href*="mofosnetwork.com"]
+! ==============================
+! ZBPORN.COM
+! ==============================
+zbporn.com###kt_player + #sp-player
+zbporn.com##.block-t
+! ==============================
+! F1.MANYSEX.VIP
+! ==============================
+f1.manysex.vip##.jw-hardlink-inner
+f1.manysex.vip##div.jw-reset + div.nopop
+! ==============================
+! WWW.FAPGURU.COM
+! ==============================
+www.fapguru.com##.video-side__adv_title
+www.fapguru.com##.center-spot
+www.fapguru.com##.header_spot
+! ==============================
+! PORNHAT.TV
+! ==============================
+pornhat.tv##.video-ads-container
+pornhat.tv##.player-ads
+pornhat.tv##div[style*="z-index: 2147483647"]
+pornhat.tv##.fake-play-button
+pornhat.tv##.overlay-reklama
+! ==============================
+! 25-HD.COM
+! ==============================
+25-hd.com##.real-player-container
+25-hd.com##.fake-player-overlay
+25-hd.com##.fake-player-container
+! ==============================
+! REDTUBE.COM
+! ==============================
+redtube.com###playerDiv_220405981 .mgp_thumbnails
+redtube.com###playerDiv_220405981 .mgp_nextVideoOverlay
+redtube.com###playerDiv_220405981 .mgp_backDrop
+redtube.com###playerDiv_220405981 .mgp_debug-info
+redtube.com###playerDiv_220405981 .mgp_settings-menu-wrapper
+redtube.com###no_player
+redtube.com##div[class*="premium_bar"]
+redtube.com##.ad-sdk-overlay
+redtube.com##.mgp_interstitial
+! ==============================
+! REDTUBE.COM / PORNHUB.COM
+! ==============================
+redtube.com,pornhub.com##.mgp_eventCatcher,.mgp_overlayContainer,.mgp_backDrop:style(pointer-events: none !important;)
+redtube.com,pornhub.com##.mgp_nextVideoOverlay,.player_premium_bar:style(display: none !important;)
+! ==============================
+! ABJAV.ME
+! ==============================
+abjav.me##div.headline + div.video-info
+! ==============================
+! SENZURI.TUBE
+! ==============================
+senzuri.tube##.green-blink-dot
+! ==============================
+! W4NKR.COM
+! ==============================
+w4nkr.com###np-controls + #np-pause-overlay
+w4nkr.com##.pink-avd-wrapper
+w4nkr.com##a[href*="a.adtng.com/get/100"][target="_blank"]
+w4nkr.com##div.index-categories-inner + div.container
+w4nkr.com##.in_player_pct_outer
+! ==============================
+! ANYSEX.COM
+! ==============================
+anysex.com##.fluid_html_on_pause_container
+! ==============================
+! 18TOKYO.COM
+! ==============================
+18tokyo.com##a.fp-settings + a.fp-brand
+! ==============================
+! WWW.ANALDIN.XXX
+! ==============================
+www.analdin.xxx##.block-comments-inner
+! ==============================
+! WWW.PORNCAKE.COM
+! ==============================
+www.porncake.com###player + div.underplayer_banner
+www.porncake.com##.center-spot
+! ==============================
+! ASIANPORNXL.COM
+! ==============================
+asianpornxl.com##.above-player-link
+asianpornxl.com###np-controls + #np-pause-overlay
+asianpornxl.com##.pink-avd-inner
+asianpornxl.com##div.index-categories-inner + div.container
+asianpornxl.com##style + div.in_player_video
+asianpornxl.com###np-preview + #np-big-play
+asianpornxl.com###np-loader + #np-skip-ad
+! ==============================
+! WWW.NUVID.COM
+! ==============================
+www.nuvid.com##.drt-spot-inner
+! ==============================
+! M.HD21.COM
+! ==============================
+m.hd21.com##.player_premium_bar
+! ==============================
+! MILFXL.COM
+! ==============================
+milfxl.com###np-pause-overlay
+milfxl.com##.in_player_pct_outer
+milfxl.com##div.index-categories-inner + div.container
+! ==============================
+! FUJAV.COM
+! ==============================
+fujav.com##.fah-btn.nopop
+fujav.com##.jw-hardlink-inner
+! ==============================
+! BIGTITSTOKYO.COM
+! ==============================
+bigtitstokyo.com##div.fp-ui-block
+bigtitstokyo.com##.info-holder
+bigtitstokyo.com##.fh-line
+bigtitstokyo.com##.main-cams
+bigtitstokyo.com##.fp-brand
+bigtitstokyo.com##.fh-line2
+bigtitstokyo.com##.player-top-line.shown
+! ==============================
+! F1.01TUBE.VIP
+! ==============================
+f1.01tube.vip##iframe[scrolling="no"][title][style="pointer-events: auto;"]
+f1.01tube.vip##.wrapper > section:nth-of-type(2)
+! ==============================
+! M.PROPORN.COM
+! ==============================
+m.proporn.com##.video-overlay
+! ==============================
+! WWW.PORNSOS.COM
+! ==============================
+www.pornsos.com###bottomhead + #topblock_iframe
+! ==============================
+! JAPAN-WHORES.COM
+! ==============================
+japan-whores.com##.fp-brand
+japan-whores.com##.video-strip-tile
+japan-whores.com##div.fp-ui + a.fp-logo
+! ==============================
+! VOYEURHIT.TUBE
+! ==============================
+voyeurhit.tube##.jw-hardlink-inner
+! ==============================
+! TH.XHAMSTER.COM
+! ==============================
+th.xhamster.com##.AIjq-ojwx
+th.xhamster.com##.AIjq-ojwxcam-thumb
+th.xhamster.com##.AIjq-ojwxcam-wgt
+! ==============================
+! TXXX.ME
+! ==============================
+txxx.me##.sugggestio
+! ==============================
+! NUVID.COM
+! ==============================
+nuvid.com##a.player_premium_bar
+! ==============================
+! G5.PLIBCDN.COM
+! ==============================
+g5.plibcdn.com##+js(remove, #video_seek)
+g5.plibcdn.com##+js(remove, #video_click)
+g5.plibcdn.com##+js(remove, a.ad-title)
+g5.plibcdn.com##+js(remove-attr, video[preroll], preroll)
+g5.plibcdn.com##+js(set-attr, #play_dvd_html5, style, "display: inline-block !important;")
+g5.plibcdn.com##+js(remove, #video_preview_thumb)
+! ==============================
+! M.ALPHAPORNO.COM
+! ==============================
+m.alphaporno.com##.top-banners
+! ==============================
+! PORNID.XXX
+! ==============================
+www.pornid.xxx##body.mb-picking-mode[contenteditable="false"]
+www.pornid.xxx##div.spots-title + center
+www.pornid.xxx##.player-top-line.shown
+www.pornid.xxx##.top-spot
+www.pornid.xxx###kt_player + div.sp-player
+! ==============================
+! SEXVID.XXX
+! ==============================
+www.sexvid.xxx##.spot-holder
+www.sexvid.xxx##.player-top-line
+www.sexvid.xxx###kt_player + #slot-player
+www.sexvid.xxx###fltd
+! ==============================
+! HD21.COM / M.HD21.COM
+! ==============================
+m.hd21.com##.video-overlay
+hd21.com##.advertisment_block
+! ==============================
+! F1.XMILF.VIP
+! ==============================
+f1.xmilf.vip##.jw-hardlink-inner
+f1.xmilf.vip##.jw-custom-btn
+f1.xmilf.vip##.fh-line2
+! ==============================
+! JAPAN-WHORES.COM
+! ==============================
+japan-whores.com##.fp-ui-block
+japan-whores.com##.fp-logo
+japan-whores.com##.fp-logo.text
+japan-whores.com##div[style*="z-index:171"]
+japan-whores.com##.video-strip-shell
+japan-whores.com##.fh-line2
+! ==============================
+! POVJP.COM
+! ==============================
+povjp.com##iframe[src*="povjp.com/embed/"]
+povjp.com##.fp-poster
+povjp.com##.fp-ui-block
+povjp.com##div[style*="z-index: 2147483647"]
+! ==============================
+! X-VIDEOZ.COM / F1.VIDEOJAV.ONLINE
+! ==============================
+x-videoz.com,f1.videojav.online##.jw-buble
+! ==============================
+! DEVIANTS.COM
+! ==============================
+www.deviants.com##div[align="center"]
+! ==============================
+! TNAFLIX.COM
+! ==============================
+tnaflix.com##.plyr__poster
+tnaflix.com##.plyr__preview-scrubbing
+! ==============================
+! JAPFLAPS.COM
+! ==============================
+japflaps.com##.comment-count-wrap.mob
+japflaps.com##.btn-download
+japflaps.com##.btn-d4te
+japflaps.com###np-preview + #np-big-play
+japflaps.com##a[href^="https://fhgte.com/"]
+japflaps.com##div.item + div.thumb2
+! ==============================
+! EBONY8.COM
+! ==============================
+www.ebony8.com##.top2.pignu
+www.ebony8.com##.fp-ui-block
+! ==============================
+! 25-HD.COM
+! ==============================
+25-hd.com##.fake-player-overlay
+! ==============================
+! EPORNER.COM
+! ==============================
+www.eporner.com##.uvmspn1
+! ==============================
+! ZMDB.NET
+! ==============================
+zmdb.net##.absolute
+! ==============================
+! 3MOVS.COM
+! ==============================
+www.3movs.com##a[href^="http://www.blazinglink.com/"]
+! ==============================
+! JIZZBERRY.COM
+! ==============================
+jizzberry.com###list_videos_custom_related_sphinx_tab
+jizzberry.com##.flexible-container.content > .box
+jizzberry.com##.nm1KL0eX
+! ==============================
+! HOTMOVS.COM
+! ==============================
+hotmovs.com##.video-page__related
 ! ==============================
 ! UPORNIA.COM / ABXXX.COM / MULTI JW FIX
 ! ==============================
