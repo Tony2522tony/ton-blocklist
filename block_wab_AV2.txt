@@ -2,7 +2,7 @@
 ! Description: Mobile AV
 ! Homepage: https://github.com/Tony2522tony/ton-blocklist
 ! Expires: 3 days
-! Version: 1.1.13
+! Version: 1.1.14
 !
 
 ! ==============================
@@ -39,12 +39,7 @@ pornhat.tv##.player-ads
 pornhat.tv##div[style*="z-index: 2147483647"]
 pornhat.tv##.fake-play-button
 pornhat.tv##.overlay-reklama
-! ==============================
-! 25-HD.COM
-! ==============================
-25-hd.com##.real-player-container
-25-hd.com##.fake-player-overlay
-25-hd.com##.fake-player-container
+
 ! ==============================
 ! REDTUBE.COM
 ! ==============================
@@ -253,10 +248,7 @@ japflaps.com##div.item + div.thumb2
 ! ==============================
 www.ebony8.com##.top2.pignu
 www.ebony8.com##.fp-ui-block
-! ==============================
-! 25-HD.COM
-! ==============================
-25-hd.com##.fake-player-overlay
+
 ! ==============================
 ! EPORNER.COM
 ! ==============================
