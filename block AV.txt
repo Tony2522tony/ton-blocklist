@@ -2,7 +2,7 @@
 ! Description: Mobile ads Av
 ! Homepage: https://github.com/Tony2522tony/ton-blocklist
 ! Expires: 1 days
-! Version: 5.4.3
+! Version: 5.4.4
 !
 
 ! ==============================
@@ -724,10 +724,7 @@ f1.inporn.vip##div[style*="position: fixed"]
 f1.inporn.vip##div[style*="z-index"][style*="fixed"]
 f1.inporn.vip##+js(window-open-defuser)
 f1.inporn.vip##+js(aopr,open)
-! ===== PORNOXO.COM =====
-pornoxo.com##div.modal.custom.visible
-pornoxo.com##body:style(overflow:auto!important;)
-pornoxo.com##html:style(overflow:auto!important;)
+
 ! ===== SENZURI.TUBE =====
 senzuri.tube##.videos-tube-friends
 senzuri.tube###app > div.content:nth-child(3) > div:last-child > div:nth-child(2)
@@ -932,13 +929,7 @@ sex3.com##div.block-info
 ! ===== jizzbunker.com =====
 jizzbunker.com##div.panel.panel-default > div.panel-body
 jizzbunker.com##div.panel-rklcontent-wide
-! ===== pornoxo SAFE =====
-pornoxo.com##div.adblock
-pornoxo.com##div[class*="popup"]
-pornoxo.com##a[href*="go"]
-pornoxo.com##a:nth-child(4) > div
-pornoxo.com##div[style*="position: fixed"]
-pornoxo.com##body:style(overflow:auto!important;)
+
 ! ===== abjav =====
 abjav.me##div.header__item.header_mobile
 abjav.me##div[data-v-4c6c26b0][style]
