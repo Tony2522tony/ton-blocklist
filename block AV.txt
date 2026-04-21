@@ -5,7 +5,7 @@
 ! Version: 5.4.4
 !
 
-! ==============================
+! =============================
 ! 4KPORN.XXX
 ! ==============================
 4kporn.xxx##div.adswarning iframe
@@ -1150,14 +1150,6 @@ kahirihome.com##.elementor-location-single > .e-con-boxed:first-child .elementor
 ! ===== DE88.ME =====
 de88.me##img[src*="/tothe/"]
 de88.me##img[src*="Frozen-Hot-Boy1"]
-
-! ===== pornoxo SAFE =====
-pornoxo.com##div.adblock
-pornoxo.com##div[class*="popup"]
-pornoxo.com##a[href*="go"]
-pornoxo.com##a:nth-child(4) > div
-pornoxo.com##div[style*="position: fixed"]
-pornoxo.com##body:style(overflow:auto!important;)
 
 ! ===== abjav =====
 abjav.me##div.header__item.header_mobile
