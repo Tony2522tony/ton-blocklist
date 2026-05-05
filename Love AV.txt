@@ -1,7 +1,137 @@
-! Title: 👻 Love AV
+! Title: 🔞 Love AV
 ! Description: ads av
 ! Homepage: https://github.com/Tony2522tony/ton-blocklist
 ! Expires: 1 days
 ! Version: 0.1.0
 !
+
+! ==============================
+! ANYPORN.COM
+! ==============================
+anyporn.com##.tab-content
+! ==============================
+! EPORNER.COM
+! ==============================
+www.eporner.com###video-info-tags > ul
+! ==============================
+! XHAMSTER.COM
+! ==============================
+th.xhamster.com##a[href*="th.xhamster.com/ff/out"][target="_blank"]
+th.xhamster.com##a[href^="https://fhchannel.com/"]
+th.xhamster.com##a[href^="https://xhamsterlive.com/"]
+! ==============================
+! SPANKBANG.COM
+! ==============================
+th.spankbang.com##.js-native-ad
+! ==============================
+! PORNOXO.COM
+! ==============================
+www.pornoxo.com##.content-block.no-popup
+www.pornoxo.com##div.no-popup + a
+pornoxo.com##div.modal.custom.visible
+! ==============================
+! JAPAN-WHORES.COM
+! ==============================
+japan-whores.com##style + a.fh-line
+
+! ==============================
+! REDTUBE.COM
+! ==============================
+www.redtube.com##.mgp_upper-buttons-left
+! ==============================
+! UPORNIA.ONLINE
+! ==============================
+f1.upornia.online##a[href^="https://ctwmsg.com/"]
+! ==============================
+! JAPFLAPS.COM
+! ==============================
+japflaps.com###np-pause-overlay
+japflaps.com##.above-player-link
+japflaps.com###aggw-slot
+! ==============================
+! JIZZBUNKER.COM
+! ==============================
+jizzbunker.com##div.movie + a.player-cta
+jizzbunker.com##div.zx1p
+jizzbunker.com###scrollTarget + div.mob-bfr-plr
+
+! ==============================
+! TUBEON.CLUB
+! ==============================
+m.tubeon.club##.btn-fluid-primary
+! ==============================
+! BLACKPORN.CLUB
+! ==============================
+f1.blackporn.club##.header__item
+! ==============================
+! PORNWATCHERS.COM
+! ==============================
+www.pornwatchers.com##.top
+! ==============================
+! PORNRABBIT.COM
+! ==============================
+www.pornrabbit.com##.top
+! ==============================
+! KULUJI.XYZ
+! ==============================
+t.kuluji.xyz^$document,important
+t.kuluji.xyz^$subdocument
+||t.kuluji.xyz/redirect/$document,important
+||t.kuluji.xyz^$document,removeparam=p2
+t.kuluji.xyz##+js(ra, location.href)
+t.kuluji.xyz##+js(ra, location.assign)
+t.kuluji.xyz##+js(ra, location.replace)
+||t.kuluji.xyz^$frame,subdocument
+! ==============================
+! INPORN.VIP
+! ==============================
+f1.inporn.vip##.container
+! ==============================
+! NUVID.COM
+! ==============================
+www.nuvid.com##div.drt-menu-bar + div.drt-spot-box
+www.nuvid.com##.drt-spot-inner
+m.nuvid.com##.vpn-button2
+m.nuvid.com##.quality-choice
+! ==============================
+! VERYFREEPORN.COM
+! ==============================
+www.veryfreeporn.com##.video-side__adv_title
+www.veryfreeporn.com##div.video-side__adv_title + div.center-spot
+www.veryfreeporn.com##.underplayer_banner
+! ==============================
+! WINPORN.CLUB / WINPORN.COM
+! ==============================
+m.winporn.club,m.nuvid.com##.quality-choice
+m.winporn.club###mobile-middle-2
+||m.winporn.com^$script
+||m.winporn.club^$script
+||m.winporn.com^$frame
+||m.winporn.club^$frame
+||m.winporn.com^$document
+! ==============================
+! HAPPY-PORN.COM
+! ==============================
+happy-porn.com###mb-debug-host
+happy-porn.com##div[id^="mb-"][style*="z-index"]
+happy-porn.com##.zx1p
+happy-porn.com##.zx1.pl_mob
+happy-porn.com##[class*="zx"]
+! ==============================
+! OK.XXX
+! ==============================
+ok.xxx##.before-player.text
+! ==============================
+! VIPTUBE.COM
+! ==============================
+www.viptube.com##div.drt-spot-title + div.drt-spot-frame
+! ==============================
+! MANYSEX.VIP
+! ==============================
+f1.manysex.vip###hlll_0 + #hlll_1
+! ==============================
+! POVJP.COM
+! ==============================
+povjp.com##.fp-brand
+povjp.com##div.comment-count
 
