@@ -2,7 +2,7 @@
 ! Description: Adult / video site ads + residue cleaner (uBlock companion)
 ! Homepage: https://github.com/Tony2522tony/ton-blocklist
 ! Expires: 1 days
-! Version: 1.6.45
+! Version: 1.6.46
 !
 
 !=====หนังไทย====
@@ -132,7 +132,7 @@ www.037hddmovie.com##a[rel*="nofollow noopener"]
 ||neonewsspace.my/redirect^$document
 
 ! ===== Umeng (จีน) =====
-||umeng.com^
+
 ||umengcloud.com^
 ||ad.twinrdengine.com^$third-party
 ||t.fastblogzone.my^$third-party
@@ -153,7 +153,7 @@ www.037hddmovie.com##a[rel*="nofollow noopener"]
 ||tagmanager.google.com^
 
 !=****===ALL WED===****=====
-##img[alt*="PGK44"]
+
 ###pre_ad_close_btn_ad_player_abbe4138-44d4-4e4c-86b4-155fb7ce3a32
 ##img[src^="https://image.cdend.com/"]
 ##a[href][target="_blank"][onclick*="banner"]
