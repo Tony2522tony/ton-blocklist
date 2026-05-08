@@ -2,9 +2,117 @@
 ! Description: Mobile AV
 ! Homepage: https://github.com/Tony2522tony/ton-blocklist
 ! Expires: 3 days
-! Version: 1.1.14
+! Version: 1.1.15
 !
 
+! ==============================
+! TXXX.ME
+! ==============================
+txxx.me##span.fah-btn__label
+
+! ==============================
+! F1.KEPORN.COM
+! ==============================
+f1.keporn.com##div.prev-button + div.container
+
+! ==============================
+! PORNUSE.COM
+! ==============================
+pornuse.com##.jw-channel
+pornuse.com##.partners
+
+! ==============================
+! JIZZBUNKER.COM
+! ==============================
+jizzbunker.com##.mob-bfr-plr
+
+! ==============================
+! M.PROPORN.COM
+! ==============================
+m.proporn.com##.quality-choice
+
+! ==============================
+! BIGTITSLUST.COM
+! ==============================
+www.bigtitslust.com##div.player-holder + div.top2
+
+! ==============================
+! JAPANESEMATURES.COM
+! ==============================
+japanesematures.com##div.fp-ui + div.shown
+japanesematures.com##style + a.fh-line
+japanesematures.com##div.box + div.main-cams-wrap
+
+! ==============================
+! XMILF.COM
+! ==============================
+xmilf.com##nav.nav + div.header__top-categories
+
+! ==============================
+! HDTUBE.PORN
+! ==============================
+www.hdtube.porn##.banners--mobile
+
+! ==============================
+! XTITS.COM
+! ==============================
+www.xtits.com##.mobile-box
+
+! ==============================
+! 4KPORN.XXX
+! ==============================
+4kporn.xxx##.sponsorsmall
+
+! ==============================
+! PORN00.ORG
+! ==============================
+www.porn00.org###headline7-container > div
+www.porn00.org##.bottom-adv
+
+! ==============================
+! OK.XXX
+! ==============================
+ok.xxx##div.fluid_html_on_pause + div.spot
+
+! ==============================
+! PORN4DAYS.PW
+! ==============================
+porn4days.pw###embededvideo > div.overlay1
+||thaffeam.in^
+||a.holimsishoe.click^$script,third-party
+||pemsrv.com^$script,third-party
+||dedomtr.pro^$script,third-party
+
+! ==============================
+! PORNXP.PH
+! ==============================
+pornxp.ph##.sp_results_m
+pornxp.ph##.sp_top_m
+
+! ==============================
+! HIMUHI / GCDN / RELATED
+! ==============================
+||t.himuhi.my^
+||himuhi.my^$script,third-party
+||gcdn.co^$script,third-party
+||cl-glc54c9091.gcdn.co^
+
+! ==============================
+! PORNHUB.ORG
+! ==============================
+www.pornhub.org##.fromRow
+www.pornhub.org##.js-drawer-trigger
+
+! ==============================
+! HARDPORNO.TUBE
+! ==============================
+hardporno.tube##.mobile-rnd
+
+! ==============================
+! KULUJI.XYZ
+! ==============================
+kuluji.xyz#%#//scriptlet('prevent-setTimeout', 'redirect')
+||kuluji.xyz^$removeparam=/^(?:redirect|url|to|goto)$/
 ! ==============================
 ! F1.XMILF.VIP
 ! ==============================
