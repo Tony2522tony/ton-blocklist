@@ -133,7 +133,7 @@ www.037hddmovie.com##a[rel*="nofollow noopener"]
 
 ! ===== Umeng (จีน) =====
 
-||umengcloud.com^
+
 ||ad.twinrdengine.com^$third-party
 
 ||mrdmca.com^$third-party
